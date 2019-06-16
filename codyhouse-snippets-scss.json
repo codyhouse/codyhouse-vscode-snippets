@@ -14,7 +14,7 @@
 		"description": "show visually hidden (accessible) content"
   },
 	"breakpoint (xs)": {
-		"prefix": "{breakpoint} @xs",
+		"prefix": "@xs",
 		"body": [
 			"@include breakpoint(xs) {",
 			"  ${1}",
@@ -23,7 +23,7 @@
 		"description": "Add media query for breakpoint (xs)"
   },
   "breakpoint (sm)": {
-		"prefix": "{breakpoint} @sm",
+		"prefix": "@sm",
 		"body": [
 			"@include breakpoint(sm) {",
 			"  ${1}",
@@ -32,7 +32,7 @@
 		"description": "Add media query for breakpoint (sm)"
   },
   "breakpoint (md)": {
-		"prefix": "{breakpoint} @md",
+		"prefix": "@md",
 		"body": [
 			"@include breakpoint(md) {",
 			"  ${1}",
@@ -41,7 +41,7 @@
 		"description": "Add media query for breakpoint (md)"
   },
   "breakpoint (lg)": {
-		"prefix": "{breakpoint} @lg",
+		"prefix": "@lg",
 		"body": [
 			"@include breakpoint(lg) {",
 			"  ${1}",
@@ -50,7 +50,7 @@
 		"description": "Add media query for breakpoint (lg)"
   },
   "breakpoint (xl)": {
-		"prefix": "{breakpoint} @xl",
+		"prefix": "@xl",
 		"body": [
 			"@include breakpoint(xl) {",
 			"  ${1}",
@@ -346,28 +346,28 @@
 		"description": "set new space unit"
   },
   "bounce timing function": {
-		"prefix": "{timing function} --bounce",
+		"prefix": "--bounce timing function",
 		"body": [
 			"var(--bounce)"
 		],
 		"description": "bounce timing function"
   },
   "ease-in-out timing function": {
-		"prefix": "{timing function} --ease-in-out",
+		"prefix": "--ease-in-out timing function",
 		"body": [
 			"var(--ease-in-out)"
 		],
 		"description": "ease-in-out timing function"
   },
   "ease-in timing function": {
-		"prefix": "{timing function} --ease-in",
+		"prefix": "--ease-in timing function",
 		"body": [
 			"var(--ease-in)"
 		],
 		"description": "ease-in timing function"
   },
   "ease-out timing function": {
-		"prefix": "{timing function} --ease-out",
+		"prefix": "--ease-out timing function",
 		"body": [
 			"var(--ease-out)"
 		],
