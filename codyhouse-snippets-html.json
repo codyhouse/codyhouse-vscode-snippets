@@ -1,0 +1,3320 @@
+{
+  "sr-only": {
+		"prefix": "sr-only",
+		"body": [
+			"sr-only"
+		],
+		"description": "Hide content visually, but keep it accessible to SR"
+  },
+  "button": {
+		"prefix": "btn",
+		"body": [
+			"btn"
+		],
+		"description": "button component"
+  },
+  "button primary": {
+		"prefix": "btn--primary",
+		"body": [
+			"btn--primary"
+		],
+		"description": "button primary"
+  },
+  "button subtle": {
+		"prefix": "btn--subtle",
+		"body": [
+			"btn--subtle"
+		],
+		"description": "button subtle"
+  },
+  "button--accent": {
+		"prefix": "btn--accent",
+		"body": [
+			"btn--accent"
+		],
+		"description": "button accent"
+  },
+  "button sm": {
+		"prefix": "btn--sm",
+		"body": [
+			"btn--sm"
+		],
+		"description": "button size sm"
+  },
+  "button md": {
+		"prefix": "btn--md",
+		"body": [
+			"btn--md"
+		],
+		"description": "button size md"
+  },
+  "button lg": {
+		"prefix": "btn--lg",
+		"body": [
+			"btn--lg"
+		],
+		"description": "button size lg"
+  },
+  "icon": {
+		"prefix": "icon",
+		"body": [
+			"icon"
+		],
+		"description": "icon component"
+  },
+  "icon xxs": {
+		"prefix": "icon--xxs",
+		"body": [
+			"icon--xxs"
+		],
+		"description": "icon size xxs"
+  },
+  "icon xs": {
+		"prefix": "icon--xs",
+		"body": [
+			"icon--xs"
+		],
+		"description": "icon size xs"
+  },
+  "icon sm": {
+		"prefix": "icon--sm",
+		"body": [
+			"icon--sm"
+		],
+		"description": "icon size sm"
+  },
+  "icon md": {
+		"prefix": "icon--md",
+		"body": [
+			"icon--md"
+		],
+		"description": "icon size md"
+  },
+  "icon lg": {
+		"prefix": "icon--lg",
+		"body": [
+			"icon--lg"
+		],
+		"description": "icon size lg"
+  },
+  "icon xl": {
+		"prefix": "icon--xl",
+		"body": [
+			"icon--xl"
+		],
+		"description": "icon size xl"
+  },
+  "icon xxl": {
+		"prefix": "icon--xxl",
+		"body": [
+			"icon--xxl"
+		],
+		"description": "icon size xxl"
+  },
+  "icon is-spinning": {
+		"prefix": "icon--is-spinning",
+		"body": [
+			"icon--is-spinning"
+		],
+		"description": "rotate the icon infinitely"
+  },
+  "reset": {
+		"prefix": "reset",
+		"body": [
+			"reset"
+		],
+		"description": "reset user agent style"
+  },
+  "flex": {
+		"prefix": "{flex} flex",
+		"body": [
+			"flex"
+		],
+		"description": "display: flex"
+  },
+  "inline-flex": {
+		"prefix": "{flex} inline-flex",
+		"body": [
+			"inline-flex"
+		],
+		"description": "display: inline-flex"
+  },
+  "flex-wrap": {
+		"prefix": "{flex} flex-wrap",
+		"body": [
+			"flex-wrap"
+		],
+		"description": "flex-wrap: wrap"
+  },
+  "flex-column": {
+		"prefix": "{flex} flex-column",
+		"body": [
+			"flex-column"
+		],
+		"description": "flex-direction: column"
+  },
+  "flex-row": {
+		"prefix": "{flex} flex-row",
+		"body": [
+			"flex-row"
+		],
+		"description": "flex-direction: row"
+  },
+  "flex-center": {
+		"prefix": "{flex} flex-center",
+		"body": [
+			"flex-center"
+		],
+		"description": "align child element on both axis"
+  },
+  "justify-start": {
+		"prefix": "{flex} justify-start",
+		"body": [
+			"justify-start"
+		],
+		"description": "justify-content: flex-start"
+  },
+  "justify-end": {
+		"prefix": "{flex} justify-end",
+		"body": [
+			"justify-end"
+		],
+		"description": "justify-content: flex-end"
+  },
+  "justify-center": {
+		"prefix": "{flex} justify-center",
+		"body": [
+			"justify-center"
+		],
+		"description": "justify-content: center"
+  },
+  "justify-between": {
+		"prefix": "{flex} justify-between",
+		"body": [
+			"justify-between"
+		],
+		"description": "justify-content: space-between"
+  },
+  "items-center": {
+		"prefix": "{flex} items-center",
+		"body": [
+			"items-center"
+		],
+		"description": "align-items: center"
+  },
+  "items-start": {
+		"prefix": "{flex} items-start",
+		"body": [
+			"items-start"
+		],
+		"description": "align-items: flex-start"
+  },
+  "items-end": {
+		"prefix": "{flex} items-end",
+		"body": [
+			"items-end"
+		],
+		"description": "align-items: flex-end"
+  },
+  "flex-wrap@xs": {
+		"prefix": "flex-wrap@xs",
+		"body": [
+			"flex-wrap@xs"
+		],
+		"description": "flex-wrap: wrap @xs"
+  },
+  "flex-column@xs": {
+		"prefix": "flex-column@xs",
+		"body": [
+			"flex-column@xs"
+		],
+		"description": "flex-direction: column @xs"
+  },
+  "flex-row@xs": {
+		"prefix": "flex-row@xs",
+		"body": [
+			"flex-row@xs"
+		],
+		"description": "flex-direction: row @xs"
+  },
+  "flex-center@xs": {
+		"prefix": "flex-center@xs",
+		"body": [
+			"flex-center@xs"
+		],
+		"description": "align child element on both axis @xs"
+  },
+  "justify-start@xs": {
+		"prefix": "justify-start@xs",
+		"body": [
+			"justify-start@xs"
+		],
+		"description": "justify-content: flex-start @xs"
+  },
+  "justify-end@xs": {
+		"prefix": "justify-end@xs",
+		"body": [
+			"justify-end@xs"
+		],
+		"description": "justify-content: flex-end @xs"
+  },
+  "justify-center@xs": {
+		"prefix": "justify-center@xs",
+		"body": [
+			"justify-center@xs"
+		],
+		"description": "justify-content: center @xs"
+  },
+  "justify-between@xs": {
+		"prefix": "justify-between@xs",
+		"body": [
+			"justify-between@xs"
+		],
+		"description": "justify-content: space-between @xs"
+  },
+  "items-center@xs": {
+		"prefix": "items-center@xs",
+		"body": [
+			"items-center@xs"
+		],
+		"description": "align-items: center @xs"
+  },
+  "items-start@xs": {
+		"prefix": "items-start@xs",
+		"body": [
+			"items-start@xs"
+		],
+		"description": "align-items: flex-start @xs"
+  },
+  "items-end@xs": {
+		"prefix": "items-end@xs",
+		"body": [
+			"items-end@xs"
+		],
+		"description": "align-items: flex-end @xs"
+  },
+  "flex-wrap@sm": {
+		"prefix": "flex-wrap@sm",
+		"body": [
+			"flex-wrap@sm"
+		],
+		"description": "flex-wrap: wrap @sm"
+  },
+  "flex-column@sm": {
+		"prefix": "flex-column@sm",
+		"body": [
+			"flex-column@sm"
+		],
+		"description": "flex-direction: column @sm"
+  },
+  "flex-row@sm": {
+		"prefix": "flex-row@sm",
+		"body": [
+			"flex-row@sm"
+		],
+		"description": "flex-direction: row @sm"
+  },
+  "flex-center@sm": {
+		"prefix": "flex-center@sm",
+		"body": [
+			"flex-center@sm"
+		],
+		"description": "align child element on both axis @sm"
+  },
+  "justify-start@sm": {
+		"prefix": "justify-start@sm",
+		"body": [
+			"justify-start@sm"
+		],
+		"description": "justify-content: flex-start @sm"
+  },
+  "justify-end@sm": {
+		"prefix": "justify-end@sm",
+		"body": [
+			"justify-end@sm"
+		],
+		"description": "justify-content: flex-end @sm"
+  },
+  "justify-center@sm": {
+		"prefix": "justify-center@sm",
+		"body": [
+			"justify-center@sm"
+		],
+		"description": "justify-content: center @sm"
+  },
+  "justify-between@sm": {
+		"prefix": "justify-between@sm",
+		"body": [
+			"justify-between@sm"
+		],
+		"description": "justify-content: space-between @sm"
+  },
+  "items-center@sm": {
+		"prefix": "items-center@sm",
+		"body": [
+			"items-center@sm"
+		],
+		"description": "align-items: center @sm"
+  },
+  "items-start@sm": {
+		"prefix": "items-start@sm",
+		"body": [
+			"items-start@sm"
+		],
+		"description": "align-items: flex-start @sm"
+  },
+  "items-end@sm": {
+		"prefix": "items-end@sm",
+		"body": [
+			"items-end@sm"
+		],
+		"description": "align-items: flex-end @sm"
+  },
+  "flex-wrap@md": {
+		"prefix": "flex-wrap@md",
+		"body": [
+			"flex-wrap@md"
+		],
+		"description": "flex-wrap: wrap @md"
+  },
+  "flex-column@md": {
+		"prefix": "flex-column@md",
+		"body": [
+			"flex-column@md"
+		],
+		"description": "flex-direction: column @md"
+  },
+  "flex-row@md": {
+		"prefix": "flex-row@md",
+		"body": [
+			"flex-row@md"
+		],
+		"description": "flex-direction: row @md"
+  },
+  "flex-center@md": {
+		"prefix": "flex-center@md",
+		"body": [
+			"flex-center@md"
+		],
+		"description": "align child element on both axis @md"
+  },
+  "justify-start@md": {
+		"prefix": "justify-start@md",
+		"body": [
+			"justify-start@md"
+		],
+		"description": "justify-content: flex-start @md"
+  },
+  "justify-end@md": {
+		"prefix": "justify-end@md",
+		"body": [
+			"justify-end@md"
+		],
+		"description": "justify-content: flex-end @md"
+  },
+  "justify-center@md": {
+		"prefix": "justify-center@md",
+		"body": [
+			"justify-center@md"
+		],
+		"description": "justify-content: center @md"
+  },
+  "justify-between@md": {
+		"prefix": "justify-between@md",
+		"body": [
+			"justify-between@md"
+		],
+		"description": "justify-content: space-between @md"
+  },
+  "items-center@md": {
+		"prefix": "items-center@md",
+		"body": [
+			"items-center@md"
+		],
+		"description": "align-items: center @md"
+  },
+  "items-start@md": {
+		"prefix": "items-start@md",
+		"body": [
+			"items-start@md"
+		],
+		"description": "align-items: flex-start @md"
+  },
+  "items-end@md": {
+		"prefix": "items-end@md",
+		"body": [
+			"items-end@md"
+		],
+		"description": "align-items: flex-end @md"
+  },
+  "flex-wrap@lg": {
+		"prefix": "flex-wrap@lg",
+		"body": [
+			"flex-wrap@lg"
+		],
+		"description": "flex-wrap: wrap @lg"
+  },
+  "flex-column@lg": {
+		"prefix": "flex-column@lg",
+		"body": [
+			"flex-column@lg"
+		],
+		"description": "flex-direction: column @lg"
+  },
+  "flex-row@lg": {
+		"prefix": "flex-row@lg",
+		"body": [
+			"flex-row@lg"
+		],
+		"description": "flex-direction: row @lg"
+  },
+  "flex-center@lg": {
+		"prefix": "flex-center@lg",
+		"body": [
+			"flex-center@lg"
+		],
+		"description": "align child element on both axis @lg"
+  },
+  "justify-start@lg": {
+		"prefix": "justify-start@lg",
+		"body": [
+			"justify-start@lg"
+		],
+		"description": "justify-content: flex-start @lg"
+  },
+  "justify-end@lg": {
+		"prefix": "justify-end@lg",
+		"body": [
+			"justify-end@lg"
+		],
+		"description": "justify-content: flex-end @lg"
+  },
+  "justify-center@lg": {
+		"prefix": "justify-center@lg",
+		"body": [
+			"justify-center@lg"
+		],
+		"description": "justify-content: center @lg"
+  },
+  "justify-between@lg": {
+		"prefix": "justify-between@lg",
+		"body": [
+			"justify-between@lg"
+		],
+		"description": "justify-content: space-between @lg"
+  },
+  "items-center@lg": {
+		"prefix": "items-center@lg",
+		"body": [
+			"items-center@lg"
+		],
+		"description": "align-items: center @lg"
+  },
+  "items-start@lg": {
+		"prefix": "items-start@lg",
+		"body": [
+			"items-start@lg"
+		],
+		"description": "align-items: flex-start @lg"
+  },
+  "items-end@lg": {
+		"prefix": "items-end@lg",
+		"body": [
+			"items-end@lg"
+		],
+		"description": "align-items: flex-end @lg"
+  },
+  "flex-wrap@xl": {
+		"prefix": "flex-wrap@xl",
+		"body": [
+			"flex-wrap@xl"
+		],
+		"description": "flex-wrap: wrap @xl"
+  },
+  "flex-column@xl": {
+		"prefix": "flex-column@xl",
+		"body": [
+			"flex-column@xl"
+		],
+		"description": "flex-direction: column @xl"
+  },
+  "flex-row@xl": {
+		"prefix": "flex-row@xl",
+		"body": [
+			"flex-row@xl"
+		],
+		"description": "flex-direction: row @xl"
+  },
+  "flex-center@xl": {
+		"prefix": "flex-center@xl",
+		"body": [
+			"flex-center@xl"
+		],
+		"description": "align child element on both axis @xl"
+  },
+  "justify-start@xl": {
+		"prefix": "justify-start@xl",
+		"body": [
+			"justify-start@xl"
+		],
+		"description": "justify-content: flex-start @xl"
+  },
+  "justify-end@xl": {
+		"prefix": "justify-end@xl",
+		"body": [
+			"justify-end@xl"
+		],
+		"description": "justify-content: flex-end @xl"
+  },
+  "justify-center@xl": {
+		"prefix": "justify-center@xl",
+		"body": [
+			"justify-center@xl"
+		],
+		"description": "justify-content: center @xl"
+  },
+  "justify-between@xl": {
+		"prefix": "justify-between@xl",
+		"body": [
+			"justify-between@xl"
+		],
+		"description": "justify-content: space-between @xl"
+  },
+  "items-center@xl": {
+		"prefix": "items-center@xl",
+		"body": [
+			"items-center@xl"
+		],
+		"description": "align-items: center @xl"
+  },
+  "items-start@xl": {
+		"prefix": "items-start@xl",
+		"body": [
+			"items-start@xl"
+		],
+		"description": "align-items: flex-start @xl"
+  },
+  "items-end@xl": {
+		"prefix": "items-end@xl",
+		"body": [
+			"items-end@xl"
+		],
+		"description": "align-items: flex-end @xl"
+  },
+  "flex-grow": {
+		"prefix": "{flex} flex-grow",
+		"body": [
+			"flex-grow"
+		],
+		"description": "flex-grow: 1"
+  },
+  "flex-shrink-0": {
+		"prefix": "{flex} flex-shrink-0",
+		"body": [
+			"flex-shrink-0"
+		],
+		"description": "flex-shrink: 0"
+  },
+  "flex gap xxxs": {
+		"prefix": "{flex} flex-gap-xxxs",
+		"body": [
+			"flex-gap-xxxs"
+		],
+		"description": "flex gap xxxs"
+  },
+  "flex gap xxs": {
+		"prefix": "{flex} flex-gap-xxs",
+		"body": [
+			"flex-gap-xxs"
+		],
+		"description": "flex gap xxs"
+  },
+  "flex gap xs": {
+		"prefix": "{flex} flex-gap-xs",
+		"body": [
+			"flex-gap-xs"
+		],
+		"description": "flex gap xs"
+  },
+  "flex gap sm": {
+		"prefix": "{flex} flex-gap-sm",
+		"body": [
+			"flex-gap-sm"
+		],
+		"description": "flex gap sm"
+  },
+  "flex gap md": {
+		"prefix": "{flex} flex-gap-md",
+		"body": [
+			"flex-gap-md"
+		],
+		"description": "flex gap md"
+  },
+  "flex gap lg": {
+		"prefix": "{flex} flex-gap-lg",
+		"body": [
+			"flex-gap-lg"
+		],
+		"description": "flex gap lg"
+  },
+  "flex gap xl": {
+		"prefix": "{flex} flex-gap-xl",
+		"body": [
+			"flex-gap-xl"
+		],
+		"description": "flex gap xl"
+  },
+  "flex gap xxl": {
+		"prefix": "{flex} flex-gap-xxl",
+		"body": [
+			"flex-gap-xxl"
+		],
+		"description": "flex gap xxl"
+  },
+  "flex gap xxxl": {
+		"prefix": "{flex} flex-gap-xxxl",
+		"body": [
+			"flex-gap-xxxl"
+		],
+		"description": "flex gap xxxl"
+  },
+  "margin xxxxs": {
+		"prefix": "margin-xxxxs",
+		"body": [
+			"margin-xxxxs"
+		],
+		"description": "margin xxxxs"
+  },
+  "margin xxxs": {
+		"prefix": "margin-xxxs",
+		"body": [
+			"margin-xxxs"
+		],
+		"description": "margin xxxs"
+  },
+  "margin xxs": {
+		"prefix": "margin-xxs",
+		"body": [
+			"margin-xxs"
+		],
+		"description": "margin xxs"
+  },
+  "margin xs": {
+		"prefix": "margin-xs",
+		"body": [
+			"margin-xs"
+		],
+		"description": "margin xs"
+  },
+  "margin sm": {
+		"prefix": "margin-sm",
+		"body": [
+			"margin-sm"
+		],
+		"description": "margin sm"
+  },
+  "margin md": {
+		"prefix": "margin-md",
+		"body": [
+			"margin-md"
+		],
+		"description": "margin md"
+  },
+  "margin lg": {
+		"prefix": "margin-lg",
+		"body": [
+			"margin-lg"
+		],
+		"description": "margin lg"
+  },
+  "margin xl": {
+		"prefix": "margin-xl",
+		"body": [
+			"margin-xl"
+		],
+		"description": "margin xl"
+  },
+  "margin xxl": {
+		"prefix": "margin-xxl",
+		"body": [
+			"margin-xxl"
+		],
+		"description": "margin xxl"
+  },
+  "margin xxxl": {
+		"prefix": "margin-xxxl",
+		"body": [
+			"margin-xxxl"
+		],
+		"description": "margin xxxl"
+  },
+  "margin xxxxl": {
+		"prefix": "margin-xxxxl",
+		"body": [
+			"margin-xxxxl"
+		],
+		"description": "margin xxxxl"
+  },
+  "margin auto": {
+		"prefix": "margin-auto",
+		"body": [
+			"margin-auto"
+		],
+		"description": "margin auto"
+  },
+  "margin top xxxxs": {
+		"prefix": "margin-top-xxxxs",
+		"body": [
+			"margin-top-xxxxs"
+		],
+		"description": "margin top xxxxs"
+  },
+  "margin top xxxs": {
+		"prefix": "margin-top-xxxs",
+		"body": [
+			"margin-top-xxxs"
+		],
+		"description": "margin top xxxs"
+  },
+  "margin top xxs": {
+		"prefix": "margin-top-xxs",
+		"body": [
+			"margin-top-xxs"
+		],
+		"description": "margin top xxs"
+  },
+  "margin top xs": {
+		"prefix": "margin-top-xs",
+		"body": [
+			"margin-top-xs"
+		],
+		"description": "margin top xs"
+  },
+  "margin top sm": {
+		"prefix": "margin-top-sm",
+		"body": [
+			"margin-top-sm"
+		],
+		"description": "margin top sm"
+  },
+  "margin top md": {
+		"prefix": "margin-top-md",
+		"body": [
+			"margin-top-md"
+		],
+		"description": "margin top md"
+  },
+  "margin top lg": {
+		"prefix": "margin-top-lg",
+		"body": [
+			"margin-top-lg"
+		],
+		"description": "margin top lg"
+  },
+  "margin top xl": {
+		"prefix": "margin-top-xl",
+		"body": [
+			"margin-top-xl"
+		],
+		"description": "margin top xl"
+  },
+  "margin top xxl": {
+		"prefix": "margin-top-xxl",
+		"body": [
+			"margin-top-xxl"
+		],
+		"description": "margin top xxl"
+  },
+  "margin top xxxl": {
+		"prefix": "margin-top-xxxl",
+		"body": [
+			"margin-top-xxxl"
+		],
+		"description": "margin top xxxl"
+  },
+  "margin top xxxxl": {
+		"prefix": "margin-top-xxxxl",
+		"body": [
+			"margin-top-xxxxl"
+		],
+		"description": "margin top xxxxl"
+  },
+  "margin top auto": {
+		"prefix": "margin-top-auto",
+		"body": [
+			"margin-top-auto"
+		],
+		"description": "margin top auto"
+  },
+  "margin bottom xxxxs": {
+		"prefix": "margin-bottom-xxxxs",
+		"body": [
+			"margin-bottom-xxxxs"
+		],
+		"description": "margin bottom xxxxs"
+  },
+  "margin bottom xxxs": {
+		"prefix": "margin-bottom-xxxs",
+		"body": [
+			"margin-bottom-xxxs"
+		],
+		"description": "margin bottom xxxs"
+  },
+  "margin bottom xxs": {
+		"prefix": "margin-bottom-xxs",
+		"body": [
+			"margin-bottom-xxs"
+		],
+		"description": "margin bottom xxs"
+  },
+  "margin bottom xs": {
+		"prefix": "margin-bottom-xs",
+		"body": [
+			"margin-bottom-xs"
+		],
+		"description": "margin bottom xs"
+  },
+  "margin bottom sm": {
+		"prefix": "margin-bottom-sm",
+		"body": [
+			"margin-bottom-sm"
+		],
+		"description": "margin bottom sm"
+  },
+  "margin bottom md": {
+		"prefix": "margin-bottom-md",
+		"body": [
+			"margin-bottom-md"
+		],
+		"description": "margin bottom md"
+  },
+  "margin bottom lg": {
+		"prefix": "margin-bottom-lg",
+		"body": [
+			"margin-bottom-lg"
+		],
+		"description": "margin bottom lg"
+  },
+  "margin bottom xl": {
+		"prefix": "margin-bottom-xl",
+		"body": [
+			"margin-bottom-xl"
+		],
+		"description": "margin bottom xl"
+  },
+  "margin bottom xxl": {
+		"prefix": "margin-bottom-xxl",
+		"body": [
+			"margin-bottom-xxl"
+		],
+		"description": "margin bottom xxl"
+  },
+  "margin bottom xxxl": {
+		"prefix": "margin-bottom-xxxl",
+		"body": [
+			"margin-bottom-xxxl"
+		],
+		"description": "margin bottom xxxl"
+  },
+  "margin bottom xxxxl": {
+		"prefix": "margin-bottom-xxxxl",
+		"body": [
+			"margin-bottom-xxxxl"
+		],
+		"description": "margin bottom xxxxl"
+  },
+  "margin bottom auto": {
+		"prefix": "margin-bottom-auto",
+		"body": [
+			"margin-bottom-auto"
+		],
+		"description": "margin bottom auto"
+  },
+  "margin right xxxxs": {
+		"prefix": "margin-right-xxxxs",
+		"body": [
+			"margin-right-xxxxs"
+		],
+		"description": "margin right xxxxs"
+  },
+  "margin right xxxs": {
+		"prefix": "margin-right-xxxs",
+		"body": [
+			"margin-right-xxxs"
+		],
+		"description": "margin right xxxs"
+  },
+  "margin right xxs": {
+		"prefix": "margin-right-xxs",
+		"body": [
+			"margin-right-xxs"
+		],
+		"description": "margin right xxs"
+  },
+  "margin right xs": {
+		"prefix": "margin-right-xs",
+		"body": [
+			"margin-right-xs"
+		],
+		"description": "margin right xs"
+  },
+  "margin right sm": {
+		"prefix": "margin-right-sm",
+		"body": [
+			"margin-right-sm"
+		],
+		"description": "margin right sm"
+  },
+  "margin right md": {
+		"prefix": "margin-right-md",
+		"body": [
+			"margin-right-md"
+		],
+		"description": "margin right md"
+  },
+  "margin right lg": {
+		"prefix": "margin-right-lg",
+		"body": [
+			"margin-right-lg"
+		],
+		"description": "margin right lg"
+  },
+  "margin right xl": {
+		"prefix": "margin-right-xl",
+		"body": [
+			"margin-right-xl"
+		],
+		"description": "margin right xl"
+  },
+  "margin right xxl": {
+		"prefix": "margin-right-xxl",
+		"body": [
+			"margin-right-xxl"
+		],
+		"description": "margin right xxl"
+  },
+  "margin right xxxl": {
+		"prefix": "margin-right-xxxl",
+		"body": [
+			"margin-right-xxxl"
+		],
+		"description": "margin right xxxl"
+  },
+  "margin right xxxxl": {
+		"prefix": "margin-right-xxxxl",
+		"body": [
+			"margin-right-xxxxl"
+		],
+		"description": "margin right xxxxl"
+  },
+  "margin right auto": {
+		"prefix": "margin-right-auto",
+		"body": [
+			"margin-right-auto"
+		],
+		"description": "margin right auto"
+  },
+  "margin left xxxxs": {
+		"prefix": "margin-left-xxxxs",
+		"body": [
+			"margin-left-xxxxs"
+		],
+		"description": "margin left xxxxs"
+  },
+  "margin left xxxs": {
+		"prefix": "margin-left-xxxs",
+		"body": [
+			"margin-left-xxxs"
+		],
+		"description": "margin left xxxs"
+  },
+  "margin left xxs": {
+		"prefix": "margin-left-xxs",
+		"body": [
+			"margin-left-xxs"
+		],
+		"description": "margin left xxs"
+  },
+  "margin left xs": {
+		"prefix": "margin-left-xs",
+		"body": [
+			"margin-left-xs"
+		],
+		"description": "margin left xs"
+  },
+  "margin left sm": {
+		"prefix": "margin-left-sm",
+		"body": [
+			"margin-left-sm"
+		],
+		"description": "margin left sm"
+  },
+  "margin left md": {
+		"prefix": "margin-left-md",
+		"body": [
+			"margin-left-md"
+		],
+		"description": "margin left md"
+  },
+  "margin left lg": {
+		"prefix": "margin-left-lg",
+		"body": [
+			"margin-left-lg"
+		],
+		"description": "margin left lg"
+  },
+  "margin left xl": {
+		"prefix": "margin-left-xl",
+		"body": [
+			"margin-left-xl"
+		],
+		"description": "margin left xl"
+  },
+  "margin left xxl": {
+		"prefix": "margin-left-xxl",
+		"body": [
+			"margin-left-xxl"
+		],
+		"description": "margin left xxl"
+  },
+  "margin left xxxl": {
+		"prefix": "margin-left-xxxl",
+		"body": [
+			"margin-left-xxxl"
+		],
+		"description": "margin left xxxl"
+  },
+  "margin left xxxxl": {
+		"prefix": "margin-left-xxxxl",
+		"body": [
+			"margin-left-xxxxl"
+		],
+		"description": "margin left xxxxl"
+  },
+  "margin left auto": {
+		"prefix": "margin-left-auto",
+		"body": [
+			"margin-left-auto"
+		],
+		"description": "margin left auto"
+  },
+  "margin x xxxxs": {
+		"prefix": "margin-x-xxxxs",
+		"body": [
+			"margin-x-xxxxs"
+		],
+		"description": "margin x xxxxs"
+  },
+  "margin x xxxs": {
+		"prefix": "margin-x-xxxs",
+		"body": [
+			"margin-x-xxxs"
+		],
+		"description": "margin x xxxs"
+  },
+  "margin x xxs": {
+		"prefix": "margin-x-xxs",
+		"body": [
+			"margin-x-xxs"
+		],
+		"description": "margin x xxs"
+  },
+  "margin x xs": {
+		"prefix": "margin-x-xs",
+		"body": [
+			"margin-x-xs"
+		],
+		"description": "margin x xs"
+  },
+  "margin x sm": {
+		"prefix": "margin-x-sm",
+		"body": [
+			"margin-x-sm"
+		],
+		"description": "margin x sm"
+  },
+  "margin x md": {
+		"prefix": "margin-x-md",
+		"body": [
+			"margin-x-md"
+		],
+		"description": "margin x md"
+  },
+  "margin x lg": {
+		"prefix": "margin-x-lg",
+		"body": [
+			"margin-x-lg"
+		],
+		"description": "margin x lg"
+  },
+  "margin x xl": {
+		"prefix": "margin-x-xl",
+		"body": [
+			"margin-x-xl"
+		],
+		"description": "margin x xl"
+  },
+  "margin x xxl": {
+		"prefix": "margin-x-xxl",
+		"body": [
+			"margin-x-xxl"
+		],
+		"description": "margin x xxl"
+  },
+  "margin x xxxl": {
+		"prefix": "margin-x-xxxl",
+		"body": [
+			"margin-x-xxxl"
+		],
+		"description": "margin x xxxl"
+  },
+  "margin x xxxxl": {
+		"prefix": "margin-x-xxxxl",
+		"body": [
+			"margin-x-xxxxl"
+		],
+		"description": "margin x xxxxl"
+  },
+  "margin x auto": {
+		"prefix": "margin-x-auto",
+		"body": [
+			"margin-x-auto"
+		],
+		"description": "margin x auto"
+  },
+  "margin y xxxxs": {
+		"prefix": "margin-y-xxxxs",
+		"body": [
+			"margin-y-xxxxs"
+		],
+		"description": "margin y xxxxs"
+  },
+  "margin y xxxs": {
+		"prefix": "margin-y-xxxs",
+		"body": [
+			"margin-y-xxxs"
+		],
+		"description": "margin y xxxs"
+  },
+  "margin y xxs": {
+		"prefix": "margin-y-xxs",
+		"body": [
+			"margin-y-xxs"
+		],
+		"description": "margin y xxs"
+  },
+  "margin y xs": {
+		"prefix": "margin-y-xs",
+		"body": [
+			"margin-y-xs"
+		],
+		"description": "margin y xs"
+  },
+  "margin y sm": {
+		"prefix": "margin-y-sm",
+		"body": [
+			"margin-y-sm"
+		],
+		"description": "margin y sm"
+  },
+  "margin y md": {
+		"prefix": "margin-y-md",
+		"body": [
+			"margin-y-md"
+		],
+		"description": "margin y md"
+  },
+  "margin y lg": {
+		"prefix": "margin-y-lg",
+		"body": [
+			"margin-y-lg"
+		],
+		"description": "margin y lg"
+  },
+  "margin y xl": {
+		"prefix": "margin-y-xl",
+		"body": [
+			"margin-y-xl"
+		],
+		"description": "margin y xl"
+  },
+  "margin y xxl": {
+		"prefix": "margin-y-xxl",
+		"body": [
+			"margin-y-xxl"
+		],
+		"description": "margin y xxl"
+  },
+  "margin y xxxl": {
+		"prefix": "margin-y-xxxl",
+		"body": [
+			"margin-y-xxxl"
+		],
+		"description": "margin y xxxl"
+  },
+  "margin y xxxxl": {
+		"prefix": "margin-y-xxxxl",
+		"body": [
+			"margin-y-xxxxl"
+		],
+		"description": "margin y xxxxl"
+  },
+  "margin y auto": {
+		"prefix": "margin-y-auto",
+		"body": [
+			"margin-y-auto"
+		],
+		"description": "margin y auto"
+  },
+  "has-margin @xs": {
+		"prefix": "has-margin@xs",
+		"body": [
+			"has-margin@xs"
+		],
+		"description": "has-margin @xs"
+  },
+  "has-margin @sm": {
+		"prefix": "has-margin@sm",
+		"body": [
+			"has-margin@sm"
+		],
+		"description": "has-margin @sm"
+  },
+  "has-margin @md": {
+		"prefix": "has-margin@md",
+		"body": [
+			"has-margin@md"
+		],
+		"description": "has-margin @md"
+  },
+  "has-margin @lg": {
+		"prefix": "has-margin@lg",
+		"body": [
+			"has-margin@lg"
+		],
+		"description": "has-margin @lg"
+  },
+  "has-margin @xl": {
+		"prefix": "has-margin@xl",
+		"body": [
+			"has-margin@xl"
+		],
+		"description": "has-margin @xl"
+  },
+  "padding xxxxs": {
+		"prefix": "padding-xxxxs",
+		"body": [
+			"padding-xxxxs"
+		],
+		"description": "padding xxxxs"
+  },
+  "padding xxxs": {
+		"prefix": "padding-xxxs",
+		"body": [
+			"padding-xxxs"
+		],
+		"description": "padding xxxs"
+  },
+  "padding xxs": {
+		"prefix": "padding-xxs",
+		"body": [
+			"padding-xxs"
+		],
+		"description": "padding xxs"
+  },
+  "padding xs": {
+		"prefix": "padding-xs",
+		"body": [
+			"padding-xs"
+		],
+		"description": "padding xs"
+  },
+  "padding sm": {
+		"prefix": "padding-sm",
+		"body": [
+			"padding-sm"
+		],
+		"description": "padding sm"
+  },
+  "padding md": {
+		"prefix": "padding-md",
+		"body": [
+			"padding-md"
+		],
+		"description": "padding md"
+  },
+  "padding lg": {
+		"prefix": "padding-lg",
+		"body": [
+			"padding-lg"
+		],
+		"description": "padding lg"
+  },
+  "padding xl": {
+		"prefix": "padding-xl",
+		"body": [
+			"padding-xl"
+		],
+		"description": "padding xl"
+  },
+  "padding xxl": {
+		"prefix": "padding-xxl",
+		"body": [
+			"padding-xxl"
+		],
+		"description": "padding xxl"
+  },
+  "padding xxxl": {
+		"prefix": "padding-xxxl",
+		"body": [
+			"padding-xxxl"
+		],
+		"description": "padding xxxl"
+  },
+  "padding xxxxl": {
+		"prefix": "padding-xxxxl",
+		"body": [
+			"padding-xxxxl"
+		],
+		"description": "padding xxxxl"
+  },
+  "padding component": {
+		"prefix": "padding-component",
+		"body": [
+			"padding-component"
+		],
+		"description": "padding component"
+  },
+  "padding top xxxxs": {
+		"prefix": "padding-top-xxxxs",
+		"body": [
+			"padding-top-xxxxs"
+		],
+		"description": "padding top xxxxs"
+  },
+  "padding top xxxs": {
+		"prefix": "padding-top-xxxs",
+		"body": [
+			"padding-top-xxxs"
+		],
+		"description": "padding top xxxs"
+  },
+  "padding top xxs": {
+		"prefix": "padding-top-xxs",
+		"body": [
+			"padding-top-xxs"
+		],
+		"description": "padding top xxs"
+  },
+  "padding top xs": {
+		"prefix": "padding-top-xs",
+		"body": [
+			"padding-top-xs"
+		],
+		"description": "padding top xs"
+  },
+  "padding top sm": {
+		"prefix": "padding-top-sm",
+		"body": [
+			"padding-top-sm"
+		],
+		"description": "padding top sm"
+  },
+  "padding top md": {
+		"prefix": "padding-top-md",
+		"body": [
+			"padding-top-md"
+		],
+		"description": "padding top md"
+  },
+  "padding top lg": {
+		"prefix": "padding-top-lg",
+		"body": [
+			"padding-top-lg"
+		],
+		"description": "padding top lg"
+  },
+  "padding top xl": {
+		"prefix": "padding-top-xl",
+		"body": [
+			"padding-top-xl"
+		],
+		"description": "padding top xl"
+  },
+  "padding top xxl": {
+		"prefix": "padding-top-xxl",
+		"body": [
+			"padding-top-xxl"
+		],
+		"description": "padding top xxl"
+  },
+  "padding top xxxl": {
+		"prefix": "padding-top-xxxl",
+		"body": [
+			"padding-top-xxxl"
+		],
+		"description": "padding top xxxl"
+  },
+  "padding top xxxxl": {
+		"prefix": "padding-top-xxxxl",
+		"body": [
+			"padding-top-xxxxl"
+		],
+		"description": "padding top xxxxl"
+  },
+  "padding top component": {
+		"prefix": "padding-top-component",
+		"body": [
+			"padding-top-component"
+		],
+		"description": "padding top component"
+  },
+  "padding bottom xxxxs": {
+		"prefix": "padding-bottom-xxxxs",
+		"body": [
+			"padding-bottom-xxxxs"
+		],
+		"description": "padding bottom xxxxs"
+  },
+  "padding bottom xxxs": {
+		"prefix": "padding-bottom-xxxs",
+		"body": [
+			"padding-bottom-xxxs"
+		],
+		"description": "padding bottom xxxs"
+  },
+  "padding bottom xxs": {
+		"prefix": "padding-bottom-xxs",
+		"body": [
+			"padding-bottom-xxs"
+		],
+		"description": "padding bottom xxs"
+  },
+  "padding bottom xs": {
+		"prefix": "padding-bottom-xs",
+		"body": [
+			"padding-bottom-xs"
+		],
+		"description": "padding bottom xs"
+  },
+  "padding bottom sm": {
+		"prefix": "padding-bottom-sm",
+		"body": [
+			"padding-bottom-sm"
+		],
+		"description": "padding bottom sm"
+  },
+  "padding bottom md": {
+		"prefix": "padding-bottom-md",
+		"body": [
+			"padding-bottom-md"
+		],
+		"description": "padding bottom md"
+  },
+  "padding bottom lg": {
+		"prefix": "padding-bottom-lg",
+		"body": [
+			"padding-bottom-lg"
+		],
+		"description": "padding bottom lg"
+  },
+  "padding bottom xl": {
+		"prefix": "padding-bottom-xl",
+		"body": [
+			"padding-bottom-xl"
+		],
+		"description": "padding bottom xl"
+  },
+  "padding bottom xxl": {
+		"prefix": "padding-bottom-xxl",
+		"body": [
+			"padding-bottom-xxl"
+		],
+		"description": "padding bottom xxl"
+  },
+  "padding bottom xxxl": {
+		"prefix": "padding-bottom-xxxl",
+		"body": [
+			"padding-bottom-xxxl"
+		],
+		"description": "padding bottom xxxl"
+  },
+  "padding bottom xxxxl": {
+		"prefix": "padding-bottom-xxxxl",
+		"body": [
+			"padding-bottom-xxxxl"
+		],
+		"description": "padding bottom xxxxl"
+  },
+  "padding bottom component": {
+		"prefix": "padding-bottom-component",
+		"body": [
+			"padding-bottom-component"
+		],
+		"description": "padding bottom component"
+  },
+  "padding right xxxxs": {
+		"prefix": "padding-right-xxxxs",
+		"body": [
+			"padding-right-xxxxs"
+		],
+		"description": "padding right xxxxs"
+  },
+  "padding right xxxs": {
+		"prefix": "padding-right-xxxs",
+		"body": [
+			"padding-right-xxxs"
+		],
+		"description": "padding right xxxs"
+  },
+  "padding right xxs": {
+		"prefix": "padding-right-xxs",
+		"body": [
+			"padding-right-xxs"
+		],
+		"description": "padding right xxs"
+  },
+  "padding right xs": {
+		"prefix": "padding-right-xs",
+		"body": [
+			"padding-right-xs"
+		],
+		"description": "padding right xs"
+  },
+  "padding right sm": {
+		"prefix": "padding-right-sm",
+		"body": [
+			"padding-right-sm"
+		],
+		"description": "padding right sm"
+  },
+  "padding right md": {
+		"prefix": "padding-right-md",
+		"body": [
+			"padding-right-md"
+		],
+		"description": "padding right md"
+  },
+  "padding right lg": {
+		"prefix": "padding-right-lg",
+		"body": [
+			"padding-right-lg"
+		],
+		"description": "padding right lg"
+  },
+  "padding right xl": {
+		"prefix": "padding-right-xl",
+		"body": [
+			"padding-right-xl"
+		],
+		"description": "padding right xl"
+  },
+  "padding right xxl": {
+		"prefix": "padding-right-xxl",
+		"body": [
+			"padding-right-xxl"
+		],
+		"description": "padding right xxl"
+  },
+  "padding right xxxl": {
+		"prefix": "padding-right-xxxl",
+		"body": [
+			"padding-right-xxxl"
+		],
+		"description": "padding right xxxl"
+  },
+  "padding right xxxxl": {
+		"prefix": "padding-right-xxxxl",
+		"body": [
+			"padding-right-xxxxl"
+		],
+		"description": "padding right xxxxl"
+  },
+  "padding right component": {
+		"prefix": "padding-right-component",
+		"body": [
+			"padding-right-component"
+		],
+		"description": "padding right component"
+  },
+  "padding left xxxxs": {
+		"prefix": "padding-left-xxxxs",
+		"body": [
+			"padding-left-xxxxs"
+		],
+		"description": "padding left xxxxs"
+  },
+  "padding left xxxs": {
+		"prefix": "padding-left-xxxs",
+		"body": [
+			"padding-left-xxxs"
+		],
+		"description": "padding left xxxs"
+  },
+  "padding left xxs": {
+		"prefix": "padding-left-xxs",
+		"body": [
+			"padding-left-xxs"
+		],
+		"description": "padding left xxs"
+  },
+  "padding left xs": {
+		"prefix": "padding-left-xs",
+		"body": [
+			"padding-left-xs"
+		],
+		"description": "padding left xs"
+  },
+  "padding left sm": {
+		"prefix": "padding-left-sm",
+		"body": [
+			"padding-left-sm"
+		],
+		"description": "padding left sm"
+  },
+  "padding left md": {
+		"prefix": "padding-left-md",
+		"body": [
+			"padding-left-md"
+		],
+		"description": "padding left md"
+  },
+  "padding left lg": {
+		"prefix": "padding-left-lg",
+		"body": [
+			"padding-left-lg"
+		],
+		"description": "padding left lg"
+  },
+  "padding left xl": {
+		"prefix": "padding-left-xl",
+		"body": [
+			"padding-left-xl"
+		],
+		"description": "padding left xl"
+  },
+  "padding left xxl": {
+		"prefix": "padding-left-xxl",
+		"body": [
+			"padding-left-xxl"
+		],
+		"description": "padding left xxl"
+  },
+  "padding left xxxl": {
+		"prefix": "padding-left-xxxl",
+		"body": [
+			"padding-left-xxxl"
+		],
+		"description": "padding left xxxl"
+  },
+  "padding left xxxxl": {
+		"prefix": "padding-left-xxxxl",
+		"body": [
+			"padding-left-xxxxl"
+		],
+		"description": "padding left xxxxl"
+  },
+  "padding left component": {
+		"prefix": "padding-left-component",
+		"body": [
+			"padding-left-component"
+		],
+		"description": "padding left component"
+  },
+  "padding x xxxxs": {
+		"prefix": "padding-x-xxxxs",
+		"body": [
+			"padding-x-xxxxs"
+		],
+		"description": "padding x xxxxs"
+  },
+  "padding x xxxs": {
+		"prefix": "padding-x-xxxs",
+		"body": [
+			"padding-x-xxxs"
+		],
+		"description": "padding x xxxs"
+  },
+  "padding x xxs": {
+		"prefix": "padding-x-xxs",
+		"body": [
+			"padding-x-xxs"
+		],
+		"description": "padding x xxs"
+  },
+  "padding x xs": {
+		"prefix": "padding-x-xs",
+		"body": [
+			"padding-x-xs"
+		],
+		"description": "padding x xs"
+  },
+  "padding x sm": {
+		"prefix": "padding-x-sm",
+		"body": [
+			"padding-x-sm"
+		],
+		"description": "padding x sm"
+  },
+  "padding x md": {
+		"prefix": "padding-x-md",
+		"body": [
+			"padding-x-md"
+		],
+		"description": "padding x md"
+  },
+  "padding x lg": {
+		"prefix": "padding-x-lg",
+		"body": [
+			"padding-x-lg"
+		],
+		"description": "padding x lg"
+  },
+  "padding x xl": {
+		"prefix": "padding-x-xl",
+		"body": [
+			"padding-x-xl"
+		],
+		"description": "padding x xl"
+  },
+  "padding x xxl": {
+		"prefix": "padding-x-xxl",
+		"body": [
+			"padding-x-xxl"
+		],
+		"description": "padding x xxl"
+  },
+  "padding x xxxl": {
+		"prefix": "padding-x-xxxl",
+		"body": [
+			"padding-x-xxxl"
+		],
+		"description": "padding x xxxl"
+  },
+  "padding x xxxxl": {
+		"prefix": "padding-x-xxxxl",
+		"body": [
+			"padding-x-xxxxl"
+		],
+		"description": "padding x xxxxl"
+  },
+  "padding x component": {
+		"prefix": "padding-x-component",
+		"body": [
+			"padding-x-component"
+		],
+		"description": "padding x component"
+  },
+  "padding y xxxxs": {
+		"prefix": "padding-y-xxxxs",
+		"body": [
+			"padding-y-xxxxs"
+		],
+		"description": "padding y xxxxs"
+  },
+  "padding y xxxs": {
+		"prefix": "padding-y-xxxs",
+		"body": [
+			"padding-y-xxxs"
+		],
+		"description": "padding y xxxs"
+  },
+  "padding y xxs": {
+		"prefix": "padding-y-xxs",
+		"body": [
+			"padding-y-xxs"
+		],
+		"description": "padding y xxs"
+  },
+  "padding y xs": {
+		"prefix": "padding-y-xs",
+		"body": [
+			"padding-y-xs"
+		],
+		"description": "padding y xs"
+  },
+  "padding y sm": {
+		"prefix": "padding-y-sm",
+		"body": [
+			"padding-y-sm"
+		],
+		"description": "padding y sm"
+  },
+  "padding y md": {
+		"prefix": "padding-y-md",
+		"body": [
+			"padding-y-md"
+		],
+		"description": "padding y md"
+  },
+  "padding y lg": {
+		"prefix": "padding-y-lg",
+		"body": [
+			"padding-y-lg"
+		],
+		"description": "padding y lg"
+  },
+  "padding y xl": {
+		"prefix": "padding-y-xl",
+		"body": [
+			"padding-y-xl"
+		],
+		"description": "padding y xl"
+  },
+  "padding y xxl": {
+		"prefix": "padding-y-xxl",
+		"body": [
+			"padding-y-xxl"
+		],
+		"description": "padding y xxl"
+  },
+  "padding y xxxl": {
+		"prefix": "padding-y-xxxl",
+		"body": [
+			"padding-y-xxxl"
+		],
+		"description": "padding y xxxl"
+  },
+  "padding y xxxxl": {
+		"prefix": "padding-y-xxxxl",
+		"body": [
+			"padding-y-xxxxl"
+		],
+		"description": "padding y xxxxl"
+  },
+  "padding y component": {
+		"prefix": "padding-y-component",
+		"body": [
+			"padding-y-component"
+		],
+		"description": "padding y component"
+  },
+  "has-padding @xs": {
+		"prefix": "has-padding@xs",
+		"body": [
+			"has-padding@xs"
+		],
+		"description": "has-padding @xs"
+  },
+  "has-padding @sm": {
+		"prefix": "has-padding@sm",
+		"body": [
+			"has-padding@sm"
+		],
+		"description": "has-padding @sm"
+  },
+  "has-padding @md": {
+		"prefix": "has-padding@md",
+		"body": [
+			"has-padding@md"
+		],
+		"description": "has-padding @md"
+  },
+  "has-padding @lg": {
+		"prefix": "has-padding@lg",
+		"body": [
+			"has-padding@lg"
+		],
+		"description": "has-padding @lg"
+  },
+  "has-padding @xl": {
+		"prefix": "has-padding@xl",
+		"body": [
+			"has-padding@xl"
+		],
+		"description": "has-padding @xl"
+  },
+  "form control": {
+		"prefix": "{form} form-control",
+		"body": [
+			"form-control"
+		],
+		"description": "basic style for form element"
+	},
+	"form legend": {
+		"prefix": "{form} form-legend",
+		"body": [
+			"form-legend"
+		],
+		"description": "form legend element"
+	},
+	"form label": {
+		"prefix": "{form} form-label",
+		"body": [
+			"form-label"
+		],
+		"description": "form label element"
+	},
+	"form error message": {
+		"prefix": "{form} form__msg-error",
+		"body": [
+			"form__msg-error"
+		],
+		"description": "form error message"
+	},
+	"radio list": {
+		"prefix": "{form} radio-list",
+		"body": [
+			"radio-list"
+		],
+		"description": "list of radio inputs"
+	},
+	"checkbox list": {
+		"prefix": "{form} checkbox-list",
+		"body": [
+			"checkbox-list"
+		],
+		"description": "list of checkbox inputs"
+	},
+	"container": {
+		"prefix": "container",
+		"body": [
+			"container"
+		],
+		"description": "set width and center content horizontally"
+	},
+	"max-width xxs": {
+		"prefix": "max-width-xxs",
+		"body": [
+			"max-width-xxs"
+		],
+		"description": "max-width xxs"
+	},
+	"max-width xs": {
+		"prefix": "max-width-xs",
+		"body": [
+			"max-width-xs"
+		],
+		"description": "max-width xs"
+	},
+	"max-width sm": {
+		"prefix": "max-width-sm",
+		"body": [
+			"max-width-sm"
+		],
+		"description": "max-width sm"
+	},
+	"max-width md": {
+		"prefix": "max-width-md",
+		"body": [
+			"max-width-md"
+		],
+		"description": "max-width md"
+	},
+	"max-width lg": {
+		"prefix": "max-width-lg",
+		"body": [
+			"max-width-lg"
+		],
+		"description": "max-width lg"
+	},
+	"max-width xl": {
+		"prefix": "max-width-xl",
+		"body": [
+			"max-width-xl"
+		],
+		"description": "max-width xl"
+	},
+	"max-width xxl": {
+		"prefix": "max-width-xxl",
+		"body": [
+			"max-width-xxl"
+		],
+		"description": "max-width xxl"
+	},
+	"max-width adaptive sm": {
+		"prefix": "max-width-adaptive-sm",
+		"body": [
+			"max-width-adaptive-sm"
+		],
+		"description": "max-width adaptive sm"
+	},
+	"max-width adaptive md": {
+		"prefix": "max-width-adaptive-md",
+		"body": [
+			"max-width-adaptive-md"
+		],
+		"description": "max-width adaptive md"
+	},
+	"max-width adaptive lg": {
+		"prefix": "max-width-adaptive-lg",
+		"body": [
+			"max-width-adaptive-lg"
+		],
+		"description": "max-width adaptive lg"
+	},
+	"max-width adaptive xl": {
+		"prefix": "max-width-adaptive-xl",
+		"body": [
+			"max-width-adaptive-xl"
+		],
+		"description": "max-width adaptive xl"
+	},
+	"grid": {
+		"prefix": "grid",
+		"body": [
+			"grid"
+		],
+		"description": "grid wrapper"
+	},
+	"grid gap xxxxs": {
+		"prefix": "grid-gap-xxxxs",
+		"body": [
+			"grid-gap-xxxxs"
+		],
+		"description": "grid gap xxxxs"
+	},
+	"grid gap xxxs": {
+		"prefix": "grid-gap-xxxs",
+		"body": [
+			"grid-gap-xxxs"
+		],
+		"description": "grid gap xxxs"
+	},
+	"grid gap xxs": {
+		"prefix": "grid-gap-xxs",
+		"body": [
+			"grid-gap-xxs"
+		],
+		"description": "grid gap xxs"
+	},
+	"grid gap xs": {
+		"prefix": "grid-gap-xs",
+		"body": [
+			"grid-gap-xs"
+		],
+		"description": "grid gap xs"
+	},
+	"grid gap sm": {
+		"prefix": "grid-gap-sm",
+		"body": [
+			"grid-gap-sm"
+		],
+		"description": "grid gap sm"
+	},
+	"grid gap md": {
+		"prefix": "grid-gap-md",
+		"body": [
+			"grid-gap-md"
+		],
+		"description": "grid gap md"
+	},
+	"grid gap lg": {
+		"prefix": "grid-gap-lg",
+		"body": [
+			"grid-gap-lg"
+		],
+		"description": "grid gap lg"
+	},
+	"grid gap xl": {
+		"prefix": "grid-gap-xl",
+		"body": [
+			"grid-gap-xl"
+		],
+		"description": "grid gap xl"
+	},
+	"grid gap xxl": {
+		"prefix": "grid-gap-xxl",
+		"body": [
+			"grid-gap-xxl"
+		],
+		"description": "grid gap xxl"
+	},
+	"grid gap xxxl": {
+		"prefix": "grid-gap-xxxl",
+		"body": [
+			"grid-gap-xxxl"
+		],
+		"description": "grid gap xxxl"
+	},
+	"grid gap xxxxl": {
+		"prefix": "grid-gap-xxxxl",
+		"body": [
+			"grid-gap-xxxxl"
+		],
+		"description": "grid gap xxxxl"
+	},
+	"col": {
+		"prefix": "col",
+		"body": [
+			"col"
+		],
+		"description": "column"
+	},
+	"col@xs": {
+		"prefix": "col@xs",
+		"body": [
+			"col@xs"
+		],
+		"description": "column @xs"
+	},
+	"col@sm": {
+		"prefix": "col@sm",
+		"body": [
+			"col@sm"
+		],
+		"description": "column @sm"
+	},
+	"col@md": {
+		"prefix": "col@md",
+		"body": [
+			"col@md"
+		],
+		"description": "column @md"
+	},
+	"col@lg": {
+		"prefix": "col@lg",
+		"body": [
+			"col@lg"
+		],
+		"description": "column @lg"
+	},
+	"col@xl": {
+		"prefix": "col@xl",
+		"body": [
+			"col@xl"
+		],
+		"description": "column @xl"
+	},
+	"col-1": {
+		"prefix": "col-1",
+		"body": [
+			"col-1"
+		],
+		"description": "column span 1"
+	},
+	"col-1@xs": {
+		"prefix": "col-1@xs",
+		"body": [
+			"col-1@xs"
+		],
+		"description": "column span 1 @xs"
+	},
+	"col-1@sm": {
+		"prefix": "col-1@sm",
+		"body": [
+			"col-1@sm"
+		],
+		"description": "column span 1 @sm"
+	},
+	"col-1@md": {
+		"prefix": "col-1@md",
+		"body": [
+			"col-1@md"
+		],
+		"description": "column span 1 @md"
+	},
+	"col-1@lg": {
+		"prefix": "col-1@lg",
+		"body": [
+			"col-1@lg"
+		],
+		"description": "column span 1 @lg"
+	},
+	"col-1@xl": {
+		"prefix": "col-1@xl",
+		"body": [
+			"col-1@xl"
+		],
+		"description": "column span 1 @xl"
+	},
+	"col-2": {
+		"prefix": "col-2",
+		"body": [
+			"col-2"
+		],
+		"description": "column span 2"
+	},
+	"col-2@xs": {
+		"prefix": "col-2@xs",
+		"body": [
+			"col-2@xs"
+		],
+		"description": "column span 2 @xs"
+	},
+	"col-2@sm": {
+		"prefix": "col-2@sm",
+		"body": [
+			"col-2@sm"
+		],
+		"description": "column span 2 @sm"
+	},
+	"col-2@md": {
+		"prefix": "col-2@md",
+		"body": [
+			"col-2@md"
+		],
+		"description": "column span 2 @md"
+	},
+	"col-2@lg": {
+		"prefix": "col-2@lg",
+		"body": [
+			"col-2@lg"
+		],
+		"description": "column span 2 @lg"
+	},
+	"col-2@xl": {
+		"prefix": "col-2@xl",
+		"body": [
+			"col-2@xl"
+		],
+		"description": "column span 2 @xl"
+	},
+	"col-3": {
+		"prefix": "col-3",
+		"body": [
+			"col-3"
+		],
+		"description": "column span 3"
+	},
+	"col-3@xs": {
+		"prefix": "col-3@xs",
+		"body": [
+			"col-3@xs"
+		],
+		"description": "column span 3 @xs"
+	},
+	"col-3@sm": {
+		"prefix": "col-3@sm",
+		"body": [
+			"col-3@sm"
+		],
+		"description": "column span 3 @sm"
+	},
+	"col-3@md": {
+		"prefix": "col-3@md",
+		"body": [
+			"col-3@md"
+		],
+		"description": "column span 3 @md"
+	},
+	"col-3@lg": {
+		"prefix": "col-3@lg",
+		"body": [
+			"col-3@lg"
+		],
+		"description": "column span 3 @lg"
+	},
+	"col-3@xl": {
+		"prefix": "col-3@xl",
+		"body": [
+			"col-3@xl"
+		],
+		"description": "column span 3 @xl"
+	},
+	"col-4": {
+		"prefix": "col-4",
+		"body": [
+			"col-4"
+		],
+		"description": "column span 4"
+	},
+	"col-4@xs": {
+		"prefix": "col-4@xs",
+		"body": [
+			"col-4@xs"
+		],
+		"description": "column span 4 @xs"
+	},
+	"col-4@sm": {
+		"prefix": "col-4@sm",
+		"body": [
+			"col-4@sm"
+		],
+		"description": "column span 4 @sm"
+	},
+	"col-4@md": {
+		"prefix": "col-4@md",
+		"body": [
+			"col-4@md"
+		],
+		"description": "column span 4 @md"
+	},
+	"col-4@lg": {
+		"prefix": "col-4@lg",
+		"body": [
+			"col-4@lg"
+		],
+		"description": "column span 4 @lg"
+	},
+	"col-4@xl": {
+		"prefix": "col-4@xl",
+		"body": [
+			"col-4@xl"
+		],
+		"description": "column span 4 @xl"
+	},
+	"col-5": {
+		"prefix": "col-5",
+		"body": [
+			"col-5"
+		],
+		"description": "column span 5"
+	},
+	"col-5@xs": {
+		"prefix": "col-5@xs",
+		"body": [
+			"col-5@xs"
+		],
+		"description": "column span 5 @xs"
+	},
+	"col-5@sm": {
+		"prefix": "col-5@sm",
+		"body": [
+			"col-5@sm"
+		],
+		"description": "column span 5 @sm"
+	},
+	"col-5@md": {
+		"prefix": "col-5@md",
+		"body": [
+			"col-5@md"
+		],
+		"description": "column span 5 @md"
+	},
+	"col-5@lg": {
+		"prefix": "col-5@lg",
+		"body": [
+			"col-5@lg"
+		],
+		"description": "column span 5 @lg"
+	},
+	"col-5@xl": {
+		"prefix": "col-5@xl",
+		"body": [
+			"col-5@xl"
+		],
+		"description": "column span 5 @xl"
+	},
+	"col-6": {
+		"prefix": "col-6",
+		"body": [
+			"col-6"
+		],
+		"description": "column span 6"
+	},
+	"col-6@xs": {
+		"prefix": "col-6@xs",
+		"body": [
+			"col-6@xs"
+		],
+		"description": "column span 6 @xs"
+	},
+	"col-6@sm": {
+		"prefix": "col-6@sm",
+		"body": [
+			"col-6@sm"
+		],
+		"description": "column span 6 @sm"
+	},
+	"col-6@md": {
+		"prefix": "col-6@md",
+		"body": [
+			"col-6@md"
+		],
+		"description": "column span 6 @md"
+	},
+	"col-6@lg": {
+		"prefix": "col-6@lg",
+		"body": [
+			"col-6@lg"
+		],
+		"description": "column span 6 @lg"
+	},
+	"col-6@xl": {
+		"prefix": "col-6@xl",
+		"body": [
+			"col-6@xl"
+		],
+		"description": "column span 6 @xl"
+	},
+	"col-7": {
+		"prefix": "col-7",
+		"body": [
+			"col-7"
+		],
+		"description": "column span 7"
+	},
+	"col-7@xs": {
+		"prefix": "col-7@xs",
+		"body": [
+			"col-7@xs"
+		],
+		"description": "column span 7 @xs"
+	},
+	"col-7@sm": {
+		"prefix": "col-7@sm",
+		"body": [
+			"col-7@sm"
+		],
+		"description": "column span 7 @sm"
+	},
+	"col-7@md": {
+		"prefix": "col-7@md",
+		"body": [
+			"col-7@md"
+		],
+		"description": "column span 7 @md"
+	},
+	"col-7@lg": {
+		"prefix": "col-7@lg",
+		"body": [
+			"col-7@lg"
+		],
+		"description": "column span 7 @lg"
+	},
+	"col-7@xl": {
+		"prefix": "col-7@xl",
+		"body": [
+			"col-7@xl"
+		],
+		"description": "column span 7 @xl"
+	},
+	"col-8": {
+		"prefix": "col-8",
+		"body": [
+			"col-8"
+		],
+		"description": "column span 8"
+	},
+	"col-8@xs": {
+		"prefix": "col-8@xs",
+		"body": [
+			"col-8@xs"
+		],
+		"description": "column span 8 @xs"
+	},
+	"col-8@sm": {
+		"prefix": "col-8@sm",
+		"body": [
+			"col-8@sm"
+		],
+		"description": "column span 8 @sm"
+	},
+	"col-8@md": {
+		"prefix": "col-8@md",
+		"body": [
+			"col-8@md"
+		],
+		"description": "column span 8 @md"
+	},
+	"col-8@lg": {
+		"prefix": "col-8@lg",
+		"body": [
+			"col-8@lg"
+		],
+		"description": "column span 8 @lg"
+	},
+	"col-8@xl": {
+		"prefix": "col-8@xl",
+		"body": [
+			"col-8@xl"
+		],
+		"description": "column span 8 @xl"
+	},
+	"col-9": {
+		"prefix": "col-9",
+		"body": [
+			"col-9"
+		],
+		"description": "column span 9"
+	},
+	"col-9@xs": {
+		"prefix": "col-9@xs",
+		"body": [
+			"col-9@xs"
+		],
+		"description": "column span 9 @xs"
+	},
+	"col-9@sm": {
+		"prefix": "col-9@sm",
+		"body": [
+			"col-9@sm"
+		],
+		"description": "column span 9 @sm"
+	},
+	"col-9@md": {
+		"prefix": "col-9@md",
+		"body": [
+			"col-9@md"
+		],
+		"description": "column span 9 @md"
+	},
+	"col-9@lg": {
+		"prefix": "col-9@lg",
+		"body": [
+			"col-9@lg"
+		],
+		"description": "column span 9 @lg"
+	},
+	"col-9@xl": {
+		"prefix": "col-9@xl",
+		"body": [
+			"col-9@xl"
+		],
+		"description": "column span 9 @xl"
+	},
+	"col-10": {
+		"prefix": "col-10",
+		"body": [
+			"col-10"
+		],
+		"description": "column span 10"
+	},
+	"col-10@xs": {
+		"prefix": "col-10@xs",
+		"body": [
+			"col-10@xs"
+		],
+		"description": "column span 10 @xs"
+	},
+	"col-10@sm": {
+		"prefix": "col-10@sm",
+		"body": [
+			"col-10@sm"
+		],
+		"description": "column span 10 @sm"
+	},
+	"col-10@md": {
+		"prefix": "col-10@md",
+		"body": [
+			"col-10@md"
+		],
+		"description": "column span 10 @md"
+	},
+	"col-10@lg": {
+		"prefix": "col-10@lg",
+		"body": [
+			"col-10@lg"
+		],
+		"description": "column span 10 @lg"
+	},
+	"col-10@xl": {
+		"prefix": "col-10@xl",
+		"body": [
+			"col-10@xl"
+		],
+		"description": "column span 10 @xl"
+	},
+	"col-11": {
+		"prefix": "col-11",
+		"body": [
+			"col-11"
+		],
+		"description": "column span 11"
+	},
+	"col-11@xs": {
+		"prefix": "col-11@xs",
+		"body": [
+			"col-11@xs"
+		],
+		"description": "column span 11 @xs"
+	},
+	"col-11@sm": {
+		"prefix": "col-11@sm",
+		"body": [
+			"col-11@sm"
+		],
+		"description": "column span 11 @sm"
+	},
+	"col-11@md": {
+		"prefix": "col-11@md",
+		"body": [
+			"col-11@md"
+		],
+		"description": "column span 11 @md"
+	},
+	"col-11@lg": {
+		"prefix": "col-11@lg",
+		"body": [
+			"col-11@lg"
+		],
+		"description": "column span 11 @lg"
+	},
+	"col-11@xl": {
+		"prefix": "col-11@xl",
+		"body": [
+			"col-11@xl"
+		],
+		"description": "column span 11 @xl"
+	},
+	"col-12": {
+		"prefix": "col-12",
+		"body": [
+			"col-12"
+		],
+		"description": "column span 12"
+	},
+	"col-12@xs": {
+		"prefix": "col-12@xs",
+		"body": [
+			"col-12@xs"
+		],
+		"description": "column span 12 @xs"
+	},
+	"col-12@sm": {
+		"prefix": "col-12@sm",
+		"body": [
+			"col-12@sm"
+		],
+		"description": "column span 12 @sm"
+	},
+	"col-12@md": {
+		"prefix": "col-12@md",
+		"body": [
+			"col-12@md"
+		],
+		"description": "column span 12 @md"
+	},
+	"col-12@lg": {
+		"prefix": "col-12@lg",
+		"body": [
+			"col-12@lg"
+		],
+		"description": "column span 12 @lg"
+	},
+	"col-12@xl": {
+		"prefix": "col-12@xl",
+		"body": [
+			"col-12@xl"
+		],
+		"description": "column span 12 @xl"
+	},
+	"col-1/2": {
+		"prefix": "col-1/2",
+		"body": [
+			"col-6"
+		],
+		"description": "column span 6"
+	},
+	"col-1/2@xs": {
+		"prefix": "col-1/2@xs",
+		"body": [
+			"col-6@xs"
+		],
+		"description": "column span 6 @xs"
+	},
+	"col-1/2@sm": {
+		"prefix": "col-1/2@sm",
+		"body": [
+			"col-6@sm"
+		],
+		"description": "column span 6 @sm"
+	},
+	"col-1/2@md": {
+		"prefix": "col-1/2@md",
+		"body": [
+			"col-6@md"
+		],
+		"description": "column span 6 @md"
+	},
+	"col-1/2@lg": {
+		"prefix": "col-1/2@lg",
+		"body": [
+			"col-6@lg"
+		],
+		"description": "column span 6 @lg"
+	},
+	"col-1/2@xl": {
+		"prefix": "col-1/2@xl",
+		"body": [
+			"col-6@xl"
+		],
+		"description": "column span 6 @xl"
+	},
+	"col-1/3": {
+		"prefix": "col-1/3",
+		"body": [
+			"col-4"
+		],
+		"description": "column span 4"
+	},
+	"col-1/3@xs": {
+		"prefix": "col-1/3@xs",
+		"body": [
+			"col-4@xs"
+		],
+		"description": "column span 4 @xs"
+	},
+	"col-1/3@sm": {
+		"prefix": "col-1/3@sm",
+		"body": [
+			"col-4@sm"
+		],
+		"description": "column span 4 @sm"
+	},
+	"col-1/3@md": {
+		"prefix": "col-1/3@md",
+		"body": [
+			"col-4@md"
+		],
+		"description": "column span 4 @md"
+	},
+	"col-1/3@lg": {
+		"prefix": "col-1/3@lg",
+		"body": [
+			"col-4@lg"
+		],
+		"description": "column span 4 @lg"
+	},
+	"col-1/3@xl": {
+		"prefix": "col-1/3@xl",
+		"body": [
+			"col-4@xl"
+		],
+		"description": "column span 4 @xl"
+	},
+	"col-2/3": {
+		"prefix": "col-2/3",
+		"body": [
+			"col-8"
+		],
+		"description": "column span 8"
+	},
+	"col-2/3@xs": {
+		"prefix": "col-2/3@xs",
+		"body": [
+			"col-8@xs"
+		],
+		"description": "column span 8 @xs"
+	},
+	"col-2/3@sm": {
+		"prefix": "col-2/3@sm",
+		"body": [
+			"col-8@sm"
+		],
+		"description": "column span 8 @sm"
+	},
+	"col-2/3@md": {
+		"prefix": "col-2/3@md",
+		"body": [
+			"col-8@md"
+		],
+		"description": "column span 8 @md"
+	},
+	"col-2/3@lg": {
+		"prefix": "col-2/3@lg",
+		"body": [
+			"col-8@lg"
+		],
+		"description": "column span 8 @lg"
+	},
+	"col-2/3@xl": {
+		"prefix": "col-2/3@xl",
+		"body": [
+			"col-8@xl"
+		],
+		"description": "column span 8 @xl"
+	},
+	"col-1/4": {
+		"prefix": "col-1/4",
+		"body": [
+			"col-3"
+		],
+		"description": "column span 3"
+	},
+	"col-1/4@xs": {
+		"prefix": "col-1/4@xs",
+		"body": [
+			"col-3@xs"
+		],
+		"description": "column span 3 @xs"
+	},
+	"col-1/4@sm": {
+		"prefix": "col-1/4@sm",
+		"body": [
+			"col-3@sm"
+		],
+		"description": "column span 3 @sm"
+	},
+	"col-1/4@md": {
+		"prefix": "col-1/4@md",
+		"body": [
+			"col-3@md"
+		],
+		"description": "column span 3 @md"
+	},
+	"col-1/4@lg": {
+		"prefix": "col-1/4@lg",
+		"body": [
+			"col-3@lg"
+		],
+		"description": "column span 3 @lg"
+	},
+	"col-1/4@xl": {
+		"prefix": "col-1/4@xl",
+		"body": [
+			"col-3@xl"
+		],
+		"description": "column span 3 @xl"
+	},
+	"col-3/4": {
+		"prefix": "col-3/4",
+		"body": [
+			"col-9"
+		],
+		"description": "column 9"
+	},
+	"col-3/4@xs": {
+		"prefix": "col-3/4@xs",
+		"body": [
+			"col-9@xs"
+		],
+		"description": "column 9 @xs"
+	},
+	"col-3/4@sm": {
+		"prefix": "col-3/4@sm",
+		"body": [
+			"col-9@sm"
+		],
+		"description": "column 9 @sm"
+	},
+	"col-3/4@md": {
+		"prefix": "col-3/4@md",
+		"body": [
+			"col-9@md"
+		],
+		"description": "column 9 @md"
+	},
+	"col-3/4@lg": {
+		"prefix": "col-3/4@lg",
+		"body": [
+			"col-9@lg"
+		],
+		"description": "column 9 @lg"
+	},
+	"col-3/4@xl": {
+		"prefix": "col-3/4@xl",
+		"body": [
+			"col-9@xl"
+		],
+		"description": "column 9 @xl"
+	},
+	"text-xxxl": {
+		"prefix": "text-xxxl",
+		"body": [
+			"text-xxxl"
+		],
+		"description": "text size xxxl"
+	},
+	"text-xxl": {
+		"prefix": "text-xxl",
+		"body": [
+			"text-xxl"
+		],
+		"description": "text size xxl"
+	},
+	"text-xl": {
+		"prefix": "text-xl",
+		"body": [
+			"text-xl"
+		],
+		"description": "text size xl"
+	},
+	"text-lg": {
+		"prefix": "text-lg",
+		"body": [
+			"text-lg"
+		],
+		"description": "text size lg"
+	},
+	"text-md": {
+		"prefix": "text-md",
+		"body": [
+			"text-md"
+		],
+		"description": "text size md"
+	},
+	"text-sm": {
+		"prefix": "text-sm",
+		"body": [
+			"text-sm"
+		],
+		"description": "text size sm"
+	},
+	"text-xs": {
+		"prefix": "text-xs",
+		"body": [
+			"text-xs"
+		],
+		"description": "text size xs"
+	},
+	"link": {
+		"prefix": "link",
+		"body": [
+			"link"
+		],
+		"description": "style of link elements"
+	},
+	"text-bold": {
+		"prefix": "text-bold",
+		"body": [
+			"text-bold"
+		],
+		"description": "font-weight bold"
+	},
+	"text-underline": {
+		"prefix": "text-underline",
+		"body": [
+			"text-underline"
+		],
+		"description": "font-decoration underline"
+	},
+	"text-component": {
+		"prefix": "text-component",
+		"body": [
+			"text-component"
+		],
+		"description": "wrapper of two or more text elements"
+	},
+	"article": {
+		"prefix": "article",
+		"body": [
+			"article"
+		],
+		"description": "article element"
+	},
+	"text-component__block": {
+		"prefix": "text-component__block",
+		"body": [
+			"text-component__block"
+		],
+		"description": "block element within .text-component"
+	},
+	"text-component__block--full-width": {
+		"prefix": "text-component__block--full-width",
+		"body": [
+			"text-component__block--full-width"
+		],
+		"description": "full-width .text-component__block element"
+	},
+	"text-component__block--left": {
+		"prefix": "text-component__block--left",
+		"body": [
+			"text-component__block--left"
+		],
+		"description": "float left .text-component__block element"
+	},
+	"text-component__block--right": {
+		"prefix": "text-component__block--right",
+		"body": [
+			"text-component__block--right"
+		],
+		"description": "float right .text-component__block element"
+	},
+	"text-component__block--outset": {
+		"prefix": "text-component__block--outset",
+		"body": [
+			"text-component__block--outset"
+		],
+		"description": "outset parent .text-component__block element"
+	},
+	"display @xs": {
+		"prefix": "display@xs",
+		"body": [
+			"display@xs"
+		],
+		"description": "display @xs"
+	},
+	"display @sm": {
+		"prefix": "display@sm",
+		"body": [
+			"display@sm"
+		],
+		"description": "display @sm"
+	},
+	"display @md": {
+		"prefix": "display@md",
+		"body": [
+			"display@md"
+		],
+		"description": "display @md"
+	},
+	"display @lg": {
+		"prefix": "display@lg",
+		"body": [
+			"display@lg"
+		],
+		"description": "display @lg"
+	},
+	"hide @xs": {
+		"prefix": "hide@xs",
+		"body": [
+			"hide@xs"
+		],
+		"description": "hide @xs"
+	},
+	"hide @sm": {
+		"prefix": "hide@sm",
+		"body": [
+			"hide@sm"
+		],
+		"description": "hide @sm"
+	},
+	"hide @md": {
+		"prefix": "hide@md",
+		"body": [
+			"hide@md"
+		],
+		"description": "hide @md"
+	},
+	"hide @lg": {
+		"prefix": "hide@lg",
+		"body": [
+			"hide@lg"
+		],
+		"description": "hide @lg"
+	},
+	"hide @xl": {
+		"prefix": "hide@xl",
+		"body": [
+			"hide@xl"
+		],
+		"description": "hide @xl"
+	},
+	"is visible": {
+		"prefix": "is-visible",
+		"body": [
+			"is-visible"
+		],
+		"description": "show element"
+	},
+	"is hidden": {
+		"prefix": "is-hidden",
+		"body": [
+			"is-hidden"
+		],
+		"description": "hide element"
+	},
+	"truncate text": {
+		"prefix": "text-truncate",
+		"body": [
+			"text-truncate"
+		],
+		"description": "truncate text"
+	},
+	"replace text": {
+		"prefix": "text-replace",
+		"body": [
+			"text-replace"
+		],
+		"description": "replace text with img"
+	},
+	"text-align center": {
+		"prefix": "text-center",
+		"body": [
+			"text-center"
+		],
+		"description": "text-align center"
+	},
+	"text-align center @xs": {
+		"prefix": "text-center@xs",
+		"body": [
+			"text-center@xs"
+		],
+		"description": "text-align center @xs"
+	},
+	"text-align center @sm": {
+		"prefix": "text-center@sm",
+		"body": [
+			"text-center@sm"
+		],
+		"description": "text-align center @sm"
+	},
+	"text-align center @md": {
+		"prefix": "text-center@md",
+		"body": [
+			"text-center@md"
+		],
+		"description": "text-align center @md"
+	},
+	"text-align center @lg": {
+		"prefix": "text-center@lg",
+		"body": [
+			"text-center@lg"
+		],
+		"description": "text-align center @lg"
+	},
+	"text-align center @xl": {
+		"prefix": "text-center@xl",
+		"body": [
+			"text-center@xl"
+		],
+		"description": "text-align center @xl"
+	},
+	"text-align left": {
+		"prefix": "text-left",
+		"body": [
+			"text-left"
+		],
+		"description": "text-align left"
+	},
+	"text-align left @xs": {
+		"prefix": "text-left@xs",
+		"body": [
+			"text-left@xs"
+		],
+		"description": "text-align left @xs"
+	},
+	"text-align left @sm": {
+		"prefix": "text-left@sm",
+		"body": [
+			"text-left@sm"
+		],
+		"description": "text-align left @sm"
+	},
+	"text-align left @md": {
+		"prefix": "text-left@md",
+		"body": [
+			"text-left@md"
+		],
+		"description": "text-align left @md"
+	},
+	"text-align left @lg": {
+		"prefix": "text-left@lg",
+		"body": [
+			"text-left@lg"
+		],
+		"description": "text-align left @lg"
+	},
+	"text-align left @xl": {
+		"prefix": "text-left@xl",
+		"body": [
+			"text-left@xl"
+		],
+		"description": "text-align left @xl"
+	},
+	"text-align right": {
+		"prefix": "text-right",
+		"body": [
+			"text-right"
+		],
+		"description": "text-align right"
+	},
+	"text-align right @xs": {
+		"prefix": "text-right@xs",
+		"body": [
+			"text-right@xs"
+		],
+		"description": "text-align right @xs"
+	},
+	"text-align right @sm": {
+		"prefix": "text-right@sm",
+		"body": [
+			"text-right@sm"
+		],
+		"description": "text-align right @sm"
+	},
+	"text-align right @md": {
+		"prefix": "text-right@md",
+		"body": [
+			"text-right@md"
+		],
+		"description": "text-align right @md"
+	},
+	"text-align right @lg": {
+		"prefix": "text-right@lg",
+		"body": [
+			"text-right@lg"
+		],
+		"description": "text-align right @lg"
+	},
+	"text-align right @xl": {
+		"prefix": "text-right@xl",
+		"body": [
+			"text-right@xl"
+		],
+		"description": "text-align right @xl"
+	},
+	"color inherit": {
+		"prefix": "color-inherit",
+		"body": [
+			"color-inherit"
+		],
+		"description": "color inherit"
+	},
+	"color contrast medium": {
+		"prefix": "color-contrast-medium",
+		"body": [
+			"color-contrast-medium"
+		],
+		"description": "color contrast medium"
+	},
+	"color contrast high": {
+		"prefix": "color-contrast-high",
+		"body": [
+			"color-contrast-high"
+		],
+		"description": "color contrast high"
+	},
+	"color contrast higher": {
+		"prefix": "color-contrast-higher",
+		"body": [
+			"color-contrast-higher"
+		],
+		"description": "color contrast higher"
+	},
+	"color primary": {
+		"prefix": "color-primary",
+		"body": [
+			"color-primary"
+		],
+		"description": "color primary"
+	},
+	"color accent": {
+		"prefix": "color-accent",
+		"body": [
+			"color-accent"
+		],
+		"description": "color accent"
+	},
+	"color success": {
+		"prefix": "color-success",
+		"body": [
+			"color-success"
+		],
+		"description": "color success"
+	},
+	"color warning": {
+		"prefix": "color-warning",
+		"body": [
+			"color-warning"
+		],
+		"description": "color warning"
+	},
+	"color error": {
+		"prefix": "color-error",
+		"body": [
+			"color-error"
+		],
+		"description": "color error"
+	},
+	"width 100%": {
+		"prefix": "width-100%",
+		"body": [
+			"width-100%"
+		],
+		"description": "width 100%"
+	},
+	"height 100%": {
+		"prefix": "height-100%",
+		"body": [
+			"height-100%"
+		],
+		"description": "height 100%"
+	},
+	"media/iframe wrapper": {
+		"prefix": "media-wrapper",
+		"body": [
+			"media-wrapper"
+		],
+		"description": "resposive iframe - 16:9 ratio"
+	},
+	"media/iframe wrapper 4:3": {
+		"prefix": "media-wrapper--4:3",
+		"body": [
+			"media-wrapper--4:3"
+		],
+		"description": "resposive iframe - 4:3 ratio"
+	}
+}

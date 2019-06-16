@@ -1,0 +1,120 @@
+{
+  "name": "codyhouse-snippets",
+	"displayName": "CodyHouse Snippets",
+	"description": "CodyHouse Framework Snippets",
+	"version": "0.0.1",
+	"publisher": "CodyHouse",
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+      {
+				"language": "blade",
+				"path": "./codyhouse-snippets-html.json"
+      },
+      {
+				"language": "ejs",
+				"path": "./codyhouse-snippets-html.json"
+      },
+      {
+				"language": "haml",
+				"path": "./codyhouse-snippets-html.json"
+      },
+      {
+				"language": "handlebars",
+				"path": "./codyhouse-snippets-html.json"
+      },
+      {
+				"language": "html",
+				"path": "./codyhouse-snippets-html.json"
+      },
+      {
+				"language": "jade",
+				"path": "./codyhouse-snippets-html.json"
+      },
+      {
+				"language": "markdown",
+				"path": "./codyhouse-snippets-html.json"
+      },
+      {
+				"language": "njk",
+				"path": "./codyhouse-snippets-html.json"
+      },
+      {
+				"language": "nunjucks",
+				"path": "./codyhouse-snippets-html.json"
+      },
+      {
+				"language": "php",
+				"path": "./codyhouse-snippets-html.json"
+      },
+      {
+				"language": "vue",
+				"path": "./codyhouse-snippets-html.json"
+      },
+      {
+				"language": "javascriptreact",
+				"path": "./codyhouse-snippets-html.json"
+      },
+      {
+				"language": "css",
+				"path": "./codyhouse-snippets-scss.json"
+      },
+      {
+				"language": "less",
+				"path": "./codyhouse-snippets-scss.json"
+      },
+      {
+				"language": "postcss",
+				"path": "./codyhouse-snippets-scss.json"
+      },
+      {
+				"language": "sass",
+				"path": "./codyhouse-snippets-scss.json"
+      },
+      {
+				"language": "scss",
+				"path": "./codyhouse-snippets-scss.json"
+      },
+      {
+				"language": "stylus",
+				"path": "./codyhouse-snippets-scss.json"
+      },
+      {
+				"language": "vue",
+				"path": "./codyhouse-snippets-scss.json"
+      },
+      {
+				"language": "javascript",
+				"path": "./codyhouse-snippets-js.json"
+      }
+		]
+  },
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "icon": "logo.png",
+  "keywords": [
+    "codyhouse",
+    "scss",
+    "css",
+    "html",
+    "js",
+    "snippets",
+    "autocomplete",
+    "vscode",
+    "vscode-extension"
+  ],
+  "author": "CodyHouse <hello@codyhouse.co>",
+  "license": "MIT",
+  "homepage": "https://github.com/CodyHouse/codyhouse-vscode-snippets/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/CodyHouse/codyhouse-vscode-snippets/issues",
+    "email": "help@codyhouse.co"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodyHouse/codyhouse-vscode-snippets.git"
+  }
+}

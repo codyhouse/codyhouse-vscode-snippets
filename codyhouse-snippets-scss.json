@@ -1,0 +1,635 @@
+{
+  "srHide": {
+		"prefix": "srHide",
+		"body": [
+			"@include srHide;"
+		],
+		"description": "Hide content visually, but keep it accessible to SR"
+	},
+	"srShow": {
+		"prefix": "srShow",
+		"body": [
+			"@include srShow;"
+		],
+		"description": "show visually hidden (accessible) content"
+  },
+	"breakpoint (xs)": {
+		"prefix": "{breakpoint} @xs",
+		"body": [
+			"@include breakpoint(xs) {",
+			"  ${1}",
+			"}"
+		],
+		"description": "Add media query for breakpoint (xs)"
+  },
+  "breakpoint (sm)": {
+		"prefix": "{breakpoint} @sm",
+		"body": [
+			"@include breakpoint(sm) {",
+			"  ${1}",
+			"}"
+		],
+		"description": "Add media query for breakpoint (sm)"
+  },
+  "breakpoint (md)": {
+		"prefix": "{breakpoint} @md",
+		"body": [
+			"@include breakpoint(md) {",
+			"  ${1}",
+			"}"
+		],
+		"description": "Add media query for breakpoint (md)"
+  },
+  "breakpoint (lg)": {
+		"prefix": "{breakpoint} @lg",
+		"body": [
+			"@include breakpoint(lg) {",
+			"  ${1}",
+			"}"
+		],
+		"description": "Add media query for breakpoint (lg)"
+  },
+  "breakpoint (xl)": {
+		"prefix": "{breakpoint} @xl",
+		"body": [
+			"@include breakpoint(xl) {",
+			"  ${1}",
+			"}"
+		],
+		"description": "Add media query for breakpoint (xl)"
+  },
+  "Color HSL Function": {
+		"prefix": "defineColorHSL",
+		"body": [
+			"@include defineColorHSL(--${1}, ${2:220}, ${3:90}%, ${4:36}%);"
+		],
+		"description": "Define color variable"
+	},
+  "color primary darker": {
+		"prefix": "--color-primary-darker",
+		"body": [
+			"var(--color-primary-darker)"
+		],
+		"description": "color primary darker"
+  },
+  "color primary dark": {
+		"prefix": "--color-primary-dark",
+		"body": [
+			"var(--color-primary-dark)"
+		],
+		"description": "color primary dark"
+  },
+  "color primary": {
+		"prefix": "--color-primary",
+		"body": [
+			"var(--color-primary)"
+		],
+		"description": "color primary"
+  },
+  "color primary light": {
+		"prefix": "--color-primary-light",
+		"body": [
+			"var(--color-primary-light)"
+		],
+		"description": "color primary light"
+  },
+  "color primary lighter": {
+		"prefix": "--color-primary-lighter",
+		"body": [
+			"var(--color-primary-lighter)"
+		],
+		"description": "color primary lighter"
+  },
+  "color accent darker": {
+		"prefix": "--color-accent-darker",
+		"body": [
+			"var(--color-accent-darker)"
+		],
+		"description": "color accent darker"
+  },
+  "color accent dark": {
+		"prefix": "--color-accent-dark",
+		"body": [
+			"var(--color-accent-dark)"
+		],
+		"description": "color accent dark"
+  },
+  "color accent": {
+		"prefix": "--color-accent",
+		"body": [
+			"var(--color-accent)"
+		],
+		"description": "color accent"
+  },
+  "color accent light": {
+		"prefix": "--color-accent-light",
+		"body": [
+			"var(--color-accent-light)"
+		],
+		"description": "color accent light"
+  },
+  "color accent lighter": {
+		"prefix": "--color-accent-lighter",
+		"body": [
+			"var(--color-accent-lighter)"
+		],
+		"description": "color accent lighter"
+  },
+  "color black": {
+		"prefix": "--color-black",
+		"body": [
+			"var(--color-black)"
+		],
+		"description": "color black"
+  },
+  "color white": {
+		"prefix": "--color-white",
+		"body": [
+			"var(--color-white)"
+		],
+		"description": "color white"
+  },
+  "color success darker": {
+		"prefix": "--color-success-darker",
+		"body": [
+			"var(--color-success-darker)"
+		],
+		"description": "color success darker"
+  },
+  "color success dark": {
+		"prefix": "--color-success-dark",
+		"body": [
+			"var(--color-success-dark)"
+		],
+		"description": "color success dark"
+  },
+  "color success": {
+		"prefix": "--color-success",
+		"body": [
+			"var(--color-success)"
+		],
+		"description": "color success"
+  },
+  "color success light": {
+		"prefix": "--color-success-light",
+		"body": [
+			"var(--color-success-light)"
+		],
+		"description": "color success light"
+  },
+  "color success lighter": {
+		"prefix": "--color-success-lighter",
+		"body": [
+			"var(--color-success-lighter)"
+		],
+		"description": "color success lighter"
+  },
+  "color error darker": {
+		"prefix": "--color-error-darker",
+		"body": [
+			"var(--color-error-darker)"
+		],
+		"description": "color error darker"
+  },
+  "color error dark": {
+		"prefix": "--color-error-dark",
+		"body": [
+			"var(--color-error-dark)"
+		],
+		"description": "color error dark"
+  },
+  "color error": {
+		"prefix": "--color-error",
+		"body": [
+			"var(--color-error)"
+		],
+		"description": "color error"
+  },
+  "color error light": {
+		"prefix": "--color-error-light",
+		"body": [
+			"var(--color-error-light)"
+		],
+		"description": "color error light"
+  },
+  "color error lighter": {
+		"prefix": "--color-error-lighter",
+		"body": [
+			"var(--color-error-lighter)"
+		],
+		"description": "color error lighter"
+  },
+  "color warning darker": {
+		"prefix": "--color-warning-darker",
+		"body": [
+			"var(--color-warning-darker)"
+		],
+		"description": "color warning darker"
+  },
+  "color warning dark": {
+		"prefix": "--color-warning-dark",
+		"body": [
+			"var(--color-warning-dark)"
+		],
+		"description": "color warning dark"
+  },
+  "color warning": {
+		"prefix": "--color-warning",
+		"body": [
+			"var(--color-warning)"
+		],
+		"description": "color warning"
+  },
+  "color warning light": {
+		"prefix": "--color-warning-light",
+		"body": [
+			"var(--color-warning-light)"
+		],
+		"description": "color warning light"
+  },
+  "color warning lighter": {
+		"prefix": "--color-warning-lighter",
+		"body": [
+			"var(--color-warning-lighter)"
+		],
+		"description": "color warning lighter"
+  },
+  "color background": {
+		"prefix": "--color-bg",
+		"body": [
+			"var(--color-bg)"
+		],
+		"description": "color background"
+  },
+  "color contrast lower": {
+		"prefix": "--color-contrast-lower",
+		"body": [
+			"var(--color-contrast-lower)"
+		],
+		"description": "color contrast lower"
+  },
+  "color contrast low": {
+		"prefix": "--color-contrast-low",
+		"body": [
+			"var(--color-contrast-low)"
+		],
+		"description": "color contrast low"
+  },
+  "color contrast medium": {
+		"prefix": "--color-contrast-medium",
+		"body": [
+			"var(--color-contrast-medium)"
+		],
+		"description": "color contrast medium"
+  },
+  "color contrast high": {
+		"prefix": "--color-contrast-high",
+		"body": [
+			"var(--color-contrast-high)"
+		],
+		"description": "color contrast high"
+  },
+  "color contrast higher": {
+		"prefix": "--color-contrast-higher",
+		"body": [
+			"var(--color-contrast-higher)"
+		],
+		"description": "color contrast higher"
+  },
+  "fontSmooth": {
+		"prefix": "fontSmooth",
+		"body": [
+			"@include fontSmooth;"
+		],
+		"description": "edit font rendering"
+  },
+  "lhCrop": {
+		"prefix": "lhCrop",
+		"body": [
+			"@include lhCrop(${1:lineHeight}, ${2:var(--font-primary-capital-letter): 1});"
+		],
+		"description": "crop top space on text elements"
+  },
+  "triangle": {
+		"prefix": "triangle",
+		"body": [
+			"@include triangle(${1:direction: up/down/left/right}, ${2:width: 12px}, ${3:color});"
+		],
+		"description": "CSS triangle"
+  },
+  "reset (mixin)": {
+		"prefix": "reset",
+		"body": [
+			"@include reset;"
+		],
+		"description": "reset user agent style"
+  },
+  "alpha": {
+		"prefix": "alpha",
+		"body": [
+			"alpha(${1:color}, ${2:opacity: 1});"
+		],
+		"description": "alpha color function"
+  },
+  "lightness": {
+		"prefix": "lightness",
+		"body": [
+			"lightness(${1:color}, ${2:lightnessMultiplier: 1});"
+		],
+		"description": "lightness color function"
+  },
+  "spaceUnit": {
+		"prefix": "spaceUnit",
+		"body": [
+			"@include spaceUnit(${1:spaceUnit});"
+		],
+		"description": "set new space unit"
+  },
+  "bounce timing function": {
+		"prefix": "{timing function} --bounce",
+		"body": [
+			"var(--bounce)"
+		],
+		"description": "bounce timing function"
+  },
+  "ease-in-out timing function": {
+		"prefix": "{timing function} --ease-in-out",
+		"body": [
+			"var(--ease-in-out)"
+		],
+		"description": "ease-in-out timing function"
+  },
+  "ease-in timing function": {
+		"prefix": "{timing function} --ease-in",
+		"body": [
+			"var(--ease-in)"
+		],
+		"description": "ease-in timing function"
+  },
+  "ease-out timing function": {
+		"prefix": "{timing function} --ease-out",
+		"body": [
+			"var(--ease-out)"
+		],
+		"description": "ease-out timing function"
+  },
+  "radius sm": {
+		"prefix": "--radius-sm",
+		"body": [
+			"var(--radius-sm)"
+		],
+		"description": "radius size sm"
+  },
+  "radius md": {
+		"prefix": "--radius-md",
+		"body": [
+			"var(--radius-md)"
+		],
+		"description": "radius size md"
+  },
+  "radius lg": {
+		"prefix": "--radius-lg",
+		"body": [
+			"var(--radius-lg)"
+		],
+		"description": "radius size lg"
+  },
+  "shadow sm": {
+		"prefix": "--shadow-sm",
+		"body": [
+			"var(--shadow-sm)"
+		],
+		"description": "shadow size sm"
+  },
+  "shadow md": {
+		"prefix": "--shadow-md",
+		"body": [
+			"var(--shadow-md)"
+		],
+		"description": "shadow size md"
+  },
+  "shadow lg": {
+		"prefix": "--shadow-lg",
+		"body": [
+			"var(--shadow-lg)"
+		],
+		"description": "shadow size lg"
+  },
+  "space xxxxs": {
+		"prefix": "--space-xxxxs",
+		"body": [
+			"var(--space-xxxxs)"
+		],
+		"description": "space size xxxxs"
+  },
+  "space xxxs": {
+		"prefix": "--space-xxxs",
+		"body": [
+			"var(--space-xxxs)"
+		],
+		"description": "space size xxxs"
+  },
+  "space xxs": {
+		"prefix": "--space-xxs",
+		"body": [
+			"var(--space-xxs)"
+		],
+		"description": "space size xxs"
+  },
+  "space xs": {
+		"prefix": "--space-xs",
+		"body": [
+			"var(--space-xs)"
+		],
+		"description": "space size xs"
+  },
+  "space sm": {
+		"prefix": "--space-sm",
+		"body": [
+			"var(--space-sm)"
+		],
+		"description": "space size sm"
+  },
+  "space md": {
+		"prefix": "--space-md",
+		"body": [
+			"var(--space-md)"
+		],
+		"description": "space size md"
+  },
+  "space lg": {
+		"prefix": "--space-lg",
+		"body": [
+			"var(--space-lg)"
+		],
+		"description": "space size lg"
+  },
+  "space xl": {
+		"prefix": "--space-xl",
+		"body": [
+			"var(--space-xl)"
+		],
+		"description": "space size xl"
+  },
+  "space xxl": {
+		"prefix": "--space-xxl",
+		"body": [
+			"var(--space-xxl)"
+		],
+		"description": "space size xxl"
+  },
+  "space xxxl": {
+		"prefix": "--space-xxxl",
+		"body": [
+			"var(--space-xxxl)"
+		],
+		"description": "space size xxxl"
+  },
+  "space xxxxl": {
+		"prefix": "--space-xxxxl",
+		"body": [
+			"var(--space-xxxxl)"
+		],
+		"description": "space size xxxxl"
+  },
+  "component padding": {
+		"prefix": "--component-padding",
+		"body": [
+			"var(--component-padding)"
+		],
+		"description": "space = component padding"
+  },
+  "body line-height": {
+		"prefix": "--body-line-height",
+		"body": [
+			"var(--body-line-height)"
+		],
+		"description": "body line-height"
+	},
+	"heading line-height": {
+		"prefix": "--heading-line-height",
+		"body": [
+			"var(--heading-line-height)"
+		],
+		"description": "headings line-height"
+	},
+	"line-height multiplier": {
+		"prefix": "--line-height-multiplier",
+		"body": [
+			"var(--line-height-multiplier)"
+		],
+		"description": "modify line-height of text elements"
+	},
+	"text vertical space multiplier": {
+		"prefix": "--text-vspace-multiplier",
+		"body": [
+			"var(--text-vspace-multiplier)"
+		],
+		"description": "modify margins of text elements"
+	},
+	"primary font-family": {
+		"prefix": "--font-primary",
+		"body": [
+			"var(--font-primary)"
+		],
+		"description": "primary font-family"
+	},
+	"body font-size": {
+		"prefix": "--text-base-size",
+		"body": [
+			"var(--text-base-size)"
+		],
+		"description": "body font-size"
+	},
+	"type scale": {
+		"prefix": "--text-scale-ratio",
+		"body": [
+			"var(--text-scale-ratio)"
+		],
+		"description": "control type scale"
+	},
+	"text xs": {
+		"prefix": "--text-xs",
+		"body": [
+			"var(--text-xs)"
+		],
+		"description": "text size xs"
+	},
+	"text sm": {
+		"prefix": "--text-sm",
+		"body": [
+			"var(--text-sm)"
+		],
+		"description": "text size sm"
+	},
+	"text md": {
+		"prefix": "--text-md",
+		"body": [
+			"var(--text-md)"
+		],
+		"description": "text size md"
+	},
+	"text lg": {
+		"prefix": "--text-lg",
+		"body": [
+			"var(--text-lg)"
+		],
+		"description": "text size lg"
+	},
+	"text xl": {
+		"prefix": "--text-xl",
+		"body": [
+			"var(--text-xl)"
+		],
+		"description": "text size xl"
+	},
+	"text xxl": {
+		"prefix": "--text-xxl",
+		"body": [
+			"var(--text-xxl)"
+		],
+		"description": "text size xxl"
+	},
+	"text xxxl": {
+		"prefix": "--text-xxxl",
+		"body": [
+			"var(--text-xxxl)"
+		],
+		"description": "text size xxxl"
+	},
+	"display value": {
+		"prefix": "--display",
+		"body": [
+			"var(--display)"
+		],
+		"description": "display value for .is-visible/.is-hidden"
+	},
+	"z-index header": {
+		"prefix": "--zindex-header",
+		"body": [
+			"var(--zindex-header)"
+		],
+		"description": "z-index header"
+	},
+	"z-index popover": {
+		"prefix": "--zindex-popover",
+		"body": [
+			"var(--zindex-popover)"
+		],
+		"description": "z-index popover elements"
+	},
+	"z-index fixed": {
+		"prefix": "--zindex-fixed-element",
+		"body": [
+			"var(--zindex-fixed-element)"
+		],
+		"description": "z-index fixed elements"
+	},
+	"z-index overlay": {
+		"prefix": "--zindex-overlay",
+		"body": [
+			"var(--zindex-overlay)"
+		],
+		"description": "z-index overlay elements"
+	}
+}

@@ -1,0 +1,58 @@
+{
+	"addClass": {
+		"prefix": "addClass",
+		"body": [
+			"Util.addClass(${1:element}, '${2:className}');"
+		],
+		"description": "add a class (or list of classes) to an element"
+	},
+	"removeClass": {
+		"prefix": "removeClass",
+		"body": [
+			"Util.removeClass(${1:element}, '${2:className}');"
+		],
+		"description": "remove a class (or list of classes) from an element"
+	},
+	"hasClass": {
+		"prefix": "hasClass",
+		"body": [
+			"Util.hasClass(${1:element}, '${2:className}');"
+		],
+		"description": "check if element has a specified class"
+	},
+	"toggleClass": {
+		"prefix": "toggleClass",
+		"body": [
+			"Util.toggleClass(${1:element}, '${2:className}', ${3:bool});"
+		],
+		"description": "add or remove class (or list of classes) from an element"
+	},
+	"cssSupports": {
+		"prefix": "supports",
+		"body": [
+			"Util.cssSupports('${1:display}', '${2:block}');"
+		],
+		"description": "add or remove class (or list of classes) from an element"
+	},
+	"focus": {
+		"prefix": "focus",
+		"body": [
+			"Util.moveFocus(${1:element});"
+		],
+		"description": "move focus to a different element"
+	},
+	"children": {
+		"prefix": "children",
+		"body": [
+			"Util.getChildrenByClassName(${1:element}, '${2:className}');"
+		],
+		"description": "get children that have a specific class"
+	},
+	"index": {
+		"prefix": "index",
+		"body": [
+			"Util.getIndexInArray(${1:array}, ${2:element});"
+		],
+		"description": "index of a node element in an array"
+	}
+}
