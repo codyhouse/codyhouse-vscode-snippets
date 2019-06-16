@@ -126,91 +126,91 @@
 		"description": "reset user agent style"
   },
   "flex": {
-		"prefix": "{flex} flex",
+		"prefix": "flex",
 		"body": [
 			"flex"
 		],
 		"description": "display: flex"
   },
   "inline-flex": {
-		"prefix": "{flex} inline-flex",
+		"prefix": "inline-flex",
 		"body": [
 			"inline-flex"
 		],
 		"description": "display: inline-flex"
   },
   "flex-wrap": {
-		"prefix": "{flex} flex-wrap",
+		"prefix": "flex-wrap",
 		"body": [
 			"flex-wrap"
 		],
 		"description": "flex-wrap: wrap"
   },
   "flex-column": {
-		"prefix": "{flex} flex-column",
+		"prefix": "flex-column",
 		"body": [
 			"flex-column"
 		],
 		"description": "flex-direction: column"
   },
   "flex-row": {
-		"prefix": "{flex} flex-row",
+		"prefix": "flex-row",
 		"body": [
 			"flex-row"
 		],
 		"description": "flex-direction: row"
   },
   "flex-center": {
-		"prefix": "{flex} flex-center",
+		"prefix": "flex-center",
 		"body": [
 			"flex-center"
 		],
 		"description": "align child element on both axis"
   },
   "justify-start": {
-		"prefix": "{flex} justify-start",
+		"prefix": "justify-start",
 		"body": [
 			"justify-start"
 		],
 		"description": "justify-content: flex-start"
   },
   "justify-end": {
-		"prefix": "{flex} justify-end",
+		"prefix": "justify-end",
 		"body": [
 			"justify-end"
 		],
 		"description": "justify-content: flex-end"
   },
   "justify-center": {
-		"prefix": "{flex} justify-center",
+		"prefix": "justify-center",
 		"body": [
 			"justify-center"
 		],
 		"description": "justify-content: center"
   },
   "justify-between": {
-		"prefix": "{flex} justify-between",
+		"prefix": "justify-between",
 		"body": [
 			"justify-between"
 		],
 		"description": "justify-content: space-between"
   },
   "items-center": {
-		"prefix": "{flex} items-center",
+		"prefix": "items-center",
 		"body": [
 			"items-center"
 		],
 		"description": "align-items: center"
   },
   "items-start": {
-		"prefix": "{flex} items-start",
+		"prefix": "items-start",
 		"body": [
 			"items-start"
 		],
 		"description": "align-items: flex-start"
   },
   "items-end": {
-		"prefix": "{flex} items-end",
+		"prefix": "items-end",
 		"body": [
 			"items-end"
 		],
@@ -602,77 +602,77 @@
 		"description": "align-items: flex-end @xl"
   },
   "flex-grow": {
-		"prefix": "{flex} flex-grow",
+		"prefix": "flex-grow",
 		"body": [
 			"flex-grow"
 		],
 		"description": "flex-grow: 1"
   },
   "flex-shrink-0": {
-		"prefix": "{flex} flex-shrink-0",
+		"prefix": "flex-shrink-0",
 		"body": [
 			"flex-shrink-0"
 		],
 		"description": "flex-shrink: 0"
   },
   "flex gap xxxs": {
-		"prefix": "{flex} flex-gap-xxxs",
+		"prefix": "flex-gap-xxxs",
 		"body": [
 			"flex-gap-xxxs"
 		],
 		"description": "flex gap xxxs"
   },
   "flex gap xxs": {
-		"prefix": "{flex} flex-gap-xxs",
+		"prefix": "flex-gap-xxs",
 		"body": [
 			"flex-gap-xxs"
 		],
 		"description": "flex gap xxs"
   },
   "flex gap xs": {
-		"prefix": "{flex} flex-gap-xs",
+		"prefix": "flex-gap-xs",
 		"body": [
 			"flex-gap-xs"
 		],
 		"description": "flex gap xs"
   },
   "flex gap sm": {
-		"prefix": "{flex} flex-gap-sm",
+		"prefix": "flex-gap-sm",
 		"body": [
 			"flex-gap-sm"
 		],
 		"description": "flex gap sm"
   },
   "flex gap md": {
-		"prefix": "{flex} flex-gap-md",
+		"prefix": "flex-gap-md",
 		"body": [
 			"flex-gap-md"
 		],
 		"description": "flex gap md"
   },
   "flex gap lg": {
-		"prefix": "{flex} flex-gap-lg",
+		"prefix": "flex-gap-lg",
 		"body": [
 			"flex-gap-lg"
 		],
 		"description": "flex gap lg"
   },
   "flex gap xl": {
-		"prefix": "{flex} flex-gap-xl",
+		"prefix": "flex-gap-xl",
 		"body": [
 			"flex-gap-xl"
 		],
 		"description": "flex gap xl"
   },
   "flex gap xxl": {
-		"prefix": "{flex} flex-gap-xxl",
+		"prefix": "flex-gap-xxl",
 		"body": [
 			"flex-gap-xxl"
 		],
 		"description": "flex gap xxl"
   },
   "flex gap xxxl": {
-		"prefix": "{flex} flex-gap-xxxl",
+		"prefix": "flex-gap-xxxl",
 		"body": [
 			"flex-gap-xxxl"
 		],
@@ -1925,42 +1925,42 @@
 		"description": "has-padding @xl"
   },
   "form control": {
-		"prefix": "{form} form-control",
+		"prefix": "form-control",
 		"body": [
 			"form-control"
 		],
 		"description": "basic style for form element"
 	},
 	"form legend": {
-		"prefix": "{form} form-legend",
+		"prefix": "form-legend",
 		"body": [
 			"form-legend"
 		],
 		"description": "form legend element"
 	},
 	"form label": {
-		"prefix": "{form} form-label",
+		"prefix": "form-label",
 		"body": [
 			"form-label"
 		],
 		"description": "form label element"
 	},
 	"form error message": {
-		"prefix": "{form} form__msg-error",
+		"prefix": "form__msg-error",
 		"body": [
 			"form__msg-error"
 		],
 		"description": "form error message"
 	},
 	"radio list": {
-		"prefix": "{form} radio-list",
+		"prefix": "radio-list",
 		"body": [
 			"radio-list"
 		],
 		"description": "list of radio inputs"
 	},
 	"checkbox list": {
-		"prefix": "{form} checkbox-list",
+		"prefix": "checkbox-list",
 		"body": [
 			"checkbox-list"
 		],
