@@ -1,5 +1,7 @@
 # CodyHouse Snippets
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/CodyHouse.codyhouse-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=CodyHouse.codyhouse-snippets)
+
 A set of [CodyHouse](https://codyhouse.co/ds/docs/framework) snippets for Visual Studio Code.
 
 The extension provides autocompletion for `HTML` (`CSS` utility classes), `SCSS` (custom properties), and `JS` utility functions.
