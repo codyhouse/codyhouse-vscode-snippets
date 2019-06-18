@@ -2,7 +2,7 @@
   "name": "codyhouse-snippets",
 	"displayName": "CodyHouse Snippets",
 	"description": "CodyHouse Framework Snippets",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"publisher": "CodyHouse",
 	"categories": [
 		"Snippets"
@@ -10,51 +10,7 @@
 	"contributes": {
 		"snippets": [
       {
-				"language": "blade",
-				"path": "./codyhouse-snippets-html.json"
-      },
-      {
-				"language": "ejs",
-				"path": "./codyhouse-snippets-html.json"
-      },
-      {
-				"language": "haml",
-				"path": "./codyhouse-snippets-html.json"
-      },
-      {
-				"language": "handlebars",
-				"path": "./codyhouse-snippets-html.json"
-      },
-      {
 				"language": "html",
-				"path": "./codyhouse-snippets-html.json"
-      },
-      {
-				"language": "jade",
-				"path": "./codyhouse-snippets-html.json"
-      },
-      {
-				"language": "markdown",
-				"path": "./codyhouse-snippets-html.json"
-      },
-      {
-				"language": "njk",
-				"path": "./codyhouse-snippets-html.json"
-      },
-      {
-				"language": "nunjucks",
-				"path": "./codyhouse-snippets-html.json"
-      },
-      {
-				"language": "php",
-				"path": "./codyhouse-snippets-html.json"
-      },
-      {
-				"language": "vue",
-				"path": "./codyhouse-snippets-html.json"
-      },
-      {
-				"language": "javascriptreact",
 				"path": "./codyhouse-snippets-html.json"
       },
       {
@@ -79,10 +35,6 @@
       },
       {
 				"language": "stylus",
-				"path": "./codyhouse-snippets-scss.json"
-      },
-      {
-				"language": "vue",
 				"path": "./codyhouse-snippets-scss.json"
       },
       {
