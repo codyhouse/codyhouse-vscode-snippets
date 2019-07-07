@@ -3316,5 +3316,12 @@
 			"media-wrapper--4:3"
 		],
 		"description": "resposive iframe - 4:3 ratio"
+	},
+	"clearfix": {
+		"prefix": "clearfix",
+		"body": [
+			"clearfix"
+		],
+		"description": "clear children float"
 	}
 }
