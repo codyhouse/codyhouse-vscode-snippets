@@ -1973,6 +1973,20 @@
 		],
 		"description": "set width and center content horizontally"
 	},
+	"max-width xxxxs": {
+		"prefix": "max-width-xxxxs",
+		"body": [
+			"max-width-xxxxs"
+		],
+		"description": "max-width xxxxs"
+	},
+	"max-width xxxs": {
+		"prefix": "max-width-xxxs",
+		"body": [
+			"max-width-xxxs"
+		],
+		"description": "max-width xxxs"
+	},
 	"max-width xxs": {
 		"prefix": "max-width-xxs",
 		"body": [
@@ -2021,6 +2035,20 @@
 			"max-width-xxl"
 		],
 		"description": "max-width xxl"
+	},
+	"max-width xxxl": {
+		"prefix": "max-width-xxxl",
+		"body": [
+			"max-width-xxxl"
+		],
+		"description": "max-width xxxl"
+	},
+	"max-width xxxxl": {
+		"prefix": "max-width-xxxxl",
+		"body": [
+			"max-width-xxxxl"
+		],
+		"description": "max-width xxxxl"
 	},
 	"max-width adaptive sm": {
 		"prefix": "max-width-adaptive-sm",
