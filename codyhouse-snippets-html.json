@@ -216,6 +216,20 @@
 		],
 		"description": "align-items: flex-end"
   },
+  "flex@xs": {
+		"prefix": "flex@xs",
+		"body": [
+			"flex@xs"
+		],
+		"description": "display: flex @xs"
+  },
+  "inline-flex@xs": {
+		"prefix": "inline-flex@xs",
+		"body": [
+			"inline-flex@xs"
+		],
+		"description": "display: inline-flex @xs"
+  },
   "flex-wrap@xs": {
 		"prefix": "flex-wrap@xs",
 		"body": [
@@ -292,6 +306,20 @@
 			"items-end@xs"
 		],
 		"description": "align-items: flex-end @xs"
+  },
+  "flex@sm": {
+		"prefix": "flex@sm",
+		"body": [
+			"flex@sm"
+		],
+		"description": "display: flex @sm"
+  },
+  "inline-flex@sm": {
+		"prefix": "inline-flex@sm",
+		"body": [
+			"inline-flex@sm"
+		],
+		"description": "display: inline-flex @sm"
   },
   "flex-wrap@sm": {
 		"prefix": "flex-wrap@sm",
@@ -370,6 +398,20 @@
 		],
 		"description": "align-items: flex-end @sm"
   },
+  "flex@md": {
+		"prefix": "flex@md",
+		"body": [
+			"flex@md"
+		],
+		"description": "display: flex @md"
+  },
+  "inline-flex@md": {
+		"prefix": "inline-flex@md",
+		"body": [
+			"inline-flex@md"
+		],
+		"description": "display: inline-flex @md"
+  },
   "flex-wrap@md": {
 		"prefix": "flex-wrap@md",
 		"body": [
@@ -447,6 +489,20 @@
 		],
 		"description": "align-items: flex-end @md"
   },
+  "flex@lg": {
+		"prefix": "flex@lg",
+		"body": [
+			"flex@lg"
+		],
+		"description": "display: flex @lg"
+  },
+  "inline-flex@lg": {
+		"prefix": "inline-flex@lg",
+		"body": [
+			"inline-flex@lg"
+		],
+		"description": "display: inline-flex @lg"
+  },
   "flex-wrap@lg": {
 		"prefix": "flex-wrap@lg",
 		"body": [
@@ -523,6 +579,20 @@
 			"items-end@lg"
 		],
 		"description": "align-items: flex-end @lg"
+  },
+  "flex@xl": {
+		"prefix": "flex@xl",
+		"body": [
+			"flex@xl"
+		],
+		"description": "display: flex @xl"
+  },
+  "inline-flex@xl": {
+		"prefix": "inline-flex@xl",
+		"body": [
+			"inline-flex@xl"
+		],
+		"description": "display: inline-flex @xl"
   },
   "flex-wrap@xl": {
 		"prefix": "flex-wrap@xl",
