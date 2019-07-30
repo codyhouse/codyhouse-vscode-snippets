@@ -3421,5 +3421,117 @@
 			"clearfix"
 		],
 		"description": "clear children float"
+  },
+  "border": {
+		"prefix": "border",
+		"body": [
+			"border"
+		],
+		"description": "add 1px border"
+  },
+  "border top": {
+		"prefix": "border-top",
+		"body": [
+			"border-top"
+		],
+		"description": "add 1px border-top"
+  },
+  "border bottom": {
+		"prefix": "border-bottom",
+		"body": [
+			"border-bottom"
+		],
+		"description": "add 1px border-bottom"
+  },
+  "border left": {
+		"prefix": "border-left",
+		"body": [
+			"border-left"
+		],
+		"description": "add 1px border-left"
+  },
+  "border right": {
+		"prefix": "border-right",
+		"body": [
+			"border-right"
+		],
+		"description": "add 1px border-right"
+  },
+  "border-2": {
+		"prefix": "border-2",
+		"body": [
+			"border-2"
+		],
+		"description": "set border-width equal to 2px"
+  },
+  "border contrast lower": {
+		"prefix": "border-contrast-lower",
+		"body": [
+			"border-contrast-lower"
+		],
+		"description": "set border-color equal to color-contrast-lower"
+  },
+  "border contrast medium": {
+		"prefix": "border-contrast-medium",
+		"body": [
+			"border-contrast-medium"
+		],
+		"description": "set border-color equal to color-contrast-medium"
+  },
+  "radius sm": {
+		"prefix": "radius-sm",
+		"body": [
+			"radius-sm"
+		],
+		"description": "border radius small"
+  },
+  "radius md": {
+		"prefix": "radius-md",
+		"body": [
+			"radius-md"
+		],
+		"description": "border radius medium"
+  },
+  "radius lg": {
+		"prefix": "radius-lg",
+		"body": [
+			"radius-lg"
+		],
+		"description": "border radius large"
+  },
+  "shadow xs": {
+		"prefix": "shadow-xs",
+		"body": [
+			"shadow-xs"
+		],
+		"description": "box shadow xsmall"
+	},
+  "shadow sm": {
+		"prefix": "shadow-sm",
+		"body": [
+			"shadow-sm"
+		],
+		"description": "box shadow small"
+  },
+  "shadow md": {
+		"prefix": "shadow-md",
+		"body": [
+			"shadow-md"
+		],
+		"description": "box shadow medium"
+  },
+  "shadow lg": {
+		"prefix": "shadow-lg",
+		"body": [
+			"shadow-lg"
+		],
+		"description": "box shadow large"
+  },
+  "shadow xl": {
+		"prefix": "shadow-xl",
+		"body": [
+			"shadow-xl"
+		],
+		"description": "box shadow xlarge"
 	}
 }

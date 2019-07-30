@@ -394,6 +394,13 @@
 		],
 		"description": "radius size lg"
   },
+  "shadow xs": {
+		"prefix": "--shadow-xs",
+		"body": [
+			"var(--shadow-xs)"
+		],
+		"description": "shadow size xs"
+  },
   "shadow sm": {
 		"prefix": "--shadow-sm",
 		"body": [
@@ -414,6 +421,13 @@
 			"var(--shadow-lg)"
 		],
 		"description": "shadow size lg"
+  },
+  "shadow xl": {
+		"prefix": "--shadow-xl",
+		"body": [
+			"var(--shadow-xl)"
+		],
+		"description": "shadow size xl"
   },
   "space xxxxs": {
 		"prefix": "--space-xxxxs",
