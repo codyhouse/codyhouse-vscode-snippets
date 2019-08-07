@@ -3533,5 +3533,89 @@
 			"shadow-xl"
 		],
 		"description": "box shadow xlarge"
+  },
+  "line-height xs": {
+		"prefix": "line-height-xs",
+		"body": [
+			"line-height-xs"
+		],
+		"description": "line-height xs"
+	},
+  "line-height sm": {
+		"prefix": "line-height-sm",
+		"body": [
+			"line-height-sm"
+		],
+		"description": "line-height sm"
+	},
+  "line-height md": {
+		"prefix": "line-height-md",
+		"body": [
+			"line-height-md"
+		],
+		"description": "line-height md"
+	},
+  "line-height lg": {
+		"prefix": "line-height-lg",
+		"body": [
+			"line-height-lg"
+		],
+		"description": "line-height lg"
+	},
+  "line-height xl": {
+		"prefix": "line-height-xl",
+		"body": [
+			"line-height-xl"
+		],
+		"description": "line-height xl"
+	},
+  "vertical space xxs": {
+		"prefix": "v-space-xxs",
+		"body": [
+			"v-space-xxs"
+		],
+		"description": "vertical space xxs"
+	},
+  "vertical space xs": {
+		"prefix": "v-space-xs",
+		"body": [
+			"v-space-xs"
+		],
+		"description": "vertical space xs"
+	},
+  "vertical space sm": {
+		"prefix": "v-space-sm",
+		"body": [
+			"v-space-sm"
+		],
+		"description": "vertical space sm"
+	},
+  "vertical space md": {
+		"prefix": "v-space-md",
+		"body": [
+			"v-space-md"
+		],
+		"description": "vertical space md"
+	},
+  "vertical space lg": {
+		"prefix": "v-space-lg",
+		"body": [
+			"v-space-lg"
+		],
+		"description": "vertical space lg"
+	},
+  "vertical space xl": {
+		"prefix": "v-space-xl",
+		"body": [
+			"v-space-xl"
+		],
+		"description": "vertical space xl"
+	},
+  "vertical space xxl": {
+		"prefix": "v-space-xxl",
+		"body": [
+			"v-space-xxl"
+		],
+		"description": "vertical space xxl"
 	}
 }
