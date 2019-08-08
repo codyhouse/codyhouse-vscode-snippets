@@ -2016,9 +2016,9 @@
 		"description": "form label element"
 	},
 	"form error message": {
-		"prefix": "form__msg-error",
+		"prefix": "form-error-msg",
 		"body": [
-			"form__msg-error"
+			"form-error-msg"
 		],
 		"description": "form error message"
 	},
