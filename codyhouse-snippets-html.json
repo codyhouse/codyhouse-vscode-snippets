@@ -3331,6 +3331,27 @@
 		],
 		"description": "color inherit"
 	},
+	"color bg": {
+		"prefix": "color-bg",
+		"body": [
+			"color-bg"
+		],
+		"description": "color background"
+	},
+	"color contrast lower": {
+		"prefix": "color-contrast-lower",
+		"body": [
+			"color-contrast-lower"
+		],
+		"description": "color contrast lower"
+	},
+	"color contrast low": {
+		"prefix": "color-contrast-low",
+		"body": [
+			"color-contrast-low"
+		],
+		"description": "color contrast low"
+	},
 	"color contrast medium": {
 		"prefix": "color-contrast-medium",
 		"body": [
