@@ -3638,5 +3638,103 @@
 			"v-space-xxl"
 		],
 		"description": "vertical space xxl"
+  },
+  "background inherit": {
+		"prefix": "bg-inherit",
+		"body": [
+			"bg-inherit"
+		],
+		"description": "background-color inherit"
+	},
+  "background": {
+		"prefix": "bg",
+		"body": [
+			"bg"
+		],
+		"description": "background-color base"
+	},
+  "background contrast lower": {
+		"prefix": "bg-contrast-lower",
+		"body": [
+			"bg-contrast-lower"
+		],
+		"description": "background-color contrast lower"
+	},
+  "background contrast low": {
+		"prefix": "bg-contrast-low",
+		"body": [
+			"bg-contrast-low"
+		],
+		"description": "background-color contrast low"
+	},
+  "background contrast medium": {
+		"prefix": "bg-contrast-medium",
+		"body": [
+			"bg-contrast-medium"
+		],
+		"description": "background-color contrast medium"
+	},
+  "background contrast high": {
+		"prefix": "bg-contrast-high",
+		"body": [
+			"bg-contrast-high"
+		],
+		"description": "background-color contrast high"
+	},
+  "background contrast higher": {
+		"prefix": "bg-contrast-higher",
+		"body": [
+			"bg-contrast-higher"
+		],
+		"description": "background-color contrast higher"
+	},
+  "background primary": {
+		"prefix": "bg-primary",
+		"body": [
+			"bg-primary"
+		],
+		"description": "background-color primary"
+	},
+  "background accent": {
+		"prefix": "bg-accent",
+		"body": [
+			"bg-accent"
+		],
+		"description": "background-color accent"
+	},
+  "background success": {
+		"prefix": "bg-success",
+		"body": [
+			"bg-success"
+		],
+		"description": "background-color success"
+	},
+  "background warning": {
+		"prefix": "bg-warning",
+		"body": [
+			"bg-warning"
+		],
+		"description": "background-color warning"
+	},
+  "background error": {
+		"prefix": "bg-error",
+		"body": [
+			"bg-error"
+		],
+		"description": "background-color error"
+	},
+  "background white": {
+		"prefix": "bg-white",
+		"body": [
+			"bg-white"
+		],
+		"description": "background-color white"
+	},
+  "background black": {
+		"prefix": "bg-black",
+		"body": [
+			"bg-black"
+		],
+		"description": "background-color black"
 	}
 }
