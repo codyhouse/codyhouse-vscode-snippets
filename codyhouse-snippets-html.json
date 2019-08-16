@@ -152,6 +152,13 @@
 			"flex-column"
 		],
 		"description": "flex-direction: column"
+	},
+	"flex-column-reverse": {
+		"prefix": "flex-column-reverse",
+		"body": [
+			"flex-column-reverse"
+		],
+		"description": "flex-direction: column-reverse"
   },
   "flex-row": {
 		"prefix": "flex-row",
@@ -159,6 +166,13 @@
 			"flex-row"
 		],
 		"description": "flex-direction: row"
+	},
+	"flex-row-reverse": {
+		"prefix": "flex-row-reverse",
+		"body": [
+			"flex-row-reverse"
+		],
+		"description": "flex-direction: row-reverse"
   },
   "flex-center": {
 		"prefix": "flex-center",
@@ -243,6 +257,13 @@
 			"flex-column@xs"
 		],
 		"description": "flex-direction: column @xs"
+	},
+	"flex-column-reverse@xs": {
+		"prefix": "flex-column-reverse@xs",
+		"body": [
+			"flex-column-reverse@xs"
+		],
+		"description": "flex-direction: column-reverse @xs"
   },
   "flex-row@xs": {
 		"prefix": "flex-row@xs",
@@ -250,6 +271,13 @@
 			"flex-row@xs"
 		],
 		"description": "flex-direction: row @xs"
+	},
+	"flex-row-reverse@xs": {
+		"prefix": "flex-row-reverse@xs",
+		"body": [
+			"flex-row-reverse@xs"
+		],
+		"description": "flex-direction: row-reverse @xs"
   },
   "flex-center@xs": {
 		"prefix": "flex-center@xs",
@@ -334,6 +362,13 @@
 			"flex-column@sm"
 		],
 		"description": "flex-direction: column @sm"
+	},
+	"flex-column-reverse@sm": {
+		"prefix": "flex-column-reverse@sm",
+		"body": [
+			"flex-column-reverse@sm"
+		],
+		"description": "flex-direction: column-reverse @sm"
   },
   "flex-row@sm": {
 		"prefix": "flex-row@sm",
@@ -341,6 +376,13 @@
 			"flex-row@sm"
 		],
 		"description": "flex-direction: row @sm"
+	},
+	"flex-row-reverse@sm": {
+		"prefix": "flex-row-reverse@sm",
+		"body": [
+			"flex-row-reverse@sm"
+		],
+		"description": "flex-direction: row-reverse @sm"
   },
   "flex-center@sm": {
 		"prefix": "flex-center@sm",
@@ -425,6 +467,13 @@
 			"flex-column@md"
 		],
 		"description": "flex-direction: column @md"
+	},
+	"flex-column-reverse@md": {
+		"prefix": "flex-column-reverse@md",
+		"body": [
+			"flex-column-reverse@md"
+		],
+		"description": "flex-direction: column-reverse @md"
   },
   "flex-row@md": {
 		"prefix": "flex-row@md",
@@ -432,6 +481,13 @@
 			"flex-row@md"
 		],
 		"description": "flex-direction: row @md"
+	},
+	"flex-row-reverse@md": {
+		"prefix": "flex-row-reverse@md",
+		"body": [
+			"flex-row-reverse@md"
+		],
+		"description": "flex-direction: row-reverse @md"
   },
   "flex-center@md": {
 		"prefix": "flex-center@md",
@@ -516,6 +572,13 @@
 			"flex-column@lg"
 		],
 		"description": "flex-direction: column @lg"
+	},
+	"flex-column-reverse@lg": {
+		"prefix": "flex-column-reverse@lg",
+		"body": [
+			"flex-column-reverse@lg"
+		],
+		"description": "flex-direction: column-reverse @lg"
   },
   "flex-row@lg": {
 		"prefix": "flex-row@lg",
@@ -523,6 +586,13 @@
 			"flex-row@lg"
 		],
 		"description": "flex-direction: row @lg"
+	},
+	"flex-row-reverse@lg": {
+		"prefix": "flex-row-reverse@lg",
+		"body": [
+			"flex-row-reverse@lg"
+		],
+		"description": "flex-direction: row-reverse @lg"
   },
   "flex-center@lg": {
 		"prefix": "flex-center@lg",
@@ -607,6 +677,13 @@
 			"flex-column@xl"
 		],
 		"description": "flex-direction: column @xl"
+	},
+	"flex-column-reverse@xl": {
+		"prefix": "flex-column-reverse@xl",
+		"body": [
+			"flex-column-reverse@xl"
+		],
+		"description": "flex-direction: column-reverse @xl"
   },
   "flex-row@xl": {
 		"prefix": "flex-row@xl",
@@ -614,6 +691,13 @@
 			"flex-row@xl"
 		],
 		"description": "flex-direction: row @xl"
+	},
+	"flex-row-reverse@xl": {
+		"prefix": "flex-row-reverse@xl",
+		"body": [
+			"flex-row-reverse@xl"
+		],
+		"description": "flex-direction: row-reverse @xl"
   },
   "flex-center@xl": {
 		"prefix": "flex-center@xl",
