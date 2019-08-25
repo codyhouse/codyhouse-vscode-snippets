@@ -3736,5 +3736,131 @@
 			"bg-black"
 		],
 		"description": "background-color black"
+	},
+  "display block": {
+		"prefix": "block",
+		"body": [
+			"block"
+		],
+		"description": "display block"
+	},
+  "display block @xs": {
+		"prefix": "block@xs",
+		"body": [
+			"block@xs"
+		],
+		"description": "display block @xs"
+	},
+  "display block @sm": {
+		"prefix": "block@sm",
+		"body": [
+			"block@sm"
+		],
+		"description": "display block @sm"
+	},
+  "display block @md": {
+		"prefix": "block@md",
+		"body": [
+			"block@md"
+		],
+		"description": "display block @md"
+	},
+  "display block @lg": {
+		"prefix": "block@lg",
+		"body": [
+			"block@lg"
+		],
+		"description": "display block @lg"
+	},
+  "display block @xl": {
+		"prefix": "block@xl",
+		"body": [
+			"block@xl"
+		],
+		"description": "display block @xl"
+	},
+  "display inline-block": {
+		"prefix": "inline-block",
+		"body": [
+			"inline-block"
+		],
+		"description": "display inline-block"
+	},
+  "display inline-block @xs": {
+		"prefix": "inline-block@xs",
+		"body": [
+			"inline-block@xs"
+		],
+		"description": "display inline-block @xs"
+	},
+  "display inline-block @sm": {
+		"prefix": "inline-block@sm",
+		"body": [
+			"inline-block@sm"
+		],
+		"description": "display inline-block @sm"
+	},
+  "display inline-block @md": {
+		"prefix": "inline-block@md",
+		"body": [
+			"inline-block@md"
+		],
+		"description": "display inline-block @md"
+	},
+  "display inline-block @lg": {
+		"prefix": "inline-block@lg",
+		"body": [
+			"inline-block@lg"
+		],
+		"description": "display inline-block @lg"
+	},
+  "display inline-block @xl": {
+		"prefix": "inline-block@xl",
+		"body": [
+			"inline-block@xl"
+		],
+		"description": "display inline-block @xl"
+	},
+  "display inline": {
+		"prefix": "inline",
+		"body": [
+			"inline"
+		],
+		"description": "display inline"
+	},
+  "display inline @xs": {
+		"prefix": "inline@xs",
+		"body": [
+			"inline@xs"
+		],
+		"description": "display inline @xs"
+	},
+  "display inline @sm": {
+		"prefix": "inline@sm",
+		"body": [
+			"inline@sm"
+		],
+		"description": "display inline @sm"
+	},
+  "display inline @md": {
+		"prefix": "inline@md",
+		"body": [
+			"inline@md"
+		],
+		"description": "display inline @md"
+	},
+  "display inline @lg": {
+		"prefix": "inline@lg",
+		"body": [
+			"inline@lg"
+		],
+		"description": "display inline @lg"
+	},
+  "display inline @xl": {
+		"prefix": "inline@xl",
+		"body": [
+			"inline@xl"
+		],
+		"description": "display inline @xl"
 	}
 }
