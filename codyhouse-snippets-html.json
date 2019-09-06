@@ -769,6 +769,13 @@
 		],
 		"description": "flex-shrink: 0"
   },
+  "flex-basis-0": {
+		"prefix": "flex-basis-0",
+		"body": [
+			"flex-basis-0"
+		],
+		"description": "flex-basis: 0"
+  },
   "flex gap xxxs": {
 		"prefix": "flex-gap-xxxs",
 		"body": [
