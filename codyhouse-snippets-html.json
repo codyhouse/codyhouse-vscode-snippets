@@ -3953,5 +3953,12 @@
 			"inline@xl"
 		],
 		"description": "display inline @xl"
+	},
+  "JS tab focus": {
+		"prefix": "js-tab-focus",
+		"body": [
+			"js-tab-focus"
+		],
+		"description": "focus ring visible only for keyboard navigation"
 	}
 }
