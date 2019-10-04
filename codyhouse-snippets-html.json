@@ -3960,5 +3960,54 @@
 			"js-tab-focus"
 		],
 		"description": "focus ring visible only for keyboard navigation"
+  },
+  "min-width 0": {
+		"prefix": "min-width-0",
+		"body": [
+			"min-width-0"
+		],
+		"description": "min-width 0"
+  },
+  "min-width 25%": {
+		"prefix": "min-width-25%",
+		"body": [
+			"min-width-25%"
+		],
+		"description": "min-width 25%"
+  },
+  "min-width 33%": {
+		"prefix": "min-width-33%",
+		"body": [
+			"min-width-33%"
+		],
+		"description": "min-width 33%"
+  },
+  "min-width 50%": {
+		"prefix": "min-width-50%",
+		"body": [
+			"min-width-50%"
+		],
+		"description": "min-width 50%"
+  },
+  "min-width 66%": {
+		"prefix": "min-width-66%",
+		"body": [
+			"min-width-66%"
+		],
+		"description": "min-width 66%"
+  },
+  "min-width 75%": {
+		"prefix": "min-width-75%",
+		"body": [
+			"min-width-75%"
+		],
+		"description": "min-width 75%"
+  },
+  "min-width 100%": {
+		"prefix": "min-width-100%",
+		"body": [
+			"min-width-100%"
+		],
+		"description": "min-width 100%"
 	}
 }
