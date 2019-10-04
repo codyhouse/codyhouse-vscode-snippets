@@ -2084,7 +2084,35 @@
 			"has-padding@xl"
 		],
 		"description": "has-padding @xl"
-  },
+	},
+	"align baseline": {
+		"prefix": "align-baseline",
+		"body": [
+			"align-baseline"
+		],
+		"description": "baseline vertical alignment"
+	},
+	"align top": {
+		"prefix": "align-top",
+		"body": [
+			"align-top"
+		],
+		"description": "top vertical alignment"
+	},
+	"align middle": {
+		"prefix": "align-middle",
+		"body": [
+			"align-middle"
+		],
+		"description": "middle vertical alignment"
+	},
+	"align bottom": {
+		"prefix": "align-bottom",
+		"body": [
+			"align-bottom"
+		],
+		"description": "bottom vertical alignment"
+	},
   "form control": {
 		"prefix": "form-control",
 		"body": [
@@ -3289,6 +3317,13 @@
 		],
 		"description": "replace text with img"
 	},
+	"remove text wrapping": {
+		"prefix": "text-nowrap",
+		"body": [
+			"text-nowrap"
+		],
+		"description": "remove text wrapping"
+	},
 	"text-align center": {
 		"prefix": "text-center",
 		"body": [
@@ -3499,12 +3534,236 @@
 		],
 		"description": "color error"
 	},
+	"width xxxxs": {
+		"prefix": "width-xxxxs",
+		"body": [
+			"width-xxxxs"
+		],
+		"description": "width xxxxs"
+	},
+	"width xxxs": {
+		"prefix": "width-xxxs",
+		"body": [
+			"width-xxxs"
+		],
+		"description": "width xxxs"
+	},
+	"width xxs": {
+		"prefix": "width-xxs",
+		"body": [
+			"width-xxs"
+		],
+		"description": "width xxs"
+	},
+	"width xs": {
+		"prefix": "width-xs",
+		"body": [
+			"width-xs"
+		],
+		"description": "width xs"
+	},
+	"width sm": {
+		"prefix": "width-sm",
+		"body": [
+			"width-sm"
+		],
+		"description": "width sm"
+	},
+	"width md": {
+		"prefix": "width-md",
+		"body": [
+			"width-md"
+		],
+		"description": "width md"
+	},
+	"width lg": {
+		"prefix": "width-lg",
+		"body": [
+			"width-lg"
+		],
+		"description": "width lg"
+	},
+	"width xl": {
+		"prefix": "width-xl",
+		"body": [
+			"width-xl"
+		],
+		"description": "width xl"
+	},
+	"width xxl": {
+		"prefix": "width-xxl",
+		"body": [
+			"width-xxl"
+		],
+		"description": "width xxl"
+	},
+	"width xxxl": {
+		"prefix": "width-xxxl",
+		"body": [
+			"width-xxxl"
+		],
+		"description": "width xxxl"
+	},
+	"width xxxxl": {
+		"prefix": "width-xxxxl",
+		"body": [
+			"width-xxxxl"
+		],
+		"description": "width xxxxl"
+	},
+	"width 25%": {
+		"prefix": "width-25%",
+		"body": [
+			"width-25%"
+		],
+		"description": "width 25%"
+	},
+	"width 33%": {
+		"prefix": "width-33%",
+		"body": [
+			"width-33%"
+		],
+		"description": "width 33%"
+	},
+	"width 50%": {
+		"prefix": "width-50%",
+		"body": [
+			"width-50%"
+		],
+		"description": "width 50%"
+	},
+	"width 66%": {
+		"prefix": "width-66%",
+		"body": [
+			"width-66%"
+		],
+		"description": "width 66%"
+	},
+	"width 75%": {
+		"prefix": "width-75%",
+		"body": [
+			"width-75%"
+		],
+		"description": "width 75%"
+	},
 	"width 100%": {
 		"prefix": "width-100%",
 		"body": [
 			"width-100%"
 		],
 		"description": "width 100%"
+	},
+	"height xxxxs": {
+		"prefix": "height-xxxxs",
+		"body": [
+			"height-xxxxs"
+		],
+		"description": "height xxxxs"
+	},
+	"height xxxs": {
+		"prefix": "height-xxxs",
+		"body": [
+			"height-xxxs"
+		],
+		"description": "height xxxs"
+	},
+	"height xxs": {
+		"prefix": "height-xxs",
+		"body": [
+			"height-xxs"
+		],
+		"description": "height xxs"
+	},
+	"height xs": {
+		"prefix": "height-xs",
+		"body": [
+			"height-xs"
+		],
+		"description": "height xs"
+	},
+	"height sm": {
+		"prefix": "height-sm",
+		"body": [
+			"height-sm"
+		],
+		"description": "height sm"
+	},
+	"height md": {
+		"prefix": "height-md",
+		"body": [
+			"height-md"
+		],
+		"description": "height md"
+	},
+	"height lg": {
+		"prefix": "height-lg",
+		"body": [
+			"height-lg"
+		],
+		"description": "height lg"
+	},
+	"height xl": {
+		"prefix": "height-xl",
+		"body": [
+			"height-xl"
+		],
+		"description": "height xl"
+	},
+	"height xxl": {
+		"prefix": "height-xxl",
+		"body": [
+			"height-xxl"
+		],
+		"description": "height xxl"
+	},
+	"height xxxl": {
+		"prefix": "height-xxxl",
+		"body": [
+			"height-xxxl"
+		],
+		"description": "height xxxl"
+	},
+	"height xxxxl": {
+		"prefix": "height-xxxxl",
+		"body": [
+			"height-xxxxl"
+		],
+		"description": "height xxxxl"
+	},
+	"height 25%": {
+		"prefix": "height-25%",
+		"body": [
+			"height-25%"
+		],
+		"description": "height 25%"
+	},
+	"height 33%": {
+		"prefix": "height-33%",
+		"body": [
+			"height-33%"
+		],
+		"description": "height 33%"
+	},
+	"height 50%": {
+		"prefix": "height-50%",
+		"body": [
+			"height-50%"
+		],
+		"description": "height 50%"
+	},
+	"height 66%": {
+		"prefix": "height-66%",
+		"body": [
+			"height-66%"
+		],
+		"description": "height 66%"
+	},
+	"height 75%": {
+		"prefix": "height-75%",
+		"body": [
+			"height-75%"
+		],
+		"description": "height 75%"
 	},
 	"height 100%": {
 		"prefix": "height-100%",

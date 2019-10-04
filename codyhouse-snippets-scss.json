@@ -344,6 +344,13 @@
 			"@include spaceUnit(${1:spaceUnit});"
 		],
 		"description": "set new space unit"
+	},
+	"textUnit": {
+		"prefix": "textUnit",
+		"body": [
+			"@include textUnit(${1:textUnit}, ${2:textScaleRatio: 1.2});"
+		],
+		"description": "set new text unit and type scale"
   },
   "bounce timing function": {
 		"prefix": "--bounce timing function",
