@@ -3611,12 +3611,33 @@
 		],
 		"description": "width xxxxl"
 	},
+	"width 10%": {
+		"prefix": "width-10%",
+		"body": [
+			"width-10%"
+		],
+		"description": "width 10%"
+	},
+	"width 20%": {
+		"prefix": "width-20%",
+		"body": [
+			"width-20%"
+		],
+		"description": "width 20%"
+	},
 	"width 25%": {
 		"prefix": "width-25%",
 		"body": [
 			"width-25%"
 		],
 		"description": "width 25%"
+  },
+  "width 30%": {
+		"prefix": "width-30%",
+		"body": [
+			"width-30%"
+		],
+		"description": "width 30%"
 	},
 	"width 33%": {
 		"prefix": "width-33%",
@@ -3624,6 +3645,13 @@
 			"width-33%"
 		],
 		"description": "width 33%"
+  },
+  "width 40%": {
+		"prefix": "width-40%",
+		"body": [
+			"width-40%"
+		],
+		"description": "width 40%"
 	},
 	"width 50%": {
 		"prefix": "width-50%",
@@ -3631,6 +3659,13 @@
 			"width-50%"
 		],
 		"description": "width 50%"
+  },
+  "width 60%": {
+		"prefix": "width-60%",
+		"body": [
+			"width-60%"
+		],
+		"description": "width 60%"
 	},
 	"width 66%": {
 		"prefix": "width-66%",
@@ -3638,6 +3673,13 @@
 			"width-66%"
 		],
 		"description": "width 66%"
+  },
+  "width 70%": {
+		"prefix": "width-70%",
+		"body": [
+			"width-70%"
+		],
+		"description": "width 70%"
 	},
 	"width 75%": {
 		"prefix": "width-75%",
@@ -3645,6 +3687,20 @@
 			"width-75%"
 		],
 		"description": "width 75%"
+  },
+  "width 80%": {
+		"prefix": "width-80%",
+		"body": [
+			"width-80%"
+		],
+		"description": "width 80%"
+	},
+  "width 90%": {
+		"prefix": "width-90%",
+		"body": [
+			"width-90%"
+		],
+		"description": "width 90%"
 	},
 	"width 100%": {
 		"prefix": "width-100%",
@@ -3730,12 +3786,33 @@
 		],
 		"description": "height xxxxl"
 	},
+	"height 10%": {
+		"prefix": "height-10%",
+		"body": [
+			"height-10%"
+		],
+		"description": "height 10%"
+	},
+	"height 20%": {
+		"prefix": "height-20%",
+		"body": [
+			"height-20%"
+		],
+		"description": "height 20%"
+	},
 	"height 25%": {
 		"prefix": "height-25%",
 		"body": [
 			"height-25%"
 		],
 		"description": "height 25%"
+  },
+  "height 30%": {
+		"prefix": "height-30%",
+		"body": [
+			"height-30%"
+		],
+		"description": "height 30%"
 	},
 	"height 33%": {
 		"prefix": "height-33%",
@@ -3743,6 +3820,13 @@
 			"height-33%"
 		],
 		"description": "height 33%"
+  },
+  "height 40%": {
+		"prefix": "height-40%",
+		"body": [
+			"height-40%"
+		],
+		"description": "height 40%"
 	},
 	"height 50%": {
 		"prefix": "height-50%",
@@ -3750,6 +3834,13 @@
 			"height-50%"
 		],
 		"description": "height 50%"
+  },
+  "height 60%": {
+		"prefix": "height-60%",
+		"body": [
+			"height-60%"
+		],
+		"description": "height 60%"
 	},
 	"height 66%": {
 		"prefix": "height-66%",
@@ -3757,6 +3848,13 @@
 			"height-66%"
 		],
 		"description": "height 66%"
+  },
+  "height 70%": {
+		"prefix": "height-70%",
+		"body": [
+			"height-70%"
+		],
+		"description": "height 70%"
 	},
 	"height 75%": {
 		"prefix": "height-75%",
@@ -3764,6 +3862,20 @@
 			"height-75%"
 		],
 		"description": "height 75%"
+  },
+  "height 80%": {
+		"prefix": "height-80%",
+		"body": [
+			"height-80%"
+		],
+		"description": "height 80%"
+  },
+  "height 90%": {
+		"prefix": "height-90%",
+		"body": [
+			"height-90%"
+		],
+		"description": "height 90%"
 	},
 	"height 100%": {
 		"prefix": "height-100%",
