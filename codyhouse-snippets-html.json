@@ -3142,6 +3142,13 @@
 		],
 		"description": "text size md"
 	},
+	"text-base": {
+		"prefix": "text-base",
+		"body": [
+			"text-base"
+		],
+		"description": "text size 1em"
+	},
 	"text-sm": {
 		"prefix": "text-sm",
 		"body": [
@@ -3889,14 +3896,21 @@
 		"body": [
 			"media-wrapper"
 		],
-		"description": "resposive iframe - 16:9 ratio"
+		"description": "resposive media - 16:9 ratio"
 	},
 	"media/iframe wrapper 4:3": {
 		"prefix": "media-wrapper--4:3",
 		"body": [
 			"media-wrapper--4:3"
 		],
-		"description": "resposive iframe - 4:3 ratio"
+		"description": "resposive media - 4:3 ratio"
+	},
+	"media/iframe wrapper 1:1": {
+		"prefix": "media-wrapper--1:1",
+		"body": [
+			"media-wrapper--1:1"
+		],
+		"description": "resposive media - 1:1 ratio"
 	},
 	"clearfix": {
 		"prefix": "clearfix",
