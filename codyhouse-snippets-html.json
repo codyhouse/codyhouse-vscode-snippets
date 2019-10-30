@@ -3905,6 +3905,13 @@
 		],
 		"description": "resposive media - 4:3 ratio"
 	},
+	"media/iframe wrapper 1:1": {
+		"prefix": "media-wrapper--1:1",
+		"body": [
+			"media-wrapper--1:1"
+		],
+		"description": "resposive media - 1:1 ratio"
+	},
 	"clearfix": {
 		"prefix": "clearfix",
 		"body": [
