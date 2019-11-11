@@ -652,5 +652,82 @@
 			"var(--zindex-overlay)"
 		],
 		"description": "z-index overlay elements"
+	},
+	"max-width xxxxs": {
+		"prefix": "--max-width-xxxxs",
+		"body": [
+			"var(--max-width-xxxxs)"
+		],
+		"description": "max-width 320px"
+	},
+	"max-width xxxs": {
+		"prefix": "--max-width-xxxs",
+		"body": [
+			"var(--max-width-xxxs)"
+		],
+		"description": "max-width 416px"
+	},
+	"max-width xxs": {
+		"prefix": "--max-width-xxs",
+		"body": [
+			"var(--max-width-xxs)"
+		],
+		"description": "max-width 512px"
+	},
+	"max-width xs": {
+		"prefix": "--max-width-xs",
+		"body": [
+			"var(--max-width-xs)"
+		],
+		"description": "max-width 608px"
+	},
+	"max-width sm": {
+		"prefix": "--max-width-sm",
+		"body": [
+			"var(--max-width-sm)"
+		],
+		"description": "max-width 768pxx"
+	},
+	"max-width md": {
+		"prefix": "--max-width-md",
+		"body": [
+			"var(--max-width-md)"
+		],
+		"description": "max-width 1024px"
+	},
+	"max-width lg": {
+		"prefix": "--max-width-lg",
+		"body": [
+			"var(--max-width-lg)"
+		],
+		"description": "max-width 1280px"
+	},
+	"max-width xl": {
+		"prefix": "--max-width-xl",
+		"body": [
+			"var(--max-width-xl)"
+		],
+		"description": "max-width 1440px"
+	},
+	"max-width xxl": {
+		"prefix": "--max-width-xxl",
+		"body": [
+			"var(--max-width-xxl)"
+		],
+		"description": "max-width 1600px"
+	},
+	"max-width xxxl": {
+		"prefix": "--max-width-xxxl",
+		"body": [
+			"var(--max-width-xxxl)"
+		],
+		"description": "max-width 1920px"
+	},
+	"max-width xxxxl": {
+		"prefix": "--max-width-xxxxl",
+		"body": [
+			"var(--max-width-xxxxl)"
+		],
+		"description": "max-width 2400px"
 	}
 }
