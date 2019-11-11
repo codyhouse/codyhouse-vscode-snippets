@@ -3716,6 +3716,13 @@
 		],
 		"description": "width 100%"
 	},
+	"width 100vw": {
+		"prefix": "width-100vw",
+		"body": [
+			"width-100vw"
+		],
+		"description": "width 100vw"
+	},
 	"height xxxxs": {
 		"prefix": "height-xxxxs",
 		"body": [
@@ -3891,6 +3898,13 @@
 		],
 		"description": "height 100%"
 	},
+	"height 100vh": {
+		"prefix": "height-100vh",
+		"body": [
+			"height-100vh"
+		],
+		"description": "height 100vh"
+	},
 	"media/iframe wrapper": {
 		"prefix": "media-wrapper",
 		"body": [
@@ -3912,6 +3926,20 @@
 		],
 		"description": "resposive media - 1:1 ratio"
 	},
+	"float left": {
+		"prefix": "float-left",
+		"body": [
+			"float-left"
+		],
+		"description": "float left"
+	},
+	"float right": {
+		"prefix": "float-right",
+		"body": [
+			"float-right"
+		],
+		"description": "float right"
+  },
 	"clearfix": {
 		"prefix": "clearfix",
 		"body": [
@@ -4394,5 +4422,47 @@
 			"min-width-100%"
 		],
 		"description": "min-width 100%"
+	},
+	"position relative": {
+		"prefix": "position-relative",
+		"body": [
+			"position-relative"
+		],
+		"description": "position relative"
+	},
+	"position absolute": {
+		"prefix": "position-absolute",
+		"body": [
+			"position-absolute"
+		],
+		"description": "position absolute"
+	},
+	"position fixed": {
+		"prefix": "position-fixed",
+		"body": [
+			"position-fixed"
+		],
+		"description": "position fixed"
+	},
+	"position sticky": {
+		"prefix": "position-sticky",
+		"body": [
+			"position-sticky"
+		],
+		"description": "position sticky"
+	},
+	"overflow hidden": {
+		"prefix": "overflow-hidden",
+		"body": [
+			"overflow-hidden"
+		],
+		"description": "overflow hidden"
+	},
+	"overflow auto": {
+		"prefix": "overflow-auto",
+		"body": [
+			"overflow-auto"
+		],
+		"description": "overflow auto"
 	}
 }
