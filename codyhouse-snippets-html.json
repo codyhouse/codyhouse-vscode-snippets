@@ -4464,5 +4464,19 @@
 			"overflow-auto"
 		],
 		"description": "overflow auto"
+	},
+	"object contain": {
+		"prefix": "object-contain",
+		"body": [
+			"object-contain"
+		],
+		"description": "object contain"
+	},
+	"object cover": {
+		"prefix": "object-cover",
+		"body": [
+			"object-cover"
+		],
+		"description": "object cover"
 	}
 }
