@@ -229,6 +229,27 @@
 			"items-end"
 		],
 		"description": "align-items: flex-end"
+	},
+	"order-1": {
+		"prefix": "order-1",
+		"body": [
+			"order-1"
+		],
+		"description": "order: 1"
+	},
+	"order-2": {
+		"prefix": "order-2",
+		"body": [
+			"order-2"
+		],
+		"description": "order: 2"
+	},
+	"order-3": {
+		"prefix": "order-3",
+		"body": [
+			"order-3"
+		],
+		"description": "order: 3"
   },
   "flex@xs": {
 		"prefix": "flex@xs",
@@ -334,6 +355,27 @@
 			"items-end@xs"
 		],
 		"description": "align-items: flex-end @xs"
+	},
+	"order-1@xs": {
+		"prefix": "order-1@xs",
+		"body": [
+			"order-1@xs"
+		],
+		"description": "order: 1 @xs"
+	},
+	"order-2@xs": {
+		"prefix": "order-2@xs",
+		"body": [
+			"order-2@xs"
+		],
+		"description": "order: 2 @xs"
+	},
+	"order-3@xs": {
+		"prefix": "order-3@xs",
+		"body": [
+			"order-3@xs"
+		],
+		"description": "order: 3 @xs"
   },
   "flex@sm": {
 		"prefix": "flex@sm",
@@ -439,6 +481,27 @@
 			"items-end@sm"
 		],
 		"description": "align-items: flex-end @sm"
+	},
+	"order-1@sm": {
+		"prefix": "order-1@sm",
+		"body": [
+			"order-1@sm"
+		],
+		"description": "order: 1 @sm"
+	},
+	"order-2@sm": {
+		"prefix": "order-2@sm",
+		"body": [
+			"order-2@sm"
+		],
+		"description": "order: 2 @sm"
+	},
+	"order-3@sm": {
+		"prefix": "order-3@sm",
+		"body": [
+			"order-3@sm"
+		],
+		"description": "order: 3 @sm"
   },
   "flex@md": {
 		"prefix": "flex@md",
@@ -544,6 +607,27 @@
 			"items-end@md"
 		],
 		"description": "align-items: flex-end @md"
+	},
+	"order-1@md": {
+		"prefix": "order-1@md",
+		"body": [
+			"order-1@md"
+		],
+		"description": "order: 1 @md"
+	},
+	"order-2@md": {
+		"prefix": "order-2@md",
+		"body": [
+			"order-2@md"
+		],
+		"description": "order: 2 @md"
+	},
+	"order-3@md": {
+		"prefix": "order-3@md",
+		"body": [
+			"order-3@md"
+		],
+		"description": "order: 3 @md"
   },
   "flex@lg": {
 		"prefix": "flex@lg",
@@ -649,6 +733,27 @@
 			"items-end@lg"
 		],
 		"description": "align-items: flex-end @lg"
+	},
+	"order-1@lg": {
+		"prefix": "order-1@lg",
+		"body": [
+			"order-1@lg"
+		],
+		"description": "order: 1 @lg"
+	},
+	"order-2@lg": {
+		"prefix": "order-2@lg",
+		"body": [
+			"order-2@lg"
+		],
+		"description": "order: 2 @lg"
+	},
+	"order-3@lg": {
+		"prefix": "order-3@lg",
+		"body": [
+			"order-3@lg"
+		],
+		"description": "order: 3 @lg"
   },
   "flex@xl": {
 		"prefix": "flex@xl",
@@ -754,6 +859,27 @@
 			"items-end@xl"
 		],
 		"description": "align-items: flex-end @xl"
+	},
+	"order-1@xl": {
+		"prefix": "order-1@xl",
+		"body": [
+			"order-1@xl"
+		],
+		"description": "order: 1 @xl"
+	},
+	"order-2@xl": {
+		"prefix": "order-2@xl",
+		"body": [
+			"order-2@xl"
+		],
+		"description": "order: 2 @xl"
+	},
+	"order-3@xl": {
+		"prefix": "order-3@xl",
+		"body": [
+			"order-3@xl"
+		],
+		"description": "order: 3 @xl"
   },
   "flex-grow": {
 		"prefix": "flex-grow",
@@ -3170,12 +3296,47 @@
 		],
 		"description": "style of link elements"
 	},
+	"font-light": {
+		"prefix": "font-light",
+		"body": [
+			"font-light"
+		],
+		"description": "font-weight 300"
+	},
+	"font-normal": {
+		"prefix": "font-normal",
+		"body": [
+			"font-normal"
+		],
+		"description": "font-weight 400"
+	},
+	"font-medium": {
+		"prefix": "font-medium",
+		"body": [
+			"font-medium"
+		],
+		"description": "font-weight 500"
+	},
+	"font-semibold": {
+		"prefix": "font-semibold",
+		"body": [
+			"font-semibold"
+		],
+		"description": "font-weight 600"
+	},
+	"font-bold": {
+		"prefix": "font-bold",
+		"body": [
+			"font-bold"
+		],
+		"description": "font-weight 700"
+	},
 	"text-bold": {
 		"prefix": "text-bold",
 		"body": [
 			"text-bold"
 		],
-		"description": "font-weight bold"
+		"description": "font-weight 700"
 	},
 	"text-underline": {
 		"prefix": "text-underline",
@@ -3328,6 +3489,13 @@
 		"prefix": "text-nowrap",
 		"body": [
 			"text-nowrap"
+		],
+		"description": "remove text wrapping"
+	},
+	"white-space no wrapping": {
+		"prefix": "ws-nowrap",
+		"body": [
+			"ws-nowrap"
 		],
 		"description": "remove text wrapping"
 	},
@@ -3540,6 +3708,90 @@
 			"color-error"
 		],
 		"description": "color error"
+	},
+	"color opacity 10%": {
+		"prefix": "color-opacity-10%",
+		"body": [
+			"color-opacity-10%"
+		],
+		"description": "color opacity 10%"
+	},
+	"color opacity 20%": {
+		"prefix": "color-opacity-20%",
+		"body": [
+			"color-opacity-20%"
+		],
+		"description": "color opacity 20%"
+	},
+	"color opacity 30%": {
+		"prefix": "color-opacity-30%",
+		"body": [
+			"color-opacity-30%"
+		],
+		"description": "color opacity 30%"
+	},
+	"color opacity 40%": {
+		"prefix": "color-opacity-40%",
+		"body": [
+			"color-opacity-40%"
+		],
+		"description": "color opacity 40%"
+	},
+	"color opacity 50%": {
+		"prefix": "color-opacity-50%",
+		"body": [
+			"color-opacity-50%"
+		],
+		"description": "color opacity 50%"
+	},
+	"color opacity 60%": {
+		"prefix": "color-opacity-60%",
+		"body": [
+			"color-opacity-60%"
+		],
+		"description": "color opacity 60%"
+	},
+	"color opacity 70%": {
+		"prefix": "color-opacity-70%",
+		"body": [
+			"color-opacity-70%"
+		],
+		"description": "color opacity 70%"
+	},
+	"color opacity 80%": {
+		"prefix": "color-opacity-80%",
+		"body": [
+			"color-opacity-80%"
+		],
+		"description": "color opacity 80%"
+	},
+	"color opacity 90%": {
+		"prefix": "color-opacity-90%",
+		"body": [
+			"color-opacity-90%"
+		],
+		"description": "color opacity 90%"
+	},
+	"z-index 1": {
+		"prefix": "zindex-1",
+		"body": [
+			"zindex-1"
+		],
+		"description": "z-index 1"
+	},
+	"z-index 2": {
+		"prefix": "zindex-2",
+		"body": [
+			"zindex-2"
+		],
+		"description": "z-index 2"
+	},
+	"z-index 3": {
+		"prefix": "zindex-3",
+		"body": [
+			"zindex-3"
+		],
+		"description": "z-index 3"
 	},
 	"width xxxxs": {
 		"prefix": "width-xxxxs",
@@ -3905,6 +4157,69 @@
 		],
 		"description": "height 100vh"
 	},
+	"opacity 10%": {
+		"prefix": "opacity-10%",
+		"body": [
+			"opacity-10%"
+		],
+		"description": "opacity 10%"
+	},
+	"opacity 20%": {
+		"prefix": "opacity-20%",
+		"body": [
+			"opacity-20%"
+		],
+		"description": "opacity 20%"
+	},
+	"opacity 30%": {
+		"prefix": "opacity-30%",
+		"body": [
+			"opacity-30%"
+		],
+		"description": "opacity 30%"
+	},
+	"opacity 40%": {
+		"prefix": "opacity-40%",
+		"body": [
+			"opacity-40%"
+		],
+		"description": "opacity 40%"
+	},
+	"opacity 50%": {
+		"prefix": "opacity-50%",
+		"body": [
+			"opacity-50%"
+		],
+		"description": "opacity 50%"
+	},
+	"opacity 60%": {
+		"prefix": "opacity-60%",
+		"body": [
+			"opacity-60%"
+		],
+		"description": "opacity 60%"
+	},
+	"opacity 70%": {
+		"prefix": "opacity-70%",
+		"body": [
+			"opacity-70%"
+		],
+		"description": "opacity 70%"
+	},
+	"opacity 80%": {
+		"prefix": "opacity-80%",
+		"body": [
+			"opacity-80%"
+		],
+		"description": "opacity 80%"
+	},
+	"opacity 90%": {
+		"prefix": "opacity-90%",
+		"body": [
+			"opacity-90%"
+		],
+		"description": "opacity 90%"
+	},
 	"media/iframe wrapper": {
 		"prefix": "media-wrapper",
 		"body": [
@@ -3988,6 +4303,20 @@
 			"border-2"
 		],
 		"description": "set border-width equal to 2px"
+	},
+	"border-3": {
+		"prefix": "border-3",
+		"body": [
+			"border-3"
+		],
+		"description": "set border-width equal to 3px"
+	},
+	"border background": {
+		"prefix": "border-bg",
+		"body": [
+			"border-bg"
+		],
+		"description": "set border-color equal to color-bg"
   },
   "border contrast lower": {
 		"prefix": "border-contrast-lower",
@@ -3995,6 +4324,13 @@
 			"border-contrast-lower"
 		],
 		"description": "set border-color equal to color-contrast-lower"
+	},
+	"border contrast low": {
+		"prefix": "border-contrast-low",
+		"body": [
+			"border-contrast-low"
+		],
+		"description": "set border-color equal to color-contrast-low"
   },
   "border contrast medium": {
 		"prefix": "border-contrast-medium",
@@ -4002,7 +4338,133 @@
 			"border-contrast-medium"
 		],
 		"description": "set border-color equal to color-contrast-medium"
-  },
+	},
+	"border contrast high": {
+		"prefix": "border-contrast-high",
+		"body": [
+			"border-contrast-high"
+		],
+		"description": "set border-color equal to color-contrast-high"
+	},
+	"border contrast higher": {
+		"prefix": "border-contrast-higher",
+		"body": [
+			"border-contrast-higher"
+		],
+		"description": "set border-color equal to color-contrast-higher"
+	},
+	"border primary": {
+		"prefix": "border-primary",
+		"body": [
+			"border-primary"
+		],
+		"description": "set border-color equal to color-primary"
+	},
+	"border accent": {
+		"prefix": "border-accent",
+		"body": [
+			"border-accent"
+		],
+		"description": "set border-color equal to color-accent"
+	},
+	"border success": {
+		"prefix": "border-success",
+		"body": [
+			"border-success"
+		],
+		"description": "set border-color equal to color-success"
+	},
+	"border warning": {
+		"prefix": "border-warning",
+		"body": [
+			"border-warning"
+		],
+		"description": "set border-color equal to color-warning"
+	},
+	"border error": {
+		"prefix": "border-error",
+		"body": [
+			"border-error"
+		],
+		"description": "set border-color equal to color-error"
+	},
+	"border white": {
+		"prefix": "border-white",
+		"body": [
+			"border-white"
+		],
+		"description": "set border-color equal to color-white"
+	},
+	"border black": {
+		"prefix": "border-black",
+		"body": [
+			"border-black"
+		],
+		"description": "set border-color equal to color-black"
+	},
+	"border opacity 10%": {
+		"prefix": "border-opacity-10%",
+		"body": [
+			"border-opacity-10%"
+		],
+		"description": "border opacity 10%"
+	},
+	"border opacity 20%": {
+		"prefix": "border-opacity-20%",
+		"body": [
+			"border-opacity-20%"
+		],
+		"description": "border opacity 20%"
+	},
+	"border opacity 30%": {
+		"prefix": "border-opacity-30%",
+		"body": [
+			"border-opacity-30%"
+		],
+		"description": "border opacity 30%"
+	},
+	"border opacity 40%": {
+		"prefix": "border-opacity-40%",
+		"body": [
+			"border-opacity-40%"
+		],
+		"description": "border opacity 40%"
+	},
+	"border opacity 50%": {
+		"prefix": "border-opacity-50%",
+		"body": [
+			"border-opacity-50%"
+		],
+		"description": "border opacity 50%"
+	},
+	"border opacity 60%": {
+		"prefix": "border-opacity-60%",
+		"body": [
+			"border-opacity-60%"
+		],
+		"description": "border opacity 60%"
+	},
+	"border opacity 70%": {
+		"prefix": "border-opacity-70%",
+		"body": [
+			"border-opacity-70%"
+		],
+		"description": "border opacity 70%"
+	},
+	"border opacity 80%": {
+		"prefix": "border-opacity-80%",
+		"body": [
+			"border-opacity-80%"
+		],
+		"description": "border opacity 80%"
+	},
+	"border opacity 90%": {
+		"prefix": "border-opacity-90%",
+		"body": [
+			"border-opacity-90%"
+		],
+		"description": "border opacity 90%"
+	},
   "radius sm": {
 		"prefix": "radius-sm",
 		"body": [
@@ -4023,6 +4485,13 @@
 			"radius-lg"
 		],
 		"description": "border radius large"
+	},
+	"radius 50%": {
+		"prefix": "radius-50%",
+		"body": [
+			"radius-50%"
+		],
+		"description": "border radius 50%"
   },
   "shadow xs": {
 		"prefix": "shadow-xs",
@@ -4240,6 +4709,76 @@
 			"bg-black"
 		],
 		"description": "background-color black"
+	},
+	"background opacity 10%": {
+		"prefix": "bg-opacity-10%",
+		"body": [
+			"bg-opacity-10%"
+		],
+		"description": "background opacity 10%"
+	},
+	"background opacity 20%": {
+		"prefix": "bg-opacity-20%",
+		"body": [
+			"bg-opacity-20%"
+		],
+		"description": "background opacity 20%"
+	},
+	"background opacity 30%": {
+		"prefix": "bg-opacity-30%",
+		"body": [
+			"bg-opacity-30%"
+		],
+		"description": "background opacity 30%"
+	},
+	"background opacity 40%": {
+		"prefix": "bg-opacity-40%",
+		"body": [
+			"bg-opacity-40%"
+		],
+		"description": "background opacity 40%"
+	},
+	"background opacity 50%": {
+		"prefix": "bg-opacity-50%",
+		"body": [
+			"bg-opacity-50%"
+		],
+		"description": "background opacity 50%"
+	},
+	"background opacity 60%": {
+		"prefix": "bg-opacity-60%",
+		"body": [
+			"bg-opacity-60%"
+		],
+		"description": "background opacity 60%"
+	},
+	"background opacity 70%": {
+		"prefix": "bg-opacity-70%",
+		"body": [
+			"bg-opacity-70%"
+		],
+		"description": "background opacity 70%"
+	},
+	"background opacity 80%": {
+		"prefix": "bg-opacity-80%",
+		"body": [
+			"bg-opacity-80%"
+		],
+		"description": "background opacity 80%"
+	},
+	"background opacity 90%": {
+		"prefix": "bg-opacity-90%",
+		"body": [
+			"bg-opacity-90%"
+		],
+		"description": "background opacity 90%"
+	},
+	"font-primary": {
+		"prefix": "font-primary",
+		"body": [
+			"font-primary"
+		],
+		"description": "font-family var(--font-primary)"
 	},
   "display block": {
 		"prefix": "block",
