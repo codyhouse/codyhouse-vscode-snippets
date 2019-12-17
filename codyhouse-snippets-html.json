@@ -4773,6 +4773,20 @@
 		],
 		"description": "background opacity 90%"
 	},
+	"background size cover": {
+		"prefix": "bg-cover",
+		"body": [
+			"bg-cover"
+		],
+		"description": "background size cover"
+	},
+	"background position center": {
+		"prefix": "bg-center",
+		"body": [
+			"bg-center"
+		],
+		"description": "background position center"
+	},
 	"font-primary": {
 		"prefix": "font-primary",
 		"body": [
