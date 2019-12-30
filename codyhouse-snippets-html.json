@@ -3232,7 +3232,469 @@
 			"col-9@xl"
 		],
 		"description": "column 9 @xl"
+  },
+  "offset-1": {
+		"prefix": "offset-1",
+		"body": [
+			"offset-1"
+		],
+		"description": "column offset 1"
 	},
+	"offset-1@xs": {
+		"prefix": "offset-1@xs",
+		"body": [
+			"offset-1@xs"
+		],
+		"description": "column offset 1 @xs"
+	},
+	"offset-1@sm": {
+		"prefix": "offset-1@sm",
+		"body": [
+			"offset-1@sm"
+		],
+		"description": "column offset 1 @sm"
+	},
+	"offset-1@md": {
+		"prefix": "offset-1@md",
+		"body": [
+			"offset-1@md"
+		],
+		"description": "column offset 1 @md"
+	},
+	"offset-1@lg": {
+		"prefix": "offset-1@lg",
+		"body": [
+			"offset-1@lg"
+		],
+		"description": "column offset 1 @lg"
+	},
+	"offset-1@xl": {
+		"prefix": "offset-1@xl",
+		"body": [
+			"offset-1@xl"
+		],
+		"description": "column offset 1 @xl"
+  },
+  "offset-2": {
+		"prefix": "offset-2",
+		"body": [
+			"offset-2"
+		],
+		"description": "column offset 2"
+	},
+	"offset-2@xs": {
+		"prefix": "offset-2@xs",
+		"body": [
+			"offset-2@xs"
+		],
+		"description": "column offset 2 @xs"
+	},
+	"offset-2@sm": {
+		"prefix": "offset-2@sm",
+		"body": [
+			"offset-2@sm"
+		],
+		"description": "column offset 2 @sm"
+	},
+	"offset-2@md": {
+		"prefix": "offset-2@md",
+		"body": [
+			"offset-2@md"
+		],
+		"description": "column offset 2 @md"
+	},
+	"offset-2@lg": {
+		"prefix": "offset-2@lg",
+		"body": [
+			"offset-2@lg"
+		],
+		"description": "column offset 2 @lg"
+	},
+	"offset-2@xl": {
+		"prefix": "offset-2@xl",
+		"body": [
+			"offset-2@xl"
+		],
+		"description": "column offset 2 @xl"
+  },
+  "offset-3": {
+		"prefix": "offset-3",
+		"body": [
+			"offset-3"
+		],
+		"description": "column offset 3"
+	},
+	"offset-3@xs": {
+		"prefix": "offset-3@xs",
+		"body": [
+			"offset-3@xs"
+		],
+		"description": "column offset 3 @xs"
+	},
+	"offset-3@sm": {
+		"prefix": "offset-3@sm",
+		"body": [
+			"offset-3@sm"
+		],
+		"description": "column offset 3 @sm"
+	},
+	"offset-3@md": {
+		"prefix": "offset-3@md",
+		"body": [
+			"offset-3@md"
+		],
+		"description": "column offset 3 @md"
+	},
+	"offset-3@lg": {
+		"prefix": "offset-3@lg",
+		"body": [
+			"offset-3@lg"
+		],
+		"description": "column offset 3 @lg"
+	},
+	"offset-3@xl": {
+		"prefix": "offset-3@xl",
+		"body": [
+			"offset-3@xl"
+		],
+		"description": "column offset 3 @xl"
+  },
+  "offset-4": {
+		"prefix": "offset-4",
+		"body": [
+			"offset-4"
+		],
+		"description": "column offset 4"
+	},
+	"offset-4@xs": {
+		"prefix": "offset-4@xs",
+		"body": [
+			"offset-4@xs"
+		],
+		"description": "column offset 4 @xs"
+	},
+	"offset-4@sm": {
+		"prefix": "offset-4@sm",
+		"body": [
+			"offset-4@sm"
+		],
+		"description": "column offset 4 @sm"
+	},
+	"offset-4@md": {
+		"prefix": "offset-4@md",
+		"body": [
+			"offset-4@md"
+		],
+		"description": "column offset 4 @md"
+	},
+	"offset-4@lg": {
+		"prefix": "offset-4@lg",
+		"body": [
+			"offset-4@lg"
+		],
+		"description": "column offset 4 @lg"
+	},
+	"offset-4@xl": {
+		"prefix": "offset-4@xl",
+		"body": [
+			"offset-4@xl"
+		],
+		"description": "column offset 4 @xl"
+  },
+  "offset-5": {
+		"prefix": "offset-5",
+		"body": [
+			"offset-5"
+		],
+		"description": "column offset 5"
+	},
+	"offset-5@xs": {
+		"prefix": "offset-5@xs",
+		"body": [
+			"offset-5@xs"
+		],
+		"description": "column offset 5 @xs"
+	},
+	"offset-5@sm": {
+		"prefix": "offset-5@sm",
+		"body": [
+			"offset-5@sm"
+		],
+		"description": "column offset 5 @sm"
+	},
+	"offset-5@md": {
+		"prefix": "offset-5@md",
+		"body": [
+			"offset-5@md"
+		],
+		"description": "column offset 5 @md"
+	},
+	"offset-5@lg": {
+		"prefix": "offset-5@lg",
+		"body": [
+			"offset-5@lg"
+		],
+		"description": "column offset 5 @lg"
+	},
+	"offset-5@xl": {
+		"prefix": "offset-5@xl",
+		"body": [
+			"offset-5@xl"
+		],
+		"description": "column offset 5 @xl"
+  },
+  "offset-6": {
+		"prefix": "offset-6",
+		"body": [
+			"offset-6"
+		],
+		"description": "column offset 6"
+	},
+	"offset-6@xs": {
+		"prefix": "offset-6@xs",
+		"body": [
+			"offset-6@xs"
+		],
+		"description": "column offset 6 @xs"
+	},
+	"offset-6@sm": {
+		"prefix": "offset-6@sm",
+		"body": [
+			"offset-6@sm"
+		],
+		"description": "column offset 6 @sm"
+	},
+	"offset-6@md": {
+		"prefix": "offset-6@md",
+		"body": [
+			"offset-6@md"
+		],
+		"description": "column offset 6 @md"
+	},
+	"offset-6@lg": {
+		"prefix": "offset-6@lg",
+		"body": [
+			"offset-6@lg"
+		],
+		"description": "column offset 6 @lg"
+	},
+	"offset-6@xl": {
+		"prefix": "offset-6@xl",
+		"body": [
+			"offset-6@xl"
+		],
+		"description": "column offset 6 @xl"
+  },
+  "offset-7": {
+		"prefix": "offset-7",
+		"body": [
+			"offset-7"
+		],
+		"description": "column offset 7"
+	},
+	"offset-7@xs": {
+		"prefix": "offset-7@xs",
+		"body": [
+			"offset-7@xs"
+		],
+		"description": "column offset 7 @xs"
+	},
+	"offset-7@sm": {
+		"prefix": "offset-7@sm",
+		"body": [
+			"offset-7@sm"
+		],
+		"description": "column offset 7 @sm"
+	},
+	"offset-7@md": {
+		"prefix": "offset-7@md",
+		"body": [
+			"offset-7@md"
+		],
+		"description": "column offset 7 @md"
+	},
+	"offset-7@lg": {
+		"prefix": "offset-7@lg",
+		"body": [
+			"offset-7@lg"
+		],
+		"description": "column offset 7 @lg"
+	},
+	"offset-7@xl": {
+		"prefix": "offset-7@xl",
+		"body": [
+			"offset-7@xl"
+		],
+		"description": "column offset 7 @xl"
+  },
+  "offset-8": {
+		"prefix": "offset-8",
+		"body": [
+			"offset-8"
+		],
+		"description": "column offset 8"
+	},
+	"offset-8@xs": {
+		"prefix": "offset-8@xs",
+		"body": [
+			"offset-8@xs"
+		],
+		"description": "column offset 8 @xs"
+	},
+	"offset-8@sm": {
+		"prefix": "offset-8@sm",
+		"body": [
+			"offset-8@sm"
+		],
+		"description": "column offset 8 @sm"
+	},
+	"offset-8@md": {
+		"prefix": "offset-8@md",
+		"body": [
+			"offset-8@md"
+		],
+		"description": "column offset 8 @md"
+	},
+	"offset-8@lg": {
+		"prefix": "offset-8@lg",
+		"body": [
+			"offset-8@lg"
+		],
+		"description": "column offset 8 @lg"
+	},
+	"offset-8@xl": {
+		"prefix": "offset-8@xl",
+		"body": [
+			"offset-8@xl"
+		],
+		"description": "column offset 8 @xl"
+  },
+  "offset-9": {
+		"prefix": "offset-9",
+		"body": [
+			"offset-9"
+		],
+		"description": "column offset 9"
+	},
+	"offset-9@xs": {
+		"prefix": "offset-9@xs",
+		"body": [
+			"offset-9@xs"
+		],
+		"description": "column offset 9 @xs"
+	},
+	"offset-9@sm": {
+		"prefix": "offset-9@sm",
+		"body": [
+			"offset-9@sm"
+		],
+		"description": "column offset 9 @sm"
+	},
+	"offset-9@md": {
+		"prefix": "offset-9@md",
+		"body": [
+			"offset-9@md"
+		],
+		"description": "column offset 9 @md"
+	},
+	"offset-9@lg": {
+		"prefix": "offset-9@lg",
+		"body": [
+			"offset-9@lg"
+		],
+		"description": "column offset 9 @lg"
+	},
+	"offset-9@xl": {
+		"prefix": "offset-9@xl",
+		"body": [
+			"offset-9@xl"
+		],
+		"description": "column offset 9 @xl"
+  },
+  "offset-10": {
+		"prefix": "offset-10",
+		"body": [
+			"offset-10"
+		],
+		"description": "column offset 10"
+	},
+	"offset-10@xs": {
+		"prefix": "offset-10@xs",
+		"body": [
+			"offset-10@xs"
+		],
+		"description": "column offset 10 @xs"
+	},
+	"offset-10@sm": {
+		"prefix": "offset-10@sm",
+		"body": [
+			"offset-10@sm"
+		],
+		"description": "column offset 10 @sm"
+	},
+	"offset-10@md": {
+		"prefix": "offset-10@md",
+		"body": [
+			"offset-10@md"
+		],
+		"description": "column offset 10 @md"
+	},
+	"offset-10@lg": {
+		"prefix": "offset-10@lg",
+		"body": [
+			"offset-10@lg"
+		],
+		"description": "column offset 10 @lg"
+	},
+	"offset-10@xl": {
+		"prefix": "offset-10@xl",
+		"body": [
+			"offset-10@xl"
+		],
+		"description": "column offset 10 @xl"
+  },
+  "offset-11": {
+		"prefix": "offset-11",
+		"body": [
+			"offset-11"
+		],
+		"description": "column offset 11"
+	},
+	"offset-11@xs": {
+		"prefix": "offset-11@xs",
+		"body": [
+			"offset-11@xs"
+		],
+		"description": "column offset 11 @xs"
+	},
+	"offset-11@sm": {
+		"prefix": "offset-11@sm",
+		"body": [
+			"offset-11@sm"
+		],
+		"description": "column offset 11 @sm"
+	},
+	"offset-11@md": {
+		"prefix": "offset-11@md",
+		"body": [
+			"offset-11@md"
+		],
+		"description": "column offset 11 @md"
+	},
+	"offset-11@lg": {
+		"prefix": "offset-11@lg",
+		"body": [
+			"offset-11@lg"
+		],
+		"description": "column offset 11 @lg"
+	},
+	"offset-11@xl": {
+		"prefix": "offset-11@xl",
+		"body": [
+			"offset-11@xl"
+		],
+		"description": "column offset 11 @xl"
+  },
 	"text-xxxl": {
 		"prefix": "text-xxxl",
 		"body": [
@@ -3975,6 +4437,13 @@
 		],
 		"description": "width 100vw"
 	},
+	"width auto": {
+		"prefix": "width-auto",
+		"body": [
+			"width-auto"
+		],
+		"description": "width auto"
+	},
 	"height xxxxs": {
 		"prefix": "height-xxxxs",
 		"body": [
@@ -4156,6 +4625,13 @@
 			"height-100vh"
 		],
 		"description": "height 100vh"
+	},
+	"height auto": {
+		"prefix": "height-auto",
+		"body": [
+			"height-auto"
+		],
+		"description": "height auto"
 	},
 	"opacity 10%": {
 		"prefix": "opacity-10%",
@@ -4612,6 +5088,13 @@
 		],
 		"description": "vertical space xxl"
   },
+  "background transparent": {
+		"prefix": "bg-transparent",
+		"body": [
+			"bg-transparent"
+		],
+		"description": "background-color transparent"
+	},
   "background inherit": {
 		"prefix": "bg-inherit",
 		"body": [
@@ -5003,6 +5486,34 @@
 			"position-sticky"
 		],
 		"description": "position sticky"
+  },
+  "top 0": {
+		"prefix": "top-0",
+		"body": [
+			"top-0"
+		],
+		"description": "top-0"
+	},
+  "bottom 0": {
+		"prefix": "bottom-0",
+		"body": [
+			"bottom-0"
+		],
+		"description": "bottom-0"
+	},
+  "right 0": {
+		"prefix": "right-0",
+		"body": [
+			"right-0"
+		],
+		"description": "right-0"
+	},
+  "left 0": {
+		"prefix": "left-0",
+		"body": [
+			"left-0"
+		],
+		"description": "left-0"
 	},
 	"overflow hidden": {
 		"prefix": "overflow-hidden",
