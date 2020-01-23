@@ -3926,6 +3926,13 @@
 		],
 		"description": "font-weight 700"
 	},
+	"font-smooth": {
+		"prefix": "font-smooth",
+		"body": [
+			"font-smooth"
+		],
+		"description": "font-smoothing antialiased"
+	},
 	"text-underline": {
 		"prefix": "text-underline",
 		"body": [
