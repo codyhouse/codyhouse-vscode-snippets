@@ -1028,83 +1028,6 @@
 		],
 		"description": "flex-shrink: 1 @xl"
 	},
-	"flex gap xxxxs": {
-		"prefix": "flex-gap-xxxxs",
-		"body": [
-			"flex-gap-xxxxs"
-		],
-		"description": "flex gap xxxxs"
-  },
-  "flex gap xxxs": {
-		"prefix": "flex-gap-xxxs",
-		"body": [
-			"flex-gap-xxxs"
-		],
-		"description": "flex gap xxxs"
-  },
-  "flex gap xxs": {
-		"prefix": "flex-gap-xxs",
-		"body": [
-			"flex-gap-xxs"
-		],
-		"description": "flex gap xxs"
-  },
-  "flex gap xs": {
-		"prefix": "flex-gap-xs",
-		"body": [
-			"flex-gap-xs"
-		],
-		"description": "flex gap xs"
-  },
-  "flex gap sm": {
-		"prefix": "flex-gap-sm",
-		"body": [
-			"flex-gap-sm"
-		],
-		"description": "flex gap sm"
-  },
-  "flex gap md": {
-		"prefix": "flex-gap-md",
-		"body": [
-			"flex-gap-md"
-		],
-		"description": "flex gap md"
-  },
-  "flex gap lg": {
-		"prefix": "flex-gap-lg",
-		"body": [
-			"flex-gap-lg"
-		],
-		"description": "flex gap lg"
-  },
-  "flex gap xl": {
-		"prefix": "flex-gap-xl",
-		"body": [
-			"flex-gap-xl"
-		],
-		"description": "flex gap xl"
-  },
-  "flex gap xxl": {
-		"prefix": "flex-gap-xxl",
-		"body": [
-			"flex-gap-xxl"
-		],
-		"description": "flex gap xxl"
-  },
-  "flex gap xxxl": {
-		"prefix": "flex-gap-xxxl",
-		"body": [
-			"flex-gap-xxxl"
-		],
-		"description": "flex gap xxxl"
-	},
-	"flex gap xxxxl": {
-		"prefix": "flex-gap-xxxxl",
-		"body": [
-			"flex-gap-xxxxl"
-		],
-		"description": "flex gap xxxxl"
-  },
   "margin xxxxs": {
 		"prefix": "margin-xxxxs",
 		"body": [
@@ -8910,82 +8833,467 @@
 		],
 		"description": "grid wrapper"
 	},
-	"grid gap xxxxs": {
-		"prefix": "grid-gap-xxxxs",
+	"gap xxxxs": {
+		"prefix": "gap-xxxxs",
 		"body": [
-			"grid-gap-xxxxs"
+			"gap-xxxxs"
 		],
-		"description": "grid gap xxxxs"
+		"description": "gap xxxxs"
 	},
-	"grid gap xxxs": {
-		"prefix": "grid-gap-xxxs",
+	"gap xxxs": {
+		"prefix": "gap-xxxs",
 		"body": [
-			"grid-gap-xxxs"
+			"gap-xxxs"
 		],
-		"description": "grid gap xxxs"
+		"description": "gap xxxs"
 	},
-	"grid gap xxs": {
-		"prefix": "grid-gap-xxs",
+	"gap xxs": {
+		"prefix": "gap-xxs",
 		"body": [
-			"grid-gap-xxs"
+			"gap-xxs"
 		],
-		"description": "grid gap xxs"
+		"description": "gap xxs"
 	},
-	"grid gap xs": {
-		"prefix": "grid-gap-xs",
+	"gap xs": {
+		"prefix": "gap-xs",
 		"body": [
-			"grid-gap-xs"
+			"gap-xs"
 		],
-		"description": "grid gap xs"
+		"description": "gap xs"
 	},
-	"grid gap sm": {
-		"prefix": "grid-gap-sm",
+	"gap sm": {
+		"prefix": "gap-sm",
 		"body": [
-			"grid-gap-sm"
+			"gap-sm"
 		],
-		"description": "grid gap sm"
+		"description": "gap sm"
 	},
-	"grid gap md": {
-		"prefix": "grid-gap-md",
+	"gap md": {
+		"prefix": "gap-md",
 		"body": [
-			"grid-gap-md"
+			"gap-md"
 		],
-		"description": "grid gap md"
+		"description": "gap md"
 	},
-	"grid gap lg": {
-		"prefix": "grid-gap-lg",
+	"gap lg": {
+		"prefix": "gap-lg",
 		"body": [
-			"grid-gap-lg"
+			"gap-lg"
 		],
-		"description": "grid gap lg"
+		"description": "gap lg"
 	},
-	"grid gap xl": {
-		"prefix": "grid-gap-xl",
+	"gap xl": {
+		"prefix": "gap-xl",
 		"body": [
-			"grid-gap-xl"
+			"gap-xl"
 		],
-		"description": "grid gap xl"
+		"description": "gap xl"
 	},
-	"grid gap xxl": {
-		"prefix": "grid-gap-xxl",
+	"gap xxl": {
+		"prefix": "gap-xxl",
 		"body": [
-			"grid-gap-xxl"
+			"gap-xxl"
 		],
-		"description": "grid gap xxl"
+		"description": "gap xxl"
 	},
-	"grid gap xxxl": {
-		"prefix": "grid-gap-xxxl",
+	"gap xxxl": {
+		"prefix": "gap-xxxl",
 		"body": [
-			"grid-gap-xxxl"
+			"gap-xxxl"
 		],
-		"description": "grid gap xxxl"
+		"description": "gap xxxl"
 	},
-	"grid gap xxxxl": {
-		"prefix": "grid-gap-xxxxl",
+	"gap xxxxl": {
+		"prefix": "gap-xxxxl",
 		"body": [
-			"grid-gap-xxxxl"
+			"gap-xxxxl"
 		],
-		"description": "grid gap xxxxl"
+		"description": "gap xxxxl"
+	},
+	"gap xxxxs @xs": {
+		"prefix": "gap-xxxxs@xs",
+		"body": [
+			"gap-xxxxs@xs"
+		],
+		"description": "gap xxxxs @xs"
+	},
+	"gap xxxs @xs": {
+		"prefix": "gap-xxxs@xs",
+		"body": [
+			"gap-xxxs@xs"
+		],
+		"description": "gap xxxs @xs"
+	},
+	"gap xxs @xs": {
+		"prefix": "gap-xxs@xs",
+		"body": [
+			"gap-xxs@xs"
+		],
+		"description": "gap xxs @xs"
+	},
+	"gap xs @xs": {
+		"prefix": "gap-xs@xs",
+		"body": [
+			"gap-xs@xs"
+		],
+		"description": "gap xs @xs"
+	},
+	"gap sm @xs": {
+		"prefix": "gap-sm@xs",
+		"body": [
+			"gap-sm@xs"
+		],
+		"description": "gap sm @xs"
+	},
+	"gap md @xs": {
+		"prefix": "gap-md@xs",
+		"body": [
+			"gap-md@xs"
+		],
+		"description": "gap md @xs"
+	},
+	"gap lg @xs": {
+		"prefix": "gap-lg@xs",
+		"body": [
+			"gap-lg@xs"
+		],
+		"description": "gap lg @xs"
+	},
+	"gap xl @xs": {
+		"prefix": "gap-xl@xs",
+		"body": [
+			"gap-xl@xs"
+		],
+		"description": "gap xl @xs"
+	},
+	"gap xxl @xs": {
+		"prefix": "gap-xxl@xs",
+		"body": [
+			"gap-xxl@xs"
+		],
+		"description": "gap xxl @xs"
+	},
+	"gap xxxl @xs": {
+		"prefix": "gap-xxxl@xs",
+		"body": [
+			"gap-xxxl@xs"
+		],
+		"description": "gap xxxl @xs"
+	},
+	"gap xxxxl @xs": {
+		"prefix": "gap-xxxxl@xs",
+		"body": [
+			"gap-xxxxl@xs"
+		],
+		"description": "gap xxxxl @xs"
+	},
+	"gap xxxxs @sm": {
+		"prefix": "gap-xxxxs@sm",
+		"body": [
+			"gap-xxxxs@sm"
+		],
+		"description": "gap xxxxs @sm"
+	},
+	"gap xxxs @sm": {
+		"prefix": "gap-xxxs@sm",
+		"body": [
+			"gap-xxxs@sm"
+		],
+		"description": "gap xxxs @sm"
+	},
+	"gap xxs @sm": {
+		"prefix": "gap-xxs@sm",
+		"body": [
+			"gap-xxs@sm"
+		],
+		"description": "gap xxs @sm"
+	},
+	"gap xs @sm": {
+		"prefix": "gap-xs@sm",
+		"body": [
+			"gap-xs@sm"
+		],
+		"description": "gap xs @sm"
+	},
+	"gap sm @sm": {
+		"prefix": "gap-sm@sm",
+		"body": [
+			"gap-sm@sm"
+		],
+		"description": "gap sm @sm"
+	},
+	"gap md @sm": {
+		"prefix": "gap-md@sm",
+		"body": [
+			"gap-md@sm"
+		],
+		"description": "gap md @sm"
+	},
+	"gap lg @sm": {
+		"prefix": "gap-lg@sm",
+		"body": [
+			"gap-lg@sm"
+		],
+		"description": "gap lg @sm"
+	},
+	"gap xl @sm": {
+		"prefix": "gap-xl@sm",
+		"body": [
+			"gap-xl@sm"
+		],
+		"description": "gap xl @sm"
+	},
+	"gap xxl @sm": {
+		"prefix": "gap-xxl@sm",
+		"body": [
+			"gap-xxl@sm"
+		],
+		"description": "gap xxl @sm"
+	},
+	"gap xxxl @sm": {
+		"prefix": "gap-xxxl@sm",
+		"body": [
+			"gap-xxxl@sm"
+		],
+		"description": "gap xxxl @sm"
+	},
+	"gap xxxxl @sm": {
+		"prefix": "gap-xxxxl@sm",
+		"body": [
+			"gap-xxxxl@sm"
+		],
+		"description": "gap xxxxl @sm"
+	},
+	"gap xxxxs @md": {
+		"prefix": "gap-xxxxs@md",
+		"body": [
+			"gap-xxxxs@md"
+		],
+		"description": "gap xxxxs @md"
+	},
+	"gap xxxs @md": {
+		"prefix": "gap-xxxs@md",
+		"body": [
+			"gap-xxxs@md"
+		],
+		"description": "gap xxxs @md"
+	},
+	"gap xxs @md": {
+		"prefix": "gap-xxs@md",
+		"body": [
+			"gap-xxs@md"
+		],
+		"description": "gap xxs @md"
+	},
+	"gap xs @md": {
+		"prefix": "gap-xs@md",
+		"body": [
+			"gap-xs@md"
+		],
+		"description": "gap xs @md"
+	},
+	"gap sm @md": {
+		"prefix": "gap-sm@md",
+		"body": [
+			"gap-sm@md"
+		],
+		"description": "gap sm @md"
+	},
+	"gap md @md": {
+		"prefix": "gap-md@md",
+		"body": [
+			"gap-md@md"
+		],
+		"description": "gap md @md"
+	},
+	"gap lg @md": {
+		"prefix": "gap-lg@md",
+		"body": [
+			"gap-lg@md"
+		],
+		"description": "gap lg @md"
+	},
+	"gap xl @md": {
+		"prefix": "gap-xl@md",
+		"body": [
+			"gap-xl@md"
+		],
+		"description": "gap xl @md"
+	},
+	"gap xxl @md": {
+		"prefix": "gap-xxl@md",
+		"body": [
+			"gap-xxl@md"
+		],
+		"description": "gap xxl @md"
+	},
+	"gap xxxl @md": {
+		"prefix": "gap-xxxl@md",
+		"body": [
+			"gap-xxxl@md"
+		],
+		"description": "gap xxxl @md"
+	},
+	"gap xxxxl @md": {
+		"prefix": "gap-xxxxl@md",
+		"body": [
+			"gap-xxxxl@md"
+		],
+		"description": "gap xxxxl @md"
+	},
+	"gap xxxxs @lg": {
+		"prefix": "gap-xxxxs@lg",
+		"body": [
+			"gap-xxxxs@lg"
+		],
+		"description": "gap xxxxs @lg"
+	},
+	"gap xxxs @lg": {
+		"prefix": "gap-xxxs@lg",
+		"body": [
+			"gap-xxxs@lg"
+		],
+		"description": "gap xxxs @lg"
+	},
+	"gap xxs @lg": {
+		"prefix": "gap-xxs@lg",
+		"body": [
+			"gap-xxs@lg"
+		],
+		"description": "gap xxs @lg"
+	},
+	"gap xs @lg": {
+		"prefix": "gap-xs@lg",
+		"body": [
+			"gap-xs@lg"
+		],
+		"description": "gap xs @lg"
+	},
+	"gap sm @lg": {
+		"prefix": "gap-sm@lg",
+		"body": [
+			"gap-sm@lg"
+		],
+		"description": "gap sm @lg"
+	},
+	"gap md @lg": {
+		"prefix": "gap-md@lg",
+		"body": [
+			"gap-md@lg"
+		],
+		"description": "gap md @lg"
+	},
+	"gap lg @lg": {
+		"prefix": "gap-lg@lg",
+		"body": [
+			"gap-lg@lg"
+		],
+		"description": "gap lg @lg"
+	},
+	"gap xl @lg": {
+		"prefix": "gap-xl@lg",
+		"body": [
+			"gap-xl@lg"
+		],
+		"description": "gap xl @lg"
+	},
+	"gap xxl @lg": {
+		"prefix": "gap-xxl@lg",
+		"body": [
+			"gap-xxl@lg"
+		],
+		"description": "gap xxl @lg"
+	},
+	"gap xxxl @lg": {
+		"prefix": "gap-xxxl@lg",
+		"body": [
+			"gap-xxxl@lg"
+		],
+		"description": "gap xxxl @lg"
+	},
+	"gap xxxxl @lg": {
+		"prefix": "gap-xxxxl@lg",
+		"body": [
+			"gap-xxxxl@lg"
+		],
+		"description": "gap xxxxl @lg"
+	},
+	"gap xxxxs @xl": {
+		"prefix": "gap-xxxxs@xl",
+		"body": [
+			"gap-xxxxs@xl"
+		],
+		"description": "gap xxxxs @xl"
+	},
+	"gap xxxs @xl": {
+		"prefix": "gap-xxxs@xl",
+		"body": [
+			"gap-xxxs@xl"
+		],
+		"description": "gap xxxs @xl"
+	},
+	"gap xxs @xl": {
+		"prefix": "gap-xxs@xl",
+		"body": [
+			"gap-xxs@xl"
+		],
+		"description": "gap xxs @xl"
+	},
+	"gap xs @xl": {
+		"prefix": "gap-xs@xl",
+		"body": [
+			"gap-xs@xl"
+		],
+		"description": "gap xs @xl"
+	},
+	"gap sm @xl": {
+		"prefix": "gap-sm@xl",
+		"body": [
+			"gap-sm@xl"
+		],
+		"description": "gap sm @xl"
+	},
+	"gap md @xl": {
+		"prefix": "gap-md@xl",
+		"body": [
+			"gap-md@xl"
+		],
+		"description": "gap md @xl"
+	},
+	"gap lg @xl": {
+		"prefix": "gap-lg@xl",
+		"body": [
+			"gap-lg@xl"
+		],
+		"description": "gap lg @xl"
+	},
+	"gap xl @xl": {
+		"prefix": "gap-xl@xl",
+		"body": [
+			"gap-xl@xl"
+		],
+		"description": "gap xl @xl"
+	},
+	"gap xxl @xl": {
+		"prefix": "gap-xxl@xl",
+		"body": [
+			"gap-xxl@xl"
+		],
+		"description": "gap xxl @xl"
+	},
+	"gap xxxl @xl": {
+		"prefix": "gap-xxxl@xl",
+		"body": [
+			"gap-xxxl@xl"
+		],
+		"description": "gap xxxl @xl"
+	},
+	"gap xxxxl @xl": {
+		"prefix": "gap-xxxxl@xl",
+		"body": [
+			"gap-xxxxl@xl"
+		],
+		"description": "gap xxxxl @xl"
 	},
 	"col": {
 		"prefix": "col",
@@ -10982,12 +11290,54 @@
 		],
 		"description": "color contrast higher"
 	},
+	"color primary darker": {
+		"prefix": "color-primary-darker",
+		"body": [
+			"color-primary-darker"
+		],
+		"description": "color primary darker"
+	},
+	"color primary dark": {
+		"prefix": "color-primary-dark",
+		"body": [
+			"color-primary-dark"
+		],
+		"description": "color primary dark"
+	},
 	"color primary": {
 		"prefix": "color-primary",
 		"body": [
 			"color-primary"
 		],
 		"description": "color primary"
+	},
+	"color primary light": {
+		"prefix": "color-primary-light",
+		"body": [
+			"color-primary-light"
+		],
+		"description": "color primary light"
+	},
+	"color primary lighter": {
+		"prefix": "color-primary-lighter",
+		"body": [
+			"color-primary-lighter"
+		],
+		"description": "color primary lighter"
+	},
+	"color accent darker": {
+		"prefix": "color-accent-darker",
+		"body": [
+			"color-accent-darker"
+		],
+		"description": "color accent darker"
+	},
+	"color accent dark": {
+		"prefix": "color-accent-dark",
+		"body": [
+			"color-accent-dark"
+		],
+		"description": "color accent dark"
 	},
 	"color accent": {
 		"prefix": "color-accent",
@@ -10996,12 +11346,68 @@
 		],
 		"description": "color accent"
 	},
+	"color accent light": {
+		"prefix": "color-accent-light",
+		"body": [
+			"color-accent-light"
+		],
+		"description": "color accent light"
+	},
+	"color accent lighter": {
+		"prefix": "color-accent-lighter",
+		"body": [
+			"color-accent-lighter"
+		],
+		"description": "color accent lighter"
+	},
+	"color success darker": {
+		"prefix": "color-success-darker",
+		"body": [
+			"color-success-darker"
+		],
+		"description": "color success darker"
+	},
+	"color success dark": {
+		"prefix": "color-success-dark",
+		"body": [
+			"color-success-dark"
+		],
+		"description": "color success dark"
+	},
 	"color success": {
 		"prefix": "color-success",
 		"body": [
 			"color-success"
 		],
 		"description": "color success"
+	},
+	"color success light": {
+		"prefix": "color-success-light",
+		"body": [
+			"color-success-light"
+		],
+		"description": "color success light"
+	},
+	"color success lighter": {
+		"prefix": "color-success-lighter",
+		"body": [
+			"color-success-lighter"
+		],
+		"description": "color success lighter"
+	},
+	"color warning darker": {
+		"prefix": "color-warning-darker",
+		"body": [
+			"color-warning-darker"
+		],
+		"description": "color warning darker"
+	},
+	"color warning dark": {
+		"prefix": "color-warning-dark",
+		"body": [
+			"color-warning-dark"
+		],
+		"description": "color warning dark"
 	},
 	"color warning": {
 		"prefix": "color-warning",
@@ -11010,12 +11416,54 @@
 		],
 		"description": "color warning"
 	},
+	"color warning light": {
+		"prefix": "color-warning-light",
+		"body": [
+			"color-warning-light"
+		],
+		"description": "color warning light"
+	},
+	"color warning lighter": {
+		"prefix": "color-warning-lighter",
+		"body": [
+			"color-warning-lighter"
+		],
+		"description": "color warning lighter"
+	},
+	"color error darker": {
+		"prefix": "color-error-darker",
+		"body": [
+			"color-error-darker"
+		],
+		"description": "color error darker"
+	},
+	"color error dark": {
+		"prefix": "color-error-dark",
+		"body": [
+			"color-error-dark"
+		],
+		"description": "color error dark"
+	},
 	"color error": {
 		"prefix": "color-error",
 		"body": [
 			"color-error"
 		],
 		"description": "color error"
+	},
+	"color error light": {
+		"prefix": "color-error-light",
+		"body": [
+			"color-error-light"
+		],
+		"description": "color error light"
+	},
+	"color error lighter": {
+		"prefix": "color-error-lighter",
+		"body": [
+			"color-error-lighter"
+		],
+		"description": "color error lighter"
 	},
 	"color opacity 10%": {
 		"prefix": "color-opacity-10%",
@@ -11675,12 +12123,54 @@
 		],
 		"description": "set border-color equal to color-contrast-higher"
 	},
+	"border primary darker": {
+		"prefix": "border-primary-darker",
+		"body": [
+			"border-primary-darker"
+		],
+		"description": "set border-color equal to color-primary-darker"
+	},
+	"border primary dark": {
+		"prefix": "border-primary-dark",
+		"body": [
+			"border-primary-dark"
+		],
+		"description": "set border-color equal to color-primary-dark"
+	},
 	"border primary": {
 		"prefix": "border-primary",
 		"body": [
 			"border-primary"
 		],
 		"description": "set border-color equal to color-primary"
+	},
+	"border primary light": {
+		"prefix": "border-primary-light",
+		"body": [
+			"border-primary-light"
+		],
+		"description": "set border-color equal to color-primary-light"
+	},
+	"border primary lighter": {
+		"prefix": "border-primary-lighter",
+		"body": [
+			"border-primary-lighter"
+		],
+		"description": "set border-color equal to color-primary-lighter"
+	},
+	"border accent darker": {
+		"prefix": "border-accent-darker",
+		"body": [
+			"border-accent-darker"
+		],
+		"description": "set border-color equal to color-accent-darker"
+	},
+	"border accent dark": {
+		"prefix": "border-accent-dark",
+		"body": [
+			"border-accent-dark"
+		],
+		"description": "set border-color equal to color-accent-dark"
 	},
 	"border accent": {
 		"prefix": "border-accent",
@@ -11689,12 +12179,68 @@
 		],
 		"description": "set border-color equal to color-accent"
 	},
+	"border accent light": {
+		"prefix": "border-accent-light",
+		"body": [
+			"border-accent-light"
+		],
+		"description": "set border-color equal to color-accent-light"
+	},
+	"border accent lighter": {
+		"prefix": "border-accent-lighter",
+		"body": [
+			"border-accent-lighter"
+		],
+		"description": "set border-color equal to color-accent-lighter"
+	},
+	"border success darker": {
+		"prefix": "border-success-darker",
+		"body": [
+			"border-success-darker"
+		],
+		"description": "set border-color equal to color-success-darker"
+	},
+	"border success dark": {
+		"prefix": "border-success-dark",
+		"body": [
+			"border-success-dark"
+		],
+		"description": "set border-color equal to color-success-dark"
+	},
 	"border success": {
 		"prefix": "border-success",
 		"body": [
 			"border-success"
 		],
 		"description": "set border-color equal to color-success"
+	},
+	"border success light": {
+		"prefix": "border-success-light",
+		"body": [
+			"border-success-light"
+		],
+		"description": "set border-color equal to color-success-light"
+	},
+	"border success lighter": {
+		"prefix": "border-success-lighter",
+		"body": [
+			"border-success-lighter"
+		],
+		"description": "set border-color equal to color-success-lighter"
+	},
+	"border warning darker": {
+		"prefix": "border-warning-darker",
+		"body": [
+			"border-warning-darker"
+		],
+		"description": "set border-color equal to color-warning-darker"
+	},
+	"border warning dark": {
+		"prefix": "border-warning-dark",
+		"body": [
+			"border-warning-dark"
+		],
+		"description": "set border-color equal to color-warning-dark"
 	},
 	"border warning": {
 		"prefix": "border-warning",
@@ -11703,12 +12249,54 @@
 		],
 		"description": "set border-color equal to color-warning"
 	},
+	"border warning light": {
+		"prefix": "border-warning-light",
+		"body": [
+			"border-warning-light"
+		],
+		"description": "set border-color equal to color-warning-light"
+	},
+	"border warning lighter": {
+		"prefix": "border-warning-lighter",
+		"body": [
+			"border-warning-lighter"
+		],
+		"description": "set border-color equal to color-warning-lighter"
+	},
+	"border error darker": {
+		"prefix": "border-error-darker",
+		"body": [
+			"border-error-darker"
+		],
+		"description": "set border-color equal to color-error-darker"
+	},
+	"border error dark": {
+		"prefix": "border-error-dark",
+		"body": [
+			"border-error-dark"
+		],
+		"description": "set border-color equal to color-error-dark"
+	},
 	"border error": {
 		"prefix": "border-error",
 		"body": [
 			"border-error"
 		],
 		"description": "set border-color equal to color-error"
+	},
+	"border error light": {
+		"prefix": "border-error-light",
+		"body": [
+			"border-error-light"
+		],
+		"description": "set border-color equal to color-error-light"
+	},
+	"border error lighter": {
+		"prefix": "border-error-lighter",
+		"body": [
+			"border-error-lighter"
+		],
+		"description": "set border-color equal to color-error-lighter"
 	},
 	"border white": {
 		"prefix": "border-white",
@@ -11990,12 +12578,54 @@
 		],
 		"description": "background-color contrast higher"
 	},
+	"background primary darker": {
+		"prefix": "bg-primary-darker",
+		"body": [
+			"bg-primary-darker"
+		],
+		"description": "background-color primary darker"
+	},
+	"background primary dark": {
+		"prefix": "bg-primary-dark",
+		"body": [
+			"bg-primary-dark"
+		],
+		"description": "background-color primary dark"
+	},
   "background primary": {
 		"prefix": "bg-primary",
 		"body": [
 			"bg-primary"
 		],
 		"description": "background-color primary"
+	},
+	"background primary light": {
+		"prefix": "bg-primary-light",
+		"body": [
+			"bg-primary-light"
+		],
+		"description": "background-color primary light"
+	},
+	"background primary lighter": {
+		"prefix": "bg-primary-lighter",
+		"body": [
+			"bg-primary-lighter"
+		],
+		"description": "background-color primary lighter"
+	},
+	"background accent darker": {
+		"prefix": "bg-accent-darker",
+		"body": [
+			"bg-accent-darker"
+		],
+		"description": "background-color accent darker"
+	},
+	"background accent dark": {
+		"prefix": "bg-accent-dark",
+		"body": [
+			"bg-accent-dark"
+		],
+		"description": "background-color accent dark"
 	},
   "background accent": {
 		"prefix": "bg-accent",
@@ -12004,12 +12634,68 @@
 		],
 		"description": "background-color accent"
 	},
+	"background accent light": {
+		"prefix": "bg-accent-light",
+		"body": [
+			"bg-accent-light"
+		],
+		"description": "background-color accent light"
+	},
+	"background accent lighter": {
+		"prefix": "bg-accent-lighter",
+		"body": [
+			"bg-accent-lighter"
+		],
+		"description": "background-color accent lighter"
+	},
+	"background success darker": {
+		"prefix": "bg-success-darker",
+		"body": [
+			"bg-success-darker"
+		],
+		"description": "background-color success darker"
+	},
+	"background success dark": {
+		"prefix": "bg-success-dark",
+		"body": [
+			"bg-success-dark"
+		],
+		"description": "background-color success dark"
+	},
   "background success": {
 		"prefix": "bg-success",
 		"body": [
 			"bg-success"
 		],
 		"description": "background-color success"
+	},
+	"background success light": {
+		"prefix": "bg-success-light",
+		"body": [
+			"bg-success-light"
+		],
+		"description": "background-color success light"
+	},
+	"background success lighter": {
+		"prefix": "bg-success-lighter",
+		"body": [
+			"bg-success-lighter"
+		],
+		"description": "background-color success lighter"
+	},
+	"background warning darker": {
+		"prefix": "bg-warning-darker",
+		"body": [
+			"bg-warning-darker"
+		],
+		"description": "background-color warning darker"
+	},
+	"background warning dark": {
+		"prefix": "bg-warning-dark",
+		"body": [
+			"bg-warning-dark"
+		],
+		"description": "background-color warning dark"
 	},
   "background warning": {
 		"prefix": "bg-warning",
@@ -12018,12 +12704,54 @@
 		],
 		"description": "background-color warning"
 	},
+	"background warning light": {
+		"prefix": "bg-warning-light",
+		"body": [
+			"bg-warning-light"
+		],
+		"description": "background-color warning light"
+	},
+	"background warning lighter": {
+		"prefix": "bg-warning-lighter",
+		"body": [
+			"bg-warning-lighter"
+		],
+		"description": "background-color warning lighter"
+	},
+	"background error darker": {
+		"prefix": "bg-error-darker",
+		"body": [
+			"bg-error-darker"
+		],
+		"description": "background-color error darker"
+	},
+	"background error dark": {
+		"prefix": "bg-error-dark",
+		"body": [
+			"bg-error-dark"
+		],
+		"description": "background-color error dark"
+	},
   "background error": {
 		"prefix": "bg-error",
 		"body": [
 			"bg-error"
 		],
 		"description": "background-color error"
+	},
+	"background error light": {
+		"prefix": "bg-error-light",
+		"body": [
+			"bg-error-light"
+		],
+		"description": "background-color error light"
+	},
+	"background error lighter": {
+		"prefix": "bg-error-lighter",
+		"body": [
+			"bg-error-lighter"
+		],
+		"description": "background-color error lighter"
 	},
   "background white": {
 		"prefix": "bg-white",
