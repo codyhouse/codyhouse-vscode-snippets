@@ -11087,6 +11087,13 @@
 		],
 		"description": "hide element"
 	},
+	"no-js is hidden": {
+		"prefix": "no-js:is-hidden",
+		"body": [
+			"no-js:is-hidden"
+		],
+		"description": "hide element if JS is disabled"
+	},
 	"truncate text": {
 		"prefix": "text-truncate",
 		"body": [
