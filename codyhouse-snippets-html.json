@@ -230,6 +230,13 @@
 		],
 		"description": "align-items: flex-end"
 	},
+  "items-baseline": {
+		"prefix": "items-baseline",
+		"body": [
+			"items-baseline"
+		],
+		"description": "align-items: baseline"
+	},
 	"order-1": {
 		"prefix": "order-1",
 		"body": [
@@ -355,6 +362,13 @@
 			"items-end@xs"
 		],
 		"description": "align-items: flex-end @xs"
+	},
+  "items-baseline@xs": {
+		"prefix": "items-baseline@xs",
+		"body": [
+			"items-baseline@xs"
+		],
+		"description": "align-items: baseline @xs"
 	},
 	"order-1@xs": {
 		"prefix": "order-1@xs",
@@ -482,6 +496,13 @@
 		],
 		"description": "align-items: flex-end @sm"
 	},
+  "items-baseline@sm": {
+		"prefix": "items-baseline@sm",
+		"body": [
+			"items-baseline@sm"
+		],
+		"description": "align-items: baseline @sm"
+	},
 	"order-1@sm": {
 		"prefix": "order-1@sm",
 		"body": [
@@ -607,6 +628,13 @@
 			"items-end@md"
 		],
 		"description": "align-items: flex-end @md"
+	},
+  "items-baseline@md": {
+		"prefix": "items-baseline@md",
+		"body": [
+			"items-baseline@md"
+		],
+		"description": "align-items: baseline @md"
 	},
 	"order-1@md": {
 		"prefix": "order-1@md",
@@ -734,6 +762,13 @@
 		],
 		"description": "align-items: flex-end @lg"
 	},
+  "items-baseline@lg": {
+		"prefix": "items-baseline@lg",
+		"body": [
+			"items-baseline@lg"
+		],
+		"description": "align-items: baseline @lg"
+	},
 	"order-1@lg": {
 		"prefix": "order-1@lg",
 		"body": [
@@ -859,6 +894,13 @@
 			"items-end@xl"
 		],
 		"description": "align-items: flex-end @xl"
+	},
+  "items-baseline@xl": {
+		"prefix": "items-baseline@xl",
+		"body": [
+			"items-baseline@xl"
+		],
+		"description": "align-items: baseline @xl"
 	},
 	"order-1@xl": {
 		"prefix": "order-1@xl",
@@ -11122,6 +11164,13 @@
 		],
 		"description": "remove text wrapping"
 	},
+	"cursor pointer": {
+		"prefix": "cursor-pointer",
+		"body": [
+			"cursor-pointer"
+		],
+		"description": "cursor pointer"
+	},
 	"text-align center": {
 		"prefix": "text-center",
 		"body": [
@@ -11536,23 +11585,23 @@
 		"description": "color opacity 90%"
 	},
 	"z-index 1": {
-		"prefix": "zindex-1",
+		"prefix": "z-index-1",
 		"body": [
-			"zindex-1"
+			"z-index-1"
 		],
 		"description": "z-index 1"
 	},
 	"z-index 2": {
-		"prefix": "zindex-2",
+		"prefix": "z-index-2",
 		"body": [
-			"zindex-2"
+			"z-index-2"
 		],
 		"description": "z-index 2"
 	},
 	"z-index 3": {
-		"prefix": "zindex-3",
+		"prefix": "z-index-3",
 		"body": [
-			"zindex-3"
+			"z-index-3"
 		],
 		"description": "z-index 3"
 	},
