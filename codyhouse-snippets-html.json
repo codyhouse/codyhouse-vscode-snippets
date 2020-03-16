@@ -8840,6 +8840,13 @@
 		],
 		"description": "max-width xxxxl"
 	},
+	"max-width 100%": {
+		"prefix": "max-width-100%",
+		"body": [
+			"max-width-100%"
+		],
+		"description": "max-width 100%"
+	},
 	"max-width adaptive sm": {
 		"prefix": "max-width-adaptive-sm",
 		"body": [
@@ -9029,6 +9036,13 @@
 		],
 		"description": "gap xxxxl @xs"
 	},
+	"gap 0 @xs": {
+		"prefix": "gap-0@xs",
+		"body": [
+			"gap-0@xs"
+		],
+		"description": "gap 0 @xs"
+	},
 	"gap xxxxs @sm": {
 		"prefix": "gap-xxxxs@sm",
 		"body": [
@@ -9105,6 +9119,13 @@
 			"gap-xxxxl@sm"
 		],
 		"description": "gap xxxxl @sm"
+	},
+	"gap 0 @sm": {
+		"prefix": "gap-0@sm",
+		"body": [
+			"gap-0@sm"
+		],
+		"description": "gap 0 @sm"
 	},
 	"gap xxxxs @md": {
 		"prefix": "gap-xxxxs@md",
@@ -9183,6 +9204,13 @@
 		],
 		"description": "gap xxxxl @md"
 	},
+	"gap 0 @md": {
+		"prefix": "gap-0@md",
+		"body": [
+			"gap-0@md"
+		],
+		"description": "gap 0 @md"
+	},
 	"gap xxxxs @lg": {
 		"prefix": "gap-xxxxs@lg",
 		"body": [
@@ -9260,6 +9288,13 @@
 		],
 		"description": "gap xxxxl @lg"
 	},
+	"gap 0 @lg": {
+		"prefix": "gap-0@lg",
+		"body": [
+			"gap-0@lg"
+		],
+		"description": "gap 0 @lg"
+	},
 	"gap xxxxs @xl": {
 		"prefix": "gap-xxxxs@xl",
 		"body": [
@@ -9336,6 +9371,13 @@
 			"gap-xxxxl@xl"
 		],
 		"description": "gap xxxxl @xl"
+	},
+	"gap 0 @xl": {
+		"prefix": "gap-0@xl",
+		"body": [
+			"gap-0@xl"
+		],
+		"description": "gap 0 @xl"
 	},
 	"col": {
 		"prefix": "col",
@@ -11171,6 +11213,27 @@
 		],
 		"description": "cursor pointer"
 	},
+	"pointer events none": {
+		"prefix": "pointer-events-none",
+		"body": [
+			"pointer-events-none"
+		],
+		"description": "pointer events none"
+	},
+	"user select none": {
+		"prefix": "user-select-none",
+		"body": [
+			"user-select-none"
+		],
+		"description": "user select none"
+	},
+	"user select all": {
+		"prefix": "user-select-all",
+		"body": [
+			"user-select-all"
+		],
+		"description": "user select all"
+	},
 	"text-align center": {
 		"prefix": "text-center",
 		"body": [
@@ -11983,6 +12046,27 @@
 		],
 		"description": "height auto"
 	},
+	"max height 100%": {
+		"prefix": "max-height-100%",
+		"body": [
+			"max-height-100%"
+		],
+		"description": "max height 100%"
+	},
+	"max height 100vh": {
+		"prefix": "max-height-100vh",
+		"body": [
+			"max-height-100vh"
+		],
+		"description": "max height 100vh"
+	},
+	"opacity 0": {
+		"prefix": "opacity-0",
+		"body": [
+			"opacity-0"
+		],
+		"description": "opacity 0"
+	},
 	"opacity 10%": {
 		"prefix": "opacity-10%",
 		"body": [
@@ -12136,6 +12220,13 @@
 			"border-3"
 		],
 		"description": "set border-width equal to 3px"
+	},
+	"border-4": {
+		"prefix": "border-4",
+		"body": [
+			"border-4"
+		],
+		"description": "set border-width equal to 4px"
 	},
 	"border background": {
 		"prefix": "border-bg",
