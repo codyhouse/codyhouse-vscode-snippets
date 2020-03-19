@@ -9421,6 +9421,48 @@
 		],
 		"description": "column @xl"
 	},
+	"col-content": {
+		"prefix": "col-content",
+		"body": [
+			"col-content"
+		],
+		"description": "column content"
+	},
+	"col-content@xs": {
+		"prefix": "col-content@xs",
+		"body": [
+			"col-content@xs"
+		],
+		"description": "column content @xs"
+	},
+	"col-content@sm": {
+		"prefix": "col-content@sm",
+		"body": [
+			"col-content@sm"
+		],
+		"description": "column content @sm"
+	},
+	"col-content@md": {
+		"prefix": "col-content@md",
+		"body": [
+			"col-content@md"
+		],
+		"description": "column content @md"
+	},
+	"col-content@lg": {
+		"prefix": "col-content@lg",
+		"body": [
+			"col-content@lg"
+		],
+		"description": "column content @lg"
+	},
+	"col-content@xl": {
+		"prefix": "col-content@xl",
+		"body": [
+			"col-content@xl"
+		],
+		"description": "column content @xl"
+	},
 	"col-1": {
 		"prefix": "col-1",
 		"body": [
@@ -11177,6 +11219,13 @@
 			"no-js:is-hidden"
 		],
 		"description": "hide element if JS is disabled"
+	},
+	"print is hidden": {
+		"prefix": "print:is-hidden",
+		"body": [
+			"print:is-hidden"
+		],
+		"description": "do not print element"
 	},
 	"truncate text": {
 		"prefix": "text-truncate",
