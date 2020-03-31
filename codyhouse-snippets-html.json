@@ -61,6 +61,13 @@
 			"icon"
 		],
 		"description": "icon component"
+	},
+	"icon xxxs": {
+		"prefix": "icon--xxxs",
+		"body": [
+			"icon--xxxs"
+		],
+		"description": "icon size xxxs"
   },
   "icon xxs": {
 		"prefix": "icon--xxs",
@@ -110,6 +117,13 @@
 			"icon--xxl"
 		],
 		"description": "icon size xxl"
+	},
+	"icon xxxl": {
+		"prefix": "icon--xxxl",
+		"body": [
+			"icon--xxxl"
+		],
+		"description": "icon size xxxl"
   },
   "icon is-spinning": {
 		"prefix": "icon--is-spinning",
