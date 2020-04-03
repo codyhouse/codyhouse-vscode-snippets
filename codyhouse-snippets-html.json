@@ -13054,6 +13054,27 @@
 		],
 		"description": "background position center"
 	},
+	"background no-repeat": {
+		"prefix": "bg-no-repeat",
+		"body": [
+			"bg-no-repeat"
+		],
+		"description": "background no-repeat"
+	},
+	"backdrop-filter blur 10px": {
+		"prefix": "backdrop-blur-10",
+		"body": [
+			"backdrop-blur-10"
+		],
+		"description": "backdrop-filter blur 10px"
+	},
+	"backdrop-filter blur 20px": {
+		"prefix": "backdrop-blur-20",
+		"body": [
+			"backdrop-blur-20"
+		],
+		"description": "backdrop-filter blur 20px"
+	},
 	"font-primary": {
 		"prefix": "font-primary",
 		"body": [
