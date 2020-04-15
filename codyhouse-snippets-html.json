@@ -10716,6 +10716,13 @@
 		],
 		"description": "text size xs"
 	},
+	"text-xxxxl @xs": {
+		"prefix": "text-xxxxl@xs",
+		"body": [
+			"text-xxxxl@xs"
+		],
+		"description": "text size xxxxl @xs"
+	},
 	"text-xxxl @xs": {
 		"prefix": "text-xxxl@xs",
 		"body": [
@@ -10771,6 +10778,13 @@
 			"text-xs@xs"
 		],
 		"description": "text size xs @xs"
+	},
+	"text-xxxxl @sm": {
+		"prefix": "text-xxxxl@sm",
+		"body": [
+			"text-xxxxl@sm"
+		],
+		"description": "text size xxxxl @sm"
 	},
 	"text-xxxl @sm": {
 		"prefix": "text-xxxl@sm",
@@ -10828,6 +10842,13 @@
 		],
 		"description": "text size xs @sm"
 	},
+	"text-xxxxl @md": {
+		"prefix": "text-xxxxl@md",
+		"body": [
+			"text-xxxxl@md"
+		],
+		"description": "text size xxxxl @md"
+	},
 	"text-xxxl @md": {
 		"prefix": "text-xxxl@md",
 		"body": [
@@ -10884,6 +10905,13 @@
 		],
 		"description": "text size xs @md"
 	},
+	"text-xxxxl @lg": {
+		"prefix": "text-xxxxl@lg",
+		"body": [
+			"text-xxxxl@lg"
+		],
+		"description": "text size xxxxl @lg"
+	},
 	"text-xxxl @lg": {
 		"prefix": "text-xxxl@lg",
 		"body": [
@@ -10939,6 +10967,13 @@
 			"text-xs@lg"
 		],
 		"description": "text size xs @lg"
+	},
+	"text-xxxxl @xl": {
+		"prefix": "text-xxxxl@xl",
+		"body": [
+			"text-xxxxl@xl"
+		],
+		"description": "text size xxxxl @xl"
 	},
 	"text-xxxl @xl": {
 		"prefix": "text-xxxl@xl",
