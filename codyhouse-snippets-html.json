@@ -10652,7 +10652,14 @@
 			"offset-11@xl"
 		],
 		"description": "column offset 11 @xl"
-  },
+	},
+	"text-xxxxl": {
+		"prefix": "text-xxxxl",
+		"body": [
+			"text-xxxxl"
+		],
+		"description": "text size xxxl"
+	},
 	"text-xxxl": {
 		"prefix": "text-xxxl",
 		"body": [
@@ -13361,6 +13368,20 @@
 			"overflow-auto"
 		],
 		"description": "overflow auto"
+	},
+	"momentum scrolling": {
+		"prefix": "momentum-scrolling",
+		"body": [
+			"momentum-scrolling"
+		],
+		"description": "iOS momentum scrolling"
+	},
+	"overscroll contain": {
+		"prefix": "overscroll-contain",
+		"body": [
+			"overscroll-contain"
+		],
+		"description": "overscroll behavior contain"
 	},
 	"object contain": {
 		"prefix": "object-contain",
