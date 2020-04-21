@@ -11080,6 +11080,13 @@
 		],
 		"description": "font-weight 700"
 	},
+	"font-italic": {
+		"prefix": "font-italic",
+		"body": [
+			"font-italic"
+		],
+		"description": "font-style italic"
+	},
 	"font-smooth": {
 		"prefix": "font-smooth",
 		"body": [
@@ -11779,6 +11786,34 @@
 			"z-index-3"
 		],
 		"description": "z-index 3"
+	},
+	"z-index-header": {
+		"prefix": "z-index-header",
+		"body": [
+			"z-index-header"
+		],
+		"description": "z-index-header"
+	},
+	"z-index-popover": {
+		"prefix": "z-index-popover",
+		"body": [
+			"z-index-popover"
+		],
+		"description": "z-index-popover"
+	},
+	"z-index-fixed-element": {
+		"prefix": "z-index-fixed-element",
+		"body": [
+			"z-index-fixed-element"
+		],
+		"description": "z-index-fixed-element"
+	},
+	"z-index-overlay": {
+		"prefix": "z-index-overlay",
+		"body": [
+			"z-index-overlay"
+		],
+		"description": "z-index-overlay"
 	},
 	"width xxxxs": {
 		"prefix": "width-xxxxs",
@@ -13417,6 +13452,48 @@
 			"overscroll-contain"
 		],
 		"description": "overscroll behavior contain"
+	},
+	"isolate": {
+		"prefix": "isolate",
+		"body": [
+			"isolate"
+		],
+		"description": "isolation isolate"
+	},
+	"blend-multiply": {
+		"prefix": "blend-multiply",
+		"body": [
+			"blend-multiply"
+		],
+		"description": "mix-blend-mode multiply"
+	},
+	"blend-overlay": {
+		"prefix": "blend-overlay",
+		"body": [
+			"blend-overlay"
+		],
+		"description": "mix-blend-mode overlay"
+	},
+	"flip": {
+		"prefix": "flip",
+		"body": [
+			"flip"
+		],
+		"description": "scale -1"
+	},
+	"flip-x": {
+		"prefix": "flip-x",
+		"body": [
+			"flip-x"
+		],
+		"description": "scaleX -1"
+	},
+	"flip-y": {
+		"prefix": "flip-y",
+		"body": [
+			"flip-y"
+		],
+		"description": "scaleY -1"
 	},
 	"object contain": {
 		"prefix": "object-contain",
