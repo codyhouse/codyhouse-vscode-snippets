@@ -12767,6 +12767,20 @@
 		],
 		"description": "line-height xl"
 	},
+  "line-height body": {
+		"prefix": "line-height-body",
+		"body": [
+			"line-height-body"
+		],
+		"description": "line-height body"
+	},
+  "line-height heading": {
+		"prefix": "line-height-heading",
+		"body": [
+			"line-height-heading"
+		],
+		"description": "line-height heading"
+	},
   "vertical space xxs": {
 		"prefix": "v-space-xxs",
 		"body": [
