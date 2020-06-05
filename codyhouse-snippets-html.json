@@ -1168,6 +1168,13 @@
 		],
 		"description": "margin auto"
 	},
+  "margin 0": {
+		"prefix": "margin-0",
+		"body": [
+			"margin-0"
+		],
+		"description": "margin 0"
+	},
 	"margin xxxxs @xs": {
 		"prefix": "margin-xxxxs@xs",
 		"body": [
@@ -1706,6 +1713,13 @@
 			"margin-top-auto"
 		],
 		"description": "margin top auto"
+	},
+  "margin top 0": {
+		"prefix": "margin-top-0",
+		"body": [
+			"margin-top-0"
+		],
+		"description": "margin top 0"
 	},
 	"margin top xxxxs @xs": {
 		"prefix": "margin-top-xxxxs@xs",
@@ -2246,6 +2260,13 @@
 		],
 		"description": "margin bottom auto"
 	},
+  "margin bottom 0": {
+		"prefix": "margin-bottom-0",
+		"body": [
+			"margin-bottom-0"
+		],
+		"description": "margin bottom 0"
+	},
 	"margin bottom xxxxs @xs": {
 		"prefix": "margin-bottom-xxxxs@xs",
 		"body": [
@@ -2785,6 +2806,13 @@
 		],
 		"description": "margin right auto"
 	},
+  "margin right 0": {
+		"prefix": "margin-right-0",
+		"body": [
+			"margin-right-0"
+		],
+		"description": "margin right 0"
+	},
 	"margin right xxxxs @xs": {
 		"prefix": "margin-right-xxxxs@xs",
 		"body": [
@@ -3323,6 +3351,13 @@
 			"margin-left-auto"
 		],
 		"description": "margin left auto"
+	},
+  "margin left 0": {
+		"prefix": "margin-left-0",
+		"body": [
+			"margin-left-0"
+		],
+		"description": "margin left 0"
 	},
 	"margin left xxxxs @xs": {
 		"prefix": "margin-left-xxxxs@xs",
@@ -4976,6 +5011,13 @@
 		],
 		"description": "padding component"
 	},
+  "padding 0": {
+		"prefix": "padding-0",
+		"body": [
+			"padding-0"
+		],
+		"description": "padding 0"
+	},
 	"padding xxxxs @xs": {
 		"prefix": "padding-xxxxs@xs",
 		"body": [
@@ -5514,6 +5556,13 @@
 			"padding-top-component"
 		],
 		"description": "padding top component"
+	},
+  "padding top 0": {
+		"prefix": "padding-top-0",
+		"body": [
+			"padding-top-0"
+		],
+		"description": "padding top 0"
 	},
 	"padding top xxxxs @xs": {
 		"prefix": "padding-top-xxxxs@xs",
@@ -6054,6 +6103,13 @@
 		],
 		"description": "padding bottom component"
 	},
+  "padding bottom 0": {
+		"prefix": "padding-bottom-0",
+		"body": [
+			"padding-bottom-0"
+		],
+		"description": "padding bottom 0"
+	},
 	"padding bottom xxxxs @xs": {
 		"prefix": "padding-bottom-xxxxs@xs",
 		"body": [
@@ -6593,6 +6649,13 @@
 		],
 		"description": "padding right component"
 	},
+  "padding right 0": {
+		"prefix": "padding-right-0",
+		"body": [
+			"padding-right-0"
+		],
+		"description": "padding right 0"
+	},
 	"padding right xxxxs @xs": {
 		"prefix": "padding-right-xxxxs@xs",
 		"body": [
@@ -7131,6 +7194,13 @@
 			"padding-left-component"
 		],
 		"description": "padding left component"
+	},
+  "padding left 0": {
+		"prefix": "padding-left-0",
+		"body": [
+			"padding-left-0"
+		],
+		"description": "padding left 0"
 	},
 	"padding left xxxxs @xs": {
 		"prefix": "padding-left-xxxxs@xs",
@@ -11325,6 +11395,13 @@
 		],
 		"description": "cursor pointer"
 	},
+	"cursor default": {
+		"prefix": "cursor-default",
+		"body": [
+			"cursor-default"
+		],
+		"description": "cursor default"
+	},
 	"pointer-events none": {
 		"prefix": "pointer-events-none",
 		"body": [
@@ -11478,6 +11555,48 @@
 			"text-right@xl"
 		],
 		"description": "text-align right @xl"
+	},
+	"text-align 0": {
+		"prefix": "text-0",
+		"body": [
+			"text-0"
+		],
+		"description": "text-align 0"
+	},
+	"text-align 0 @xs": {
+		"prefix": "text-0@xs",
+		"body": [
+			"text-0@xs"
+		],
+		"description": "text-align 0 @xs"
+	},
+	"text-align 0 @sm": {
+		"prefix": "text-0@sm",
+		"body": [
+			"text-0@sm"
+		],
+		"description": "text-align 0 @sm"
+	},
+	"text-align 0 @md": {
+		"prefix": "text-0@md",
+		"body": [
+			"text-0@md"
+		],
+		"description": "text-align 0 @md"
+	},
+	"text-align 0 @lg": {
+		"prefix": "text-0@lg",
+		"body": [
+			"text-0@lg"
+		],
+		"description": "text-align 0 @lg"
+	},
+	"text-align 0 @xl": {
+		"prefix": "text-0@xl",
+		"body": [
+			"text-0@xl"
+		],
+		"description": "text-align 0 @xl"
 	},
 	"color inherit": {
 		"prefix": "color-inherit",
@@ -11703,6 +11822,13 @@
 		],
 		"description": "color error lighter"
 	},
+	"color opacity 0": {
+		"prefix": "color-opacity-0",
+		"body": [
+			"color-opacity-0"
+		],
+		"description": "color opacity 0"
+	},
 	"color opacity 10%": {
 		"prefix": "color-opacity-10%",
 		"body": [
@@ -11892,6 +12018,13 @@
 		],
 		"description": "width xxxxl"
 	},
+	"width 0": {
+		"prefix": "width-0",
+		"body": [
+			"width-0"
+		],
+		"description": "width 0"
+	},
 	"width 10%": {
 		"prefix": "width-10%",
 		"body": [
@@ -12080,6 +12213,13 @@
 			"height-xxxxl"
 		],
 		"description": "height xxxxl"
+	},
+	"height 0": {
+		"prefix": "height-0",
+		"body": [
+			"height-0"
+		],
+		"description": "height 0"
 	},
 	"height 10%": {
 		"prefix": "height-10%",
@@ -12606,6 +12746,13 @@
 		],
 		"description": "set border-color equal to color-black"
 	},
+	"border opacity 0": {
+		"prefix": "border-opacity-0",
+		"body": [
+			"border-opacity-0"
+		],
+		"description": "border opacity 0"
+	},
 	"border opacity 10%": {
 		"prefix": "border-opacity-10%",
 		"body": [
@@ -12696,6 +12843,13 @@
 			"radius-50%"
 		],
 		"description": "border radius 50%"
+  },
+	"radius full": {
+		"prefix": "radius-full",
+		"body": [
+			"radius-full"
+		],
+		"description": "border radius full"
   },
   "shadow xs": {
 		"prefix": "shadow-xs",
@@ -13074,6 +13228,13 @@
 			"bg-black"
 		],
 		"description": "background-color black"
+	},
+	"background opacity 0": {
+		"prefix": "bg-opacity-0",
+		"body": [
+			"bg-opacity-0"
+		],
+		"description": "background opacity 0"
 	},
 	"background opacity 10%": {
 		"prefix": "bg-opacity-10%",
