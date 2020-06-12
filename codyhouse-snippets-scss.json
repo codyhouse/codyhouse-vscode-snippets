@@ -352,12 +352,12 @@
 		],
 		"description": "set new text unit and type scale"
   },
-  "bounce timing function": {
-		"prefix": "--bounce timing function",
+  "ease-out-back timing function": {
+		"prefix": "--ease-out-back timing function",
 		"body": [
-			"var(--bounce)"
+			"var(--ease-out-back)"
 		],
-		"description": "bounce timing function"
+		"description": "ease-out-back timing function"
   },
   "ease-in-out timing function": {
 		"prefix": "--ease-in-out timing function",
