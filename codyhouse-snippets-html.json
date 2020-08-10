@@ -27,12 +27,19 @@
 		],
 		"description": "button subtle"
   },
-  "button--accent": {
+  "button accent": {
 		"prefix": "btn--accent",
 		"body": [
 			"btn--accent"
 		],
 		"description": "button accent"
+  },
+  "button disabled": {
+		"prefix": "btn--disabled",
+		"body": [
+			"btn--disabled"
+		],
+		"description": "button disabled"
   },
   "button sm": {
 		"prefix": "btn--sm",
@@ -12850,6 +12857,34 @@
 			"radius-full"
 		],
 		"description": "border radius full"
+  },
+	"radius top left 0": {
+		"prefix": "radius-top-left-0",
+		"body": [
+			"radius-top-left-0"
+		],
+		"description": "radius top left 0"
+  },
+	"radius top right 0": {
+		"prefix": "radius-top-right-0",
+		"body": [
+			"radius-top-right-0"
+		],
+		"description": "radius top right 0"
+  },
+	"radius bottom right 0": {
+		"prefix": "radius-bottom-right-0",
+		"body": [
+			"radius-bottom-right-0"
+		],
+		"description": "radius bottom right 0"
+  },
+	"radius bottom left 0": {
+		"prefix": "radius-bottom-left-0",
+		"body": [
+			"radius-bottom-left-0"
+		],
+		"description": "radius bottom left 0"
   },
   "shadow xs": {
 		"prefix": "shadow-xs",
