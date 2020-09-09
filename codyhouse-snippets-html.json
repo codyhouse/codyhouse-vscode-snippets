@@ -8810,7 +8810,21 @@
 		"body": [
 			"form-control"
 		],
-		"description": "basic style for form element"
+		"description": "basic form element style"
+	},
+  "form control error": {
+		"prefix": "form-control--error",
+		"body": [
+			"form-control--error"
+		],
+		"description": "form control error"
+	},
+  "form control disabled": {
+		"prefix": "form-control--disabled",
+		"body": [
+			"form-control--disabled"
+		],
+		"description": "form control disabled"
 	},
 	"form legend": {
 		"prefix": "form-legend",
@@ -8825,27 +8839,6 @@
 			"form-label"
 		],
 		"description": "form label element"
-	},
-	"form error message": {
-		"prefix": "form-error-msg",
-		"body": [
-			"form-error-msg"
-		],
-		"description": "form error message"
-	},
-	"radio list": {
-		"prefix": "radio-list",
-		"body": [
-			"radio-list"
-		],
-		"description": "list of radio inputs"
-	},
-	"checkbox list": {
-		"prefix": "checkbox-list",
-		"body": [
-			"checkbox-list"
-		],
-		"description": "list of checkbox inputs"
 	},
 	"container": {
 		"prefix": "container",
