@@ -729,5 +729,19 @@
 			"var(--max-width-xxxxl)"
 		],
 		"description": "max-width 2400px"
-	}
+	},
+	"space unit": {
+		"prefix": "--space-unit",
+		"body": [
+			"--space-unit"
+		],
+		"description": "space unit variable"
+	},
+	"text unit": {
+		"prefix": "--text-unit",
+		"body": [
+			"--text-unit"
+		],
+		"description": "text unit variable"
+  }
 }

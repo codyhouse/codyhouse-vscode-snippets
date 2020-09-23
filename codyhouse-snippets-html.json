@@ -950,6 +950,13 @@
 			"flex-grow"
 		],
 		"description": "flex-grow: 1"
+	},
+	"flex-grow-0": {
+		"prefix": "flex-grow-0",
+		"body": [
+			"flex-grow-0"
+		],
+		"description": "flex-grow: 0"
   },
   "flex-shrink-0": {
 		"prefix": "flex-shrink-0",
@@ -957,6 +964,13 @@
 			"flex-shrink-0"
 		],
 		"description": "flex-shrink: 0"
+	},
+	"flex-shrink": {
+		"prefix": "flex-shrink",
+		"body": [
+			"flex-shrink"
+		],
+		"description": "flex-shrink: 1"
   },
   "flex-basis-0": {
 		"prefix": "flex-basis-0",
@@ -978,6 +992,13 @@
 			"flex-shrink@xs"
 		],
 		"description": "flex-shrink: 1 @xs"
+	},
+	"flex-basis-0@xs": {
+		"prefix": "flex-basis-0@xs",
+		"body": [
+			"flex-basis-0@xs"
+		],
+		"description": "flex-basis: 0 @xs"
   },
   "flex-grow-0@sm": {
 		"prefix": "flex-grow-0@sm",
@@ -1006,6 +1027,13 @@
 			"flex-shrink@sm"
 		],
 		"description": "flex-shrink: 1 @sm"
+	},
+	"flex-basis-0@sm": {
+		"prefix": "flex-basis-0@sm",
+		"body": [
+			"flex-basis-0@sm"
+		],
+		"description": "flex-basis: 0 @sm"
   },
   "flex-grow-0@md": {
 		"prefix": "flex-grow-0@md",
@@ -1034,6 +1062,13 @@
 			"flex-shrink@md"
 		],
 		"description": "flex-shrink: 1 @md"
+	},
+	"flex-basis-0@md": {
+		"prefix": "flex-basis-0@md",
+		"body": [
+			"flex-basis-0@md"
+		],
+		"description": "flex-basis: 0 @md"
   },
   "flex-grow-0@lg": {
 		"prefix": "flex-grow-0@lg",
@@ -1062,6 +1097,13 @@
 			"flex-shrink@lg"
 		],
 		"description": "flex-shrink: 1 @lg"
+	},
+	"flex-basis-0@lg": {
+		"prefix": "flex-basis-0@lg",
+		"body": [
+			"flex-basis-0@lg"
+		],
+		"description": "flex-basis: 0 @lg"
   },
   "flex-grow-0@xl": {
 		"prefix": "flex-grow-0@xl",
@@ -1091,6 +1133,13 @@
 		],
 		"description": "flex-shrink: 1 @xl"
 	},
+	"flex-basis-0@xl": {
+		"prefix": "flex-basis-0@xl",
+		"body": [
+			"flex-basis-0@xl"
+		],
+		"description": "flex-basis: 0 @xl"
+  },
   "margin xxxxs": {
 		"prefix": "margin-xxxxs",
 		"body": [
@@ -11199,6 +11248,48 @@
 		],
 		"description": "text-transform capitalize"
 	},
+	"text-shadow-xs": {
+		"prefix": "text-shadow-xs",
+		"body": [
+			"text-shadow-xs"
+		],
+		"description": "text-shadow xsmall"
+	},
+	"text-shadow-sm": {
+		"prefix": "text-shadow-sm",
+		"body": [
+			"text-shadow-sm"
+		],
+		"description": "text-shadow small"
+	},
+	"text-shadow-md": {
+		"prefix": "text-shadow-md",
+		"body": [
+			"text-shadow-md"
+		],
+		"description": "text-shadow medium"
+	},
+	"text-shadow-lg": {
+		"prefix": "text-shadow-lg",
+		"body": [
+			"text-shadow-lg"
+		],
+		"description": "text-shadow large"
+	},
+	"text-shadow-xl": {
+		"prefix": "text-shadow-xl",
+		"body": [
+			"text-shadow-xl"
+		],
+		"description": "text-shadow xlarge"
+	},
+	"text-shadow-none": {
+		"prefix": "text-shadow-none",
+		"body": [
+			"text-shadow-none"
+		],
+		"description": "text-shadow none"
+	},
 	"letter-spacing-sm": {
 		"prefix": "letter-spacing-sm",
 		"body": [
@@ -11387,6 +11478,13 @@
 			"ws-nowrap"
 		],
 		"description": "remove text wrapping"
+	},
+	"break-word": {
+		"prefix": "break-word",
+		"body": [
+			"break-word"
+		],
+		"description": "overflow-wrap break-word"
 	},
 	"cursor pointer": {
 		"prefix": "cursor-pointer",
@@ -12850,6 +12948,13 @@
 			"radius-full"
 		],
 		"description": "border radius full"
+	},
+	"radius zero": {
+		"prefix": "radius-0",
+		"body": [
+			"radius-0"
+		],
+		"description": "border radius zero"
   },
 	"radius top left 0": {
 		"prefix": "radius-top-left-0",
@@ -12913,6 +13018,13 @@
 			"shadow-xl"
 		],
 		"description": "box shadow xlarge"
+	},
+	"shadow none": {
+		"prefix": "shadow-none",
+		"body": [
+			"shadow-none"
+		],
+		"description": "box shadow none"
   },
   "line-height xs": {
 		"prefix": "line-height-xs",
@@ -12962,6 +13074,20 @@
 			"line-height-heading"
 		],
 		"description": "line-height heading"
+	},
+	"line-height-normal": {
+		"prefix": "line-height-normal",
+		"body": [
+			"line-height-normal"
+		],
+		"description": "line-height-normal"
+	},
+	"line-height-1": {
+		"prefix": "line-height-1",
+		"body": [
+			"line-height-1"
+		],
+		"description": "line-height-1"
 	},
   "vertical space xxs": {
 		"prefix": "v-space-xxs",
@@ -13494,6 +13620,48 @@
 			"inline@xl"
 		],
 		"description": "display inline @xl"
+	},
+	"space unit rem": {
+		"prefix": "space-unit-rem",
+		"body": [
+			"space-unit-rem"
+		],
+		"description": "space unit rem"
+	},
+	"space unit em": {
+		"prefix": "space-unit-em",
+		"body": [
+			"space-unit-em"
+		],
+		"description": "space unit em"
+	},
+	"space unit px": {
+		"prefix": "space-unit-px",
+		"body": [
+			"space-unit-px"
+		],
+		"description": "space unit px"
+	},
+	"text unit rem": {
+		"prefix": "text-unit-rem",
+		"body": [
+			"text-unit-rem"
+		],
+		"description": "text unit rem"
+	},
+	"text unit em": {
+		"prefix": "text-unit-em",
+		"body": [
+			"text-unit-em"
+		],
+		"description": "text unit em"
+	},
+	"text unit px": {
+		"prefix": "text-unit-px",
+		"body": [
+			"text-unit-px"
+		],
+		"description": "text unit px"
 	},
   "JS tab focus": {
 		"prefix": "js-tab-focus",
