@@ -4948,41 +4948,6 @@
 		],
 		"description": "margin y 0 @xl"
   },
-  "has-margin @xs": {
-		"prefix": "has-margin@xs",
-		"body": [
-			"has-margin@xs"
-		],
-		"description": "has-margin @xs"
-  },
-  "has-margin @sm": {
-		"prefix": "has-margin@sm",
-		"body": [
-			"has-margin@sm"
-		],
-		"description": "has-margin @sm"
-  },
-  "has-margin @md": {
-		"prefix": "has-margin@md",
-		"body": [
-			"has-margin@md"
-		],
-		"description": "has-margin @md"
-  },
-  "has-margin @lg": {
-		"prefix": "has-margin@lg",
-		"body": [
-			"has-margin@lg"
-		],
-		"description": "has-margin @lg"
-  },
-  "has-margin @xl": {
-		"prefix": "has-margin@xl",
-		"body": [
-			"has-margin@xl"
-		],
-		"description": "has-margin @xl"
-  },
   "padding xxxxs": {
 		"prefix": "padding-xxxxs",
 		"body": [
@@ -8791,41 +8756,6 @@
 		],
 		"description": "padding y component @xl"
   },
-  "has-padding @xs": {
-		"prefix": "has-padding@xs",
-		"body": [
-			"has-padding@xs"
-		],
-		"description": "has-padding @xs"
-  },
-  "has-padding @sm": {
-		"prefix": "has-padding@sm",
-		"body": [
-			"has-padding@sm"
-		],
-		"description": "has-padding @sm"
-  },
-  "has-padding @md": {
-		"prefix": "has-padding@md",
-		"body": [
-			"has-padding@md"
-		],
-		"description": "has-padding @md"
-  },
-  "has-padding @lg": {
-		"prefix": "has-padding@lg",
-		"body": [
-			"has-padding@lg"
-		],
-		"description": "has-padding @lg"
-  },
-  "has-padding @xl": {
-		"prefix": "has-padding@xl",
-		"body": [
-			"has-padding@xl"
-		],
-		"description": "has-padding @xl"
-	},
 	"align baseline": {
 		"prefix": "align-baseline",
 		"body": [
@@ -10819,7 +10749,7 @@
 		"body": [
 			"text-base"
 		],
-		"description": "text size 1em"
+		"description": "text size base"
 	},
 	"text-sm": {
 		"prefix": "text-sm",

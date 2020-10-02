@@ -348,7 +348,7 @@
 	"textUnit": {
 		"prefix": "textUnit",
 		"body": [
-			"@include textUnit(${1:textUnit}, ${2:textScaleRatio: 1.2});"
+			"@include textUnit(${1:textUnit});"
 		],
 		"description": "set new text unit and type scale"
   },
