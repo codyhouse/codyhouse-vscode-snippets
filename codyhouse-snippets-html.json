@@ -17050,5 +17050,124 @@
 			"object-cover"
 		],
 		"description": "object cover"
+	},
+	"aspect-ratio 16:9": {
+		"prefix": "aspect-ratio-16:9",
+		"body": [
+			"aspect-ratio-16:9"
+		],
+		"description": "aspect-ratio 16:9"
+	},
+	"aspect-ratio 4:3": {
+		"prefix": "aspect-ratio-4:3",
+		"body": [
+			"aspect-ratio-4:3"
+		],
+		"description": "aspect-ratio 4:3"
+	},
+	"aspect-ratio 1:1": {
+		"prefix": "aspect-ratio-1:1",
+		"body": [
+			"aspect-ratio-1:1"
+		],
+		"description": "aspect-ratio 1:1"
+	},
+	"perspective xs": {
+		"prefix": "perspective-xs",
+		"body": [
+			"perspective-xs"
+		],
+		"description": "perspective xs"
+	},
+	"perspective sm": {
+		"prefix": "perspective-sm",
+		"body": [
+			"perspective-sm"
+		],
+		"description": "perspective sm"
+	},
+	"perspective md": {
+		"prefix": "perspective-md",
+		"body": [
+			"perspective-md"
+		],
+		"description": "perspective md"
+	},
+	"perspective lg": {
+		"prefix": "perspective-lg",
+		"body": [
+			"perspective-lg"
+		],
+		"description": "perspective lg"
+	},
+	"perspective xl": {
+		"prefix": "perspective-xl",
+		"body": [
+			"perspective-xl"
+		],
+		"description": "perspective xl"
+	},
+	"transform-origin center": {
+		"prefix": "origin-center",
+		"body": [
+			"origin-center"
+		],
+		"description": "transform-origin center"
+	},
+	"transform-origin top": {
+		"prefix": "origin-top",
+		"body": [
+			"origin-top"
+		],
+		"description": "transform-origin top"
+	},
+	"transform-origin right": {
+		"prefix": "origin-right",
+		"body": [
+			"origin-right"
+		],
+		"description": "transform-origin right"
+	},
+	"transform-origin bottom": {
+		"prefix": "origin-bottom",
+		"body": [
+			"origin-bottom"
+		],
+		"description": "transform-origin bottom"
+	},
+	"transform-origin left": {
+		"prefix": "origin-left",
+		"body": [
+			"origin-left"
+		],
+		"description": "transform-origin left"
+	},
+	"transform-origin top-left": {
+		"prefix": "origin-top-left",
+		"body": [
+			"origin-top-left"
+		],
+		"description": "transform-origin top-left"
+	},
+	"transform-origin top-right": {
+		"prefix": "origin-top-right",
+		"body": [
+			"origin-top-right"
+		],
+		"description": "transform-origin top-right"
+	},
+	"transform-origin bottom-right": {
+		"prefix": "origin-bottom-right",
+		"body": [
+			"origin-bottom-right"
+		],
+		"description": "transform-origin bottom-right"
+	},
+	"transform-origin bottom-left": {
+		"prefix": "origin-bottom-left",
+		"body": [
+			"origin-bottom-left"
+		],
+		"description": "transform-origin bottom-left"
 	}
 }
