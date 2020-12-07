@@ -17077,35 +17077,35 @@
 		"body": [
 			"perspective-xs"
 		],
-		"description": "perspective xs"
+		"description": "set perspective equal to 250px"
 	},
 	"perspective sm": {
 		"prefix": "perspective-sm",
 		"body": [
 			"perspective-sm"
 		],
-		"description": "perspective sm"
+		"description": "set perspective equal to 500px"
 	},
 	"perspective md": {
 		"prefix": "perspective-md",
 		"body": [
 			"perspective-md"
 		],
-		"description": "perspective md"
+		"description": "set perspective equal to 1000px"
 	},
 	"perspective lg": {
 		"prefix": "perspective-lg",
 		"body": [
 			"perspective-lg"
 		],
-		"description": "perspective lg"
+		"description": "set perspective equal to 1500px"
 	},
 	"perspective xl": {
 		"prefix": "perspective-xl",
 		"body": [
 			"perspective-xl"
 		],
-		"description": "perspective xl"
+		"description": "set perspective equal to 3000px"
 	},
 	"transform-origin center": {
 		"prefix": "origin-center",
