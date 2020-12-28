@@ -15399,27 +15399,6 @@
 		],
 		"description": "opacity 90%"
 	},
-	"media/iframe wrapper": {
-		"prefix": "media-wrapper",
-		"body": [
-			"media-wrapper"
-		],
-		"description": "resposive media - 16:9 ratio"
-	},
-	"media/iframe wrapper 4:3": {
-		"prefix": "media-wrapper--4:3",
-		"body": [
-			"media-wrapper--4:3"
-		],
-		"description": "resposive media - 4:3 ratio"
-	},
-	"media/iframe wrapper 1:1": {
-		"prefix": "media-wrapper--1:1",
-		"body": [
-			"media-wrapper--1:1"
-		],
-		"description": "resposive media - 1:1 ratio"
-	},
 	"float left": {
 		"prefix": "float-left",
 		"body": [
