@@ -11696,6 +11696,41 @@
 		],
 		"description": "column offset 11 @xl"
 	},
+	"offset-0@xs": {
+		"prefix": "offset-0@xs",
+		"body": [
+			"offset-0@xs"
+		],
+		"description": "no offset @xs"
+	},
+	"offset-0@sm": {
+		"prefix": "offset-0@sm",
+		"body": [
+			"offset-0@sm"
+		],
+		"description": "no offset @sm"
+	},
+	"offset-0@md": {
+		"prefix": "offset-0@md",
+		"body": [
+			"offset-0@md"
+		],
+		"description": "no offset @md"
+	},
+	"offset-0@lg": {
+		"prefix": "offset-0@lg",
+		"body": [
+			"offset-0@lg"
+		],
+		"description": "no offset @lg"
+	},
+	"offset-0@xl": {
+		"prefix": "offset-0@xl",
+		"body": [
+			"offset-0@xl"
+		],
+		"description": "no offset @xl"
+	},
 	"text-xxxxl": {
 		"prefix": "text-xxxxl",
 		"body": [
