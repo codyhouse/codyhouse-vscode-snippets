@@ -16673,12 +16673,26 @@
 		],
 		"description": "top-0"
 	},
+	"top 50%": {
+		"prefix": "top-50%",
+		"body": [
+			"top-50%"
+		],
+		"description": "top-50%"
+	},
   "bottom 0": {
 		"prefix": "bottom-0",
 		"body": [
 			"bottom-0"
 		],
 		"description": "bottom-0"
+	},
+	"bottom 50%": {
+		"prefix": "bottom-50%",
+		"body": [
+			"bottom-50%"
+		],
+		"description": "bottom-50%"
 	},
   "right 0": {
 		"prefix": "right-0",
@@ -16687,12 +16701,40 @@
 		],
 		"description": "right-0"
 	},
+	"right 50%": {
+		"prefix": "right-50%",
+		"body": [
+			"right-50%"
+		],
+		"description": "right-50%"
+	},
   "left 0": {
 		"prefix": "left-0",
 		"body": [
 			"left-0"
 		],
 		"description": "left-0"
+	},
+	"left 50%": {
+		"prefix": "left-50%",
+		"body": [
+			"left-50%"
+		],
+		"description": "left-50%"
+	},
+	"inset 0": {
+		"prefix": "inset-0",
+		"body": [
+			"inset-0"
+		],
+		"description": "top-0 bottom-0 left-0 right-0"
+	},
+	"position static @xs": {
+    "prefix": "position-static@xs",
+    "body": [
+      "position-static@xs"
+    ],
+    "description": "position static @xs"
   },
   "position relative @xs": {
     "prefix": "position-relative@xs",
@@ -16728,27 +16770,69 @@
       "top-0@xs"
     ],
     "description": "top-0 @xs"
-  },
+	},
+	"top 50% @xs": {
+		"prefix": "top-50% @xs",
+		"body": [
+			"top-50% @xs"
+		],
+		"description": "top-50% @xs"
+	},
   "bottom 0 @xs": {
     "prefix": "bottom-0@xs",
     "body": [
       "bottom-0@xs"
     ],
     "description": "bottom-0 @xs"
-  },
+	},
+	"bottom 50% @xs": {
+		"prefix": "bottom-50%@xs",
+		"body": [
+			"bottom-50%@xs"
+		],
+		"description": "bottom-50% @xs"
+	},
   "right 0 @xs": {
     "prefix": "right-0@xs",
     "body": [
       "right-0@xs"
     ],
     "description": "right-0 @xs"
-  },
+	},
+	"right 50% @xs": {
+		"prefix": "right-50%@xs",
+		"body": [
+			"right-50%@xs"
+		],
+		"description": "right-50% @xs"
+	},
   "left 0 @xs": {
     "prefix": "left-0@xs",
     "body": [
       "left-0@xs"
     ],
     "description": "left-0 @xs"
+	},
+	"left 50% @xs": {
+		"prefix": "left-50%@xs",
+		"body": [
+			"left-50%@xs"
+		],
+		"description": "left-50% @xs"
+	},
+	"inset 0 @xs": {
+		"prefix": "inset-0@xs",
+		"body": [
+			"inset-0@xs"
+		],
+		"description": "top-0 bottom-0 left-0 right-0 @xs"
+	},
+	"position static @sm": {
+    "prefix": "position-static@sm",
+    "body": [
+      "position-static@sm"
+    ],
+    "description": "position static @sm"
   },
   "position relative @sm": {
     "prefix": "position-relative@sm",
@@ -16784,27 +16868,69 @@
       "top-0@sm"
     ],
     "description": "top-0 @sm"
-  },
+	},
+	"top 50% @sm": {
+		"prefix": "top-50% @sm",
+		"body": [
+			"top-50% @sm"
+		],
+		"description": "top-50% @sm"
+	},
   "bottom 0 @sm": {
     "prefix": "bottom-0@sm",
     "body": [
       "bottom-0@sm"
     ],
     "description": "bottom-0 @sm"
-  },
+	},
+	"bottom 50% @sm": {
+		"prefix": "bottom-50%@sm",
+		"body": [
+			"bottom-50%@sm"
+		],
+		"description": "bottom-50% @sm"
+	},
   "right 0 @sm": {
     "prefix": "right-0@sm",
     "body": [
       "right-0@sm"
     ],
     "description": "right-0 @sm"
-  },
+	},
+	"right 50% @sm": {
+		"prefix": "right-50%@sm",
+		"body": [
+			"right-50%@sm"
+		],
+		"description": "right-50% @sm"
+	},
   "left 0 @sm": {
     "prefix": "left-0@sm",
     "body": [
       "left-0@sm"
     ],
     "description": "left-0 @sm"
+	},
+	"left 50% @sm": {
+		"prefix": "left-50%@sm",
+		"body": [
+			"left-50%@sm"
+		],
+		"description": "left-50% @sm"
+	},
+	"inset 0 @sm": {
+		"prefix": "inset-0@sm",
+		"body": [
+			"inset-0@sm"
+		],
+		"description": "top-0 bottom-0 left-0 right-0 @sm"
+	},
+	"position static @md": {
+    "prefix": "position-static@md",
+    "body": [
+      "position-static@md"
+    ],
+    "description": "position static @md"
   },
   "position relative @md": {
     "prefix": "position-relative@md",
@@ -16840,27 +16966,69 @@
       "top-0@md"
     ],
     "description": "top-0 @md"
-  },
+	},
+	"top 50% @md": {
+		"prefix": "top-50% @md",
+		"body": [
+			"top-50% @md"
+		],
+		"description": "top-50% @md"
+	},
   "bottom 0 @md": {
     "prefix": "bottom-0@md",
     "body": [
       "bottom-0@md"
     ],
     "description": "bottom-0 @md"
-  },
+	},
+	"bottom 50% @md": {
+		"prefix": "bottom-50%@md",
+		"body": [
+			"bottom-50%@md"
+		],
+		"description": "bottom-50% @md"
+	},
   "right 0 @md": {
     "prefix": "right-0@md",
     "body": [
       "right-0@md"
     ],
     "description": "right-0 @md"
-  },
+	},
+	"right 50% @md": {
+		"prefix": "right-50%@md",
+		"body": [
+			"right-50%@md"
+		],
+		"description": "right-50% @md"
+	},
   "left 0 @md": {
     "prefix": "left-0@md",
     "body": [
       "left-0@md"
     ],
     "description": "left-0 @md"
+	},
+	"left 50% @md": {
+		"prefix": "left-50%@md",
+		"body": [
+			"left-50%@md"
+		],
+		"description": "left-50% @md"
+	},
+	"inset 0 @md": {
+		"prefix": "inset-0@md",
+		"body": [
+			"inset-0@md"
+		],
+		"description": "top-0 bottom-0 left-0 right-0 @md"
+	},
+	"position static @lg": {
+    "prefix": "position-static@lg",
+    "body": [
+      "position-static@lg"
+    ],
+    "description": "position static @lg"
   },
   "position relative @lg": {
     "prefix": "position-relative@lg",
@@ -16896,27 +17064,69 @@
       "top-0@lg"
     ],
     "description": "top-0 @lg"
-  },
+	},
+	"top 50% @lg": {
+		"prefix": "top-50% @lg",
+		"body": [
+			"top-50% @lg"
+		],
+		"description": "top-50% @lg"
+	},
   "bottom 0 @lg": {
     "prefix": "bottom-0@lg",
     "body": [
       "bottom-0@lg"
     ],
     "description": "bottom-0 @lg"
-  },
+	},
+	"bottom 50% @lg": {
+		"prefix": "bottom-50%@lg",
+		"body": [
+			"bottom-50%@lg"
+		],
+		"description": "bottom-50% @lg"
+	},
   "right 0 @lg": {
     "prefix": "right-0@lg",
     "body": [
       "right-0@lg"
     ],
     "description": "right-0 @lg"
-  },
+	},
+	"right 50% @lg": {
+		"prefix": "right-50%@lg",
+		"body": [
+			"right-50%@lg"
+		],
+		"description": "right-50% @lg"
+	},
   "left 0 @lg": {
     "prefix": "left-0@lg",
     "body": [
       "left-0@lg"
     ],
     "description": "left-0 @lg"
+	},
+	"left 50% @lg": {
+		"prefix": "left-50%@lg",
+		"body": [
+			"left-50%@lg"
+		],
+		"description": "left-50% @lg"
+	},
+	"inset 0 @lg": {
+		"prefix": "inset-0@lg",
+		"body": [
+			"inset-0@lg"
+		],
+		"description": "top-0 bottom-0 left-0 right-0 @lg"
+	},
+	"position static @xl": {
+    "prefix": "position-static@xl",
+    "body": [
+      "position-static@xl"
+    ],
+    "description": "position static @xl"
   },
   "position relative @xl": {
     "prefix": "position-relative@xl",
@@ -16952,28 +17162,63 @@
       "top-0@xl"
     ],
     "description": "top-0 @xl"
-  },
+	},
+	"top 50% @xl": {
+		"prefix": "top-50% @xl",
+		"body": [
+			"top-50% @xl"
+		],
+		"description": "top-50% @xl"
+	},
   "bottom 0 @xl": {
     "prefix": "bottom-0@xl",
     "body": [
       "bottom-0@xl"
     ],
     "description": "bottom-0 @xl"
-  },
+	},
+	"bottom 50% @xl": {
+		"prefix": "bottom-50%@xl",
+		"body": [
+			"bottom-50%@xl"
+		],
+		"description": "bottom-50% @xl"
+	},
   "right 0 @xl": {
     "prefix": "right-0@xl",
     "body": [
       "right-0@xl"
     ],
     "description": "right-0 @xl"
-  },
+	},
+	"right 50% @xl": {
+		"prefix": "right-50%@xl",
+		"body": [
+			"right-50%@xl"
+		],
+		"description": "right-50% @xl"
+	},
   "left 0 @xl": {
     "prefix": "left-0@xl",
     "body": [
       "left-0@xl"
     ],
     "description": "left-0 @xl"
-  },
+	},
+	"left 50% @xl": {
+		"prefix": "left-50%@xl",
+		"body": [
+			"left-50%@xl"
+		],
+		"description": "left-50% @xl"
+	},
+	"inset 0 @xl": {
+		"prefix": "inset-0@xl",
+		"body": [
+			"inset-0@xl"
+		],
+		"description": "top-0 bottom-0 left-0 right-0 @xl"
+	},
 	"overflow hidden": {
 		"prefix": "overflow-hidden",
 		"body": [
@@ -17050,6 +17295,48 @@
 			"flip-y"
 		],
 		"description": "scaleY -1"
+	},
+	"translate -50%": {
+		"prefix": "-translate-50%",
+		"body": [
+			"-translate-50%"
+		],
+		"description": "translate -50%"
+	},
+	"translate-x -50%": {
+		"prefix": "-translate-x-50%",
+		"body": [
+			"-translate-x-50%"
+		],
+		"description": "translateX -50%"
+	},
+	"translate-y -50%": {
+		"prefix": "-translate-y-50%",
+		"body": [
+			"-translate-y-50%"
+		],
+		"description": "translateY -50%"
+	},
+	"translate 50%": {
+		"prefix": "translate-50%",
+		"body": [
+			"translate-50%"
+		],
+		"description": "translate 50%"
+	},
+	"translate-x 50%": {
+		"prefix": "translate-x-50%",
+		"body": [
+			"translate-x-50%"
+		],
+		"description": "translateX 50%"
+	},
+	"translate-y 50%": {
+		"prefix": "translate-y-50%",
+		"body": [
+			"translate-y-50%"
+		],
+		"description": "translateY 50%"
 	},
 	"object contain": {
 		"prefix": "object-contain",
