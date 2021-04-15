@@ -12249,6 +12249,13 @@
 		],
 		"description": "text-shadow none"
 	},
+	"letter-spacing-xs": {
+		"prefix": "letter-spacing-xs",
+		"body": [
+			"letter-spacing-xs"
+		],
+		"description": "letter-spacing xs"
+	},
 	"letter-spacing-sm": {
 		"prefix": "letter-spacing-sm",
 		"body": [
@@ -12269,6 +12276,13 @@
 			"letter-spacing-lg"
 		],
 		"description": "letter-spacing lg"
+	},
+	"letter-spacing-xl": {
+		"prefix": "letter-spacing-xl",
+		"body": [
+			"letter-spacing-xl"
+		],
+		"description": "letter-spacing xl"
 	},
 	"text-component": {
 		"prefix": "text-component",
@@ -15434,6 +15448,90 @@
 		],
 		"description": "opacity 90%"
 	},
+	"scroll smooth": {
+		"prefix": "scroll-smooth",
+		"body": [
+			"scroll-smooth"
+		],
+		"description": "scroll smooth"
+	},
+	"scroll padding xxxxs": {
+		"prefix": "scroll-padding-xxxxs",
+		"body": [
+			"scroll-padding-xxxxs"
+		],
+		"description": "scroll padding xxxxs"
+	},
+	"scroll padding xxxs": {
+		"prefix": "scroll-padding-xxxs",
+		"body": [
+			"scroll-padding-xxxs"
+		],
+		"description": "scroll padding xxxs"
+	},
+	"scroll padding xxs": {
+		"prefix": "scroll-padding-xxs",
+		"body": [
+			"scroll-padding-xxs"
+		],
+		"description": "scroll padding xxs"
+	},
+	"scroll padding xs": {
+		"prefix": "scroll-padding-xs",
+		"body": [
+			"scroll-padding-xs"
+		],
+		"description": "scroll padding xs"
+	},
+	"scroll padding sm": {
+		"prefix": "scroll-padding-sm",
+		"body": [
+			"scroll-padding-sm"
+		],
+		"description": "scroll padding sm"
+	},
+	"scroll padding md": {
+		"prefix": "scroll-padding-md",
+		"body": [
+			"scroll-padding-md"
+		],
+		"description": "scroll padding md"
+	},
+	"scroll padding lg": {
+		"prefix": "scroll-padding-lg",
+		"body": [
+			"scroll-padding-lg"
+		],
+		"description": "scroll padding lg"
+	},
+	"scroll padding xl": {
+		"prefix": "scroll-padding-xl",
+		"body": [
+			"scroll-padding-xl"
+		],
+		"description": "scroll padding xl"
+	},
+	"scroll padding xxl": {
+		"prefix": "scroll-padding-xxl",
+		"body": [
+			"scroll-padding-xxl"
+		],
+		"description": "scroll padding xxl"
+	},
+	"scroll padding xxxl": {
+		"prefix": "scroll-padding-xxxl",
+		"body": [
+			"scroll-padding-xxxl"
+		],
+		"description": "scroll padding xxxl"
+	},
+	"scroll padding xxxxl": {
+		"prefix": "scroll-padding-xxxxl",
+		"body": [
+			"scroll-padding-xxxxl"
+		],
+		"description": "scroll padding xxxxl"
+	},
 	"float left": {
 		"prefix": "float-left",
 		"body": [
@@ -17219,6 +17317,1854 @@
 		],
 		"description": "top-0 bottom-0 left-0 right-0 @xl"
 	},
+	"top xxxxs": {
+		"prefix": "top-xxxxs",
+		"body": [
+			"top-xxxxs"
+		],
+		"description": "top-xxxxs"
+	},
+	"top xxxs": {
+		"prefix": "top-xxxs",
+		"body": [
+			"top-xxxs"
+		],
+		"description": "top-xxxs"
+	},
+	"top xxs": {
+		"prefix": "top-xxs",
+		"body": [
+			"top-xxs"
+		],
+		"description": "top-xxs"
+	},
+	"top xs": {
+		"prefix": "top-xs",
+		"body": [
+			"top-xs"
+		],
+		"description": "top-xs"
+	},
+	"top sm": {
+		"prefix": "top-sm",
+		"body": [
+			"top-sm"
+		],
+		"description": "top-sm"
+	},
+	"top md": {
+		"prefix": "top-md",
+		"body": [
+			"top-md"
+		],
+		"description": "top-md"
+	},
+	"top lg": {
+		"prefix": "top-lg",
+		"body": [
+			"top-lg"
+		],
+		"description": "top-lg"
+	},
+	"top xl": {
+		"prefix": "top-xl",
+		"body": [
+			"top-xl"
+		],
+		"description": "top-xl"
+	},
+	"top xxl": {
+		"prefix": "top-xxl",
+		"body": [
+			"top-xxl"
+		],
+		"description": "top-xxl"
+	},
+	"top xxxl": {
+		"prefix": "top-xxxl",
+		"body": [
+			"top-xxxl"
+		],
+		"description": "top-xxxl"
+	},
+	"top xxxxl": {
+		"prefix": "top-xxxxl",
+		"body": [
+			"top-xxxxl"
+		],
+		"description": "top-xxxxl"
+	},
+	"top xxxxs @xs": {
+		"prefix": "top-xxxxs@xs",
+		"body": [
+			"top-xxxxs@xs"
+		],
+		"description": "top-xxxxs@xs"
+	},
+	"top xxxs @xs": {
+		"prefix": "top-xxxs@xs",
+		"body": [
+			"top-xxxs@xs"
+		],
+		"description": "top-xxxs@xs"
+	},
+	"top xxs @xs": {
+		"prefix": "top-xxs@xs",
+		"body": [
+			"top-xxs@xs"
+		],
+		"description": "top-xxs@xs"
+	},
+	"top xs @xs": {
+		"prefix": "top-xs@xs",
+		"body": [
+			"top-xs@xs"
+		],
+		"description": "top-xs@xs"
+	},
+	"top sm @xs": {
+		"prefix": "top-sm@xs",
+		"body": [
+			"top-sm@xs"
+		],
+		"description": "top-sm@xs"
+	},
+	"top md @xs": {
+		"prefix": "top-md@xs",
+		"body": [
+			"top-md@xs"
+		],
+		"description": "top-md@xs"
+	},
+	"top lg @xs": {
+		"prefix": "top-lg@xs",
+		"body": [
+			"top-lg@xs"
+		],
+		"description": "top-lg@xs"
+	},
+	"top xl @xs": {
+		"prefix": "top-xl@xs",
+		"body": [
+			"top-xl@xs"
+		],
+		"description": "top-xl@xs"
+	},
+	"top xxl @xs": {
+		"prefix": "top-xxl@xs",
+		"body": [
+			"top-xxl@xs"
+		],
+		"description": "top-xxl@xs"
+	},
+	"top xxxl @xs": {
+		"prefix": "top-xxxl@xs",
+		"body": [
+			"top-xxxl@xs"
+		],
+		"description": "top-xxxl@xs"
+	},
+	"top xxxxl @xs": {
+		"prefix": "top-xxxxl@xs",
+		"body": [
+			"top-xxxxl@xs"
+		],
+		"description": "top-xxxxl@xs"
+	},
+	"top xxxxs @sm": {
+		"prefix": "top-xxxxs@sm",
+		"body": [
+			"top-xxxxs@sm"
+		],
+		"description": "top-xxxxs@sm"
+	},
+	"top xxxs @sm": {
+		"prefix": "top-xxxs@sm",
+		"body": [
+			"top-xxxs@sm"
+		],
+		"description": "top-xxxs@sm"
+	},
+	"top xxs @sm": {
+		"prefix": "top-xxs@sm",
+		"body": [
+			"top-xxs@sm"
+		],
+		"description": "top-xxs@sm"
+	},
+	"top xs @sm": {
+		"prefix": "top-xs@sm",
+		"body": [
+			"top-xs@sm"
+		],
+		"description": "top-xs@sm"
+	},
+	"top sm @sm": {
+		"prefix": "top-sm@sm",
+		"body": [
+			"top-sm@sm"
+		],
+		"description": "top-sm@sm"
+	},
+	"top md @sm": {
+		"prefix": "top-md@sm",
+		"body": [
+			"top-md@sm"
+		],
+		"description": "top-md@sm"
+	},
+	"top lg @sm": {
+		"prefix": "top-lg@sm",
+		"body": [
+			"top-lg@sm"
+		],
+		"description": "top-lg@sm"
+	},
+	"top xl @sm": {
+		"prefix": "top-xl@sm",
+		"body": [
+			"top-xl@sm"
+		],
+		"description": "top-xl@sm"
+	},
+	"top xxl @sm": {
+		"prefix": "top-xxl@sm",
+		"body": [
+			"top-xxl@sm"
+		],
+		"description": "top-xxl@sm"
+	},
+	"top xxxl @sm": {
+		"prefix": "top-xxxl@sm",
+		"body": [
+			"top-xxxl@sm"
+		],
+		"description": "top-xxxl@sm"
+	},
+	"top xxxxl @sm": {
+		"prefix": "top-xxxxl@sm",
+		"body": [
+			"top-xxxxl@sm"
+		],
+		"description": "top-xxxxl@sm"
+	},
+	"top xxxxs @md": {
+		"prefix": "top-xxxxs@md",
+		"body": [
+			"top-xxxxs@md"
+		],
+		"description": "top-xxxxs@md"
+	},
+	"top xxxs @md": {
+		"prefix": "top-xxxs@md",
+		"body": [
+			"top-xxxs@md"
+		],
+		"description": "top-xxxs@md"
+	},
+	"top xxs @md": {
+		"prefix": "top-xxs@md",
+		"body": [
+			"top-xxs@md"
+		],
+		"description": "top-xxs@md"
+	},
+	"top xs @md": {
+		"prefix": "top-xs@md",
+		"body": [
+			"top-xs@md"
+		],
+		"description": "top-xs@md"
+	},
+	"top sm @md": {
+		"prefix": "top-sm@md",
+		"body": [
+			"top-sm@md"
+		],
+		"description": "top-sm@md"
+	},
+	"top md @md": {
+		"prefix": "top-md@md",
+		"body": [
+			"top-md@md"
+		],
+		"description": "top-md@md"
+	},
+	"top lg @md": {
+		"prefix": "top-lg@md",
+		"body": [
+			"top-lg@md"
+		],
+		"description": "top-lg@md"
+	},
+	"top xl @md": {
+		"prefix": "top-xl@md",
+		"body": [
+			"top-xl@md"
+		],
+		"description": "top-xl@md"
+	},
+	"top xxl @md": {
+		"prefix": "top-xxl@md",
+		"body": [
+			"top-xxl@md"
+		],
+		"description": "top-xxl@md"
+	},
+	"top xxxl @md": {
+		"prefix": "top-xxxl@md",
+		"body": [
+			"top-xxxl@md"
+		],
+		"description": "top-xxxl@md"
+	},
+	"top xxxxl @md": {
+		"prefix": "top-xxxxl@md",
+		"body": [
+			"top-xxxxl@md"
+		],
+		"description": "top-xxxxl@md"
+	},
+	"top xxxxs @lg": {
+		"prefix": "top-xxxxs@lg",
+		"body": [
+			"top-xxxxs@lg"
+		],
+		"description": "top-xxxxs@lg"
+	},
+	"top xxxs @lg": {
+		"prefix": "top-xxxs@lg",
+		"body": [
+			"top-xxxs@lg"
+		],
+		"description": "top-xxxs@lg"
+	},
+	"top xxs @lg": {
+		"prefix": "top-xxs@lg",
+		"body": [
+			"top-xxs@lg"
+		],
+		"description": "top-xxs@lg"
+	},
+	"top xs @lg": {
+		"prefix": "top-xs@lg",
+		"body": [
+			"top-xs@lg"
+		],
+		"description": "top-xs@lg"
+	},
+	"top sm @lg": {
+		"prefix": "top-sm@lg",
+		"body": [
+			"top-sm@lg"
+		],
+		"description": "top-sm@lg"
+	},
+	"top md @lg": {
+		"prefix": "top-md@lg",
+		"body": [
+			"top-md@lg"
+		],
+		"description": "top-md@lg"
+	},
+	"top lg @lg": {
+		"prefix": "top-lg@lg",
+		"body": [
+			"top-lg@lg"
+		],
+		"description": "top-lg@lg"
+	},
+	"top xl @lg": {
+		"prefix": "top-xl@lg",
+		"body": [
+			"top-xl@lg"
+		],
+		"description": "top-xl@lg"
+	},
+	"top xxl @lg": {
+		"prefix": "top-xxl@lg",
+		"body": [
+			"top-xxl@lg"
+		],
+		"description": "top-xxl@lg"
+	},
+	"top xxxl @lg": {
+		"prefix": "top-xxxl@lg",
+		"body": [
+			"top-xxxl@lg"
+		],
+		"description": "top-xxxl@lg"
+	},
+	"top xxxxl @lg": {
+		"prefix": "top-xxxxl@lg",
+		"body": [
+			"top-xxxxl@lg"
+		],
+		"description": "top-xxxxl@lg"
+	},
+	"top xxxxs @xl": {
+		"prefix": "top-xxxxs@xl",
+		"body": [
+			"top-xxxxs@xl"
+		],
+		"description": "top-xxxxs@xl"
+	},
+	"top xxxs @xl": {
+		"prefix": "top-xxxs@xl",
+		"body": [
+			"top-xxxs@xl"
+		],
+		"description": "top-xxxs@xl"
+	},
+	"top xxs @xl": {
+		"prefix": "top-xxs@xl",
+		"body": [
+			"top-xxs@xl"
+		],
+		"description": "top-xxs@xl"
+	},
+	"top xs @xl": {
+		"prefix": "top-xs@xl",
+		"body": [
+			"top-xs@xl"
+		],
+		"description": "top-xs@xl"
+	},
+	"top sm @xl": {
+		"prefix": "top-sm@xl",
+		"body": [
+			"top-sm@xl"
+		],
+		"description": "top-sm@xl"
+	},
+	"top md @xl": {
+		"prefix": "top-md@xl",
+		"body": [
+			"top-md@xl"
+		],
+		"description": "top-md@xl"
+	},
+	"top lg @xl": {
+		"prefix": "top-lg@xl",
+		"body": [
+			"top-lg@xl"
+		],
+		"description": "top-lg@xl"
+	},
+	"top xl @xl": {
+		"prefix": "top-xl@xl",
+		"body": [
+			"top-xl@xl"
+		],
+		"description": "top-xl@xl"
+	},
+	"top xxl @xl": {
+		"prefix": "top-xxl@xl",
+		"body": [
+			"top-xxl@xl"
+		],
+		"description": "top-xxl@xl"
+	},
+	"top xxxl @xl": {
+		"prefix": "top-xxxl@xl",
+		"body": [
+			"top-xxxl@xl"
+		],
+		"description": "top-xxxl@xl"
+	},
+	"top xxxxl @xl": {
+		"prefix": "top-xxxxl@xl",
+		"body": [
+			"top-xxxxl@xl"
+		],
+		"description": "top-xxxxl@xl"
+	},
+	"bottom xxxxs": {
+		"prefix": "bottom-xxxxs",
+		"body": [
+			"bottom-xxxxs"
+		],
+		"description": "bottom-xxxxs"
+	},
+	"bottom xxxs": {
+		"prefix": "bottom-xxxs",
+		"body": [
+			"bottom-xxxs"
+		],
+		"description": "bottom-xxxs"
+	},
+	"bottom xxs": {
+		"prefix": "bottom-xxs",
+		"body": [
+			"bottom-xxs"
+		],
+		"description": "bottom-xxs"
+	},
+	"bottom xs": {
+		"prefix": "bottom-xs",
+		"body": [
+			"bottom-xs"
+		],
+		"description": "bottom-xs"
+	},
+	"bottom sm": {
+		"prefix": "bottom-sm",
+		"body": [
+			"bottom-sm"
+		],
+		"description": "bottom-sm"
+	},
+	"bottom md": {
+		"prefix": "bottom-md",
+		"body": [
+			"bottom-md"
+		],
+		"description": "bottom-md"
+	},
+	"bottom lg": {
+		"prefix": "bottom-lg",
+		"body": [
+			"bottom-lg"
+		],
+		"description": "bottom-lg"
+	},
+	"bottom xl": {
+		"prefix": "bottom-xl",
+		"body": [
+			"bottom-xl"
+		],
+		"description": "bottom-xl"
+	},
+	"bottom xxl": {
+		"prefix": "bottom-xxl",
+		"body": [
+			"bottom-xxl"
+		],
+		"description": "bottom-xxl"
+	},
+	"bottom xxxl": {
+		"prefix": "bottom-xxxl",
+		"body": [
+			"bottom-xxxl"
+		],
+		"description": "bottom-xxxl"
+	},
+	"bottom xxxxl": {
+		"prefix": "bottom-xxxxl",
+		"body": [
+			"bottom-xxxxl"
+		],
+		"description": "bottom-xxxxl"
+	},
+	"bottom xxxxs @xs": {
+		"prefix": "bottom-xxxxs@xs",
+		"body": [
+			"bottom-xxxxs@xs"
+		],
+		"description": "bottom-xxxxs@xs"
+	},
+	"bottom xxxs @xs": {
+		"prefix": "bottom-xxxs@xs",
+		"body": [
+			"bottom-xxxs@xs"
+		],
+		"description": "bottom-xxxs@xs"
+	},
+	"bottom xxs @xs": {
+		"prefix": "bottom-xxs@xs",
+		"body": [
+			"bottom-xxs@xs"
+		],
+		"description": "bottom-xxs@xs"
+	},
+	"bottom xs @xs": {
+		"prefix": "bottom-xs@xs",
+		"body": [
+			"bottom-xs@xs"
+		],
+		"description": "bottom-xs@xs"
+	},
+	"bottom sm @xs": {
+		"prefix": "bottom-sm@xs",
+		"body": [
+			"bottom-sm@xs"
+		],
+		"description": "bottom-sm@xs"
+	},
+	"bottom md @xs": {
+		"prefix": "bottom-md@xs",
+		"body": [
+			"bottom-md@xs"
+		],
+		"description": "bottom-md@xs"
+	},
+	"bottom lg @xs": {
+		"prefix": "bottom-lg@xs",
+		"body": [
+			"bottom-lg@xs"
+		],
+		"description": "bottom-lg@xs"
+	},
+	"bottom xl @xs": {
+		"prefix": "bottom-xl@xs",
+		"body": [
+			"bottom-xl@xs"
+		],
+		"description": "bottom-xl@xs"
+	},
+	"bottom xxl @xs": {
+		"prefix": "bottom-xxl@xs",
+		"body": [
+			"bottom-xxl@xs"
+		],
+		"description": "bottom-xxl@xs"
+	},
+	"bottom xxxl @xs": {
+		"prefix": "bottom-xxxl@xs",
+		"body": [
+			"bottom-xxxl@xs"
+		],
+		"description": "bottom-xxxl@xs"
+	},
+	"bottom xxxxl @xs": {
+		"prefix": "bottom-xxxxl@xs",
+		"body": [
+			"bottom-xxxxl@xs"
+		],
+		"description": "bottom-xxxxl@xs"
+	},
+	"bottom xxxxs @sm": {
+		"prefix": "bottom-xxxxs@sm",
+		"body": [
+			"bottom-xxxxs@sm"
+		],
+		"description": "bottom-xxxxs@sm"
+	},
+	"bottom xxxs @sm": {
+		"prefix": "bottom-xxxs@sm",
+		"body": [
+			"bottom-xxxs@sm"
+		],
+		"description": "bottom-xxxs@sm"
+	},
+	"bottom xxs @sm": {
+		"prefix": "bottom-xxs@sm",
+		"body": [
+			"bottom-xxs@sm"
+		],
+		"description": "bottom-xxs@sm"
+	},
+	"bottom xs @sm": {
+		"prefix": "bottom-xs@sm",
+		"body": [
+			"bottom-xs@sm"
+		],
+		"description": "bottom-xs@sm"
+	},
+	"bottom sm @sm": {
+		"prefix": "bottom-sm@sm",
+		"body": [
+			"bottom-sm@sm"
+		],
+		"description": "bottom-sm@sm"
+	},
+	"bottom md @sm": {
+		"prefix": "bottom-md@sm",
+		"body": [
+			"bottom-md@sm"
+		],
+		"description": "bottom-md@sm"
+	},
+	"bottom lg @sm": {
+		"prefix": "bottom-lg@sm",
+		"body": [
+			"bottom-lg@sm"
+		],
+		"description": "bottom-lg@sm"
+	},
+	"bottom xl @sm": {
+		"prefix": "bottom-xl@sm",
+		"body": [
+			"bottom-xl@sm"
+		],
+		"description": "bottom-xl@sm"
+	},
+	"bottom xxl @sm": {
+		"prefix": "bottom-xxl@sm",
+		"body": [
+			"bottom-xxl@sm"
+		],
+		"description": "bottom-xxl@sm"
+	},
+	"bottom xxxl @sm": {
+		"prefix": "bottom-xxxl@sm",
+		"body": [
+			"bottom-xxxl@sm"
+		],
+		"description": "bottom-xxxl@sm"
+	},
+	"bottom xxxxl @sm": {
+		"prefix": "bottom-xxxxl@sm",
+		"body": [
+			"bottom-xxxxl@sm"
+		],
+		"description": "bottom-xxxxl@sm"
+	},
+	"bottom xxxxs @md": {
+		"prefix": "bottom-xxxxs@md",
+		"body": [
+			"bottom-xxxxs@md"
+		],
+		"description": "bottom-xxxxs@md"
+	},
+	"bottom xxxs @md": {
+		"prefix": "bottom-xxxs@md",
+		"body": [
+			"bottom-xxxs@md"
+		],
+		"description": "bottom-xxxs@md"
+	},
+	"bottom xxs @md": {
+		"prefix": "bottom-xxs@md",
+		"body": [
+			"bottom-xxs@md"
+		],
+		"description": "bottom-xxs@md"
+	},
+	"bottom xs @md": {
+		"prefix": "bottom-xs@md",
+		"body": [
+			"bottom-xs@md"
+		],
+		"description": "bottom-xs@md"
+	},
+	"bottom sm @md": {
+		"prefix": "bottom-sm@md",
+		"body": [
+			"bottom-sm@md"
+		],
+		"description": "bottom-sm@md"
+	},
+	"bottom md @md": {
+		"prefix": "bottom-md@md",
+		"body": [
+			"bottom-md@md"
+		],
+		"description": "bottom-md@md"
+	},
+	"bottom lg @md": {
+		"prefix": "bottom-lg@md",
+		"body": [
+			"bottom-lg@md"
+		],
+		"description": "bottom-lg@md"
+	},
+	"bottom xl @md": {
+		"prefix": "bottom-xl@md",
+		"body": [
+			"bottom-xl@md"
+		],
+		"description": "bottom-xl@md"
+	},
+	"bottom xxl @md": {
+		"prefix": "bottom-xxl@md",
+		"body": [
+			"bottom-xxl@md"
+		],
+		"description": "bottom-xxl@md"
+	},
+	"bottom xxxl @md": {
+		"prefix": "bottom-xxxl@md",
+		"body": [
+			"bottom-xxxl@md"
+		],
+		"description": "bottom-xxxl@md"
+	},
+	"bottom xxxxl @md": {
+		"prefix": "bottom-xxxxl@md",
+		"body": [
+			"bottom-xxxxl@md"
+		],
+		"description": "bottom-xxxxl@md"
+	},
+	"bottom xxxxs @lg": {
+		"prefix": "bottom-xxxxs@lg",
+		"body": [
+			"bottom-xxxxs@lg"
+		],
+		"description": "bottom-xxxxs@lg"
+	},
+	"bottom xxxs @lg": {
+		"prefix": "bottom-xxxs@lg",
+		"body": [
+			"bottom-xxxs@lg"
+		],
+		"description": "bottom-xxxs@lg"
+	},
+	"bottom xxs @lg": {
+		"prefix": "bottom-xxs@lg",
+		"body": [
+			"bottom-xxs@lg"
+		],
+		"description": "bottom-xxs@lg"
+	},
+	"bottom xs @lg": {
+		"prefix": "bottom-xs@lg",
+		"body": [
+			"bottom-xs@lg"
+		],
+		"description": "bottom-xs@lg"
+	},
+	"bottom sm @lg": {
+		"prefix": "bottom-sm@lg",
+		"body": [
+			"bottom-sm@lg"
+		],
+		"description": "bottom-sm@lg"
+	},
+	"bottom md @lg": {
+		"prefix": "bottom-md@lg",
+		"body": [
+			"bottom-md@lg"
+		],
+		"description": "bottom-md@lg"
+	},
+	"bottom lg @lg": {
+		"prefix": "bottom-lg@lg",
+		"body": [
+			"bottom-lg@lg"
+		],
+		"description": "bottom-lg@lg"
+	},
+	"bottom xl @lg": {
+		"prefix": "bottom-xl@lg",
+		"body": [
+			"bottom-xl@lg"
+		],
+		"description": "bottom-xl@lg"
+	},
+	"bottom xxl @lg": {
+		"prefix": "bottom-xxl@lg",
+		"body": [
+			"bottom-xxl@lg"
+		],
+		"description": "bottom-xxl@lg"
+	},
+	"bottom xxxl @lg": {
+		"prefix": "bottom-xxxl@lg",
+		"body": [
+			"bottom-xxxl@lg"
+		],
+		"description": "bottom-xxxl@lg"
+	},
+	"bottom xxxxl @lg": {
+		"prefix": "bottom-xxxxl@lg",
+		"body": [
+			"bottom-xxxxl@lg"
+		],
+		"description": "bottom-xxxxl@lg"
+	},
+	"bottom xxxxs @xl": {
+		"prefix": "bottom-xxxxs@xl",
+		"body": [
+			"bottom-xxxxs@xl"
+		],
+		"description": "bottom-xxxxs@xl"
+	},
+	"bottom xxxs @xl": {
+		"prefix": "bottom-xxxs@xl",
+		"body": [
+			"bottom-xxxs@xl"
+		],
+		"description": "bottom-xxxs@xl"
+	},
+	"bottom xxs @xl": {
+		"prefix": "bottom-xxs@xl",
+		"body": [
+			"bottom-xxs@xl"
+		],
+		"description": "bottom-xxs@xl"
+	},
+	"bottom xs @xl": {
+		"prefix": "bottom-xs@xl",
+		"body": [
+			"bottom-xs@xl"
+		],
+		"description": "bottom-xs@xl"
+	},
+	"bottom sm @xl": {
+		"prefix": "bottom-sm@xl",
+		"body": [
+			"bottom-sm@xl"
+		],
+		"description": "bottom-sm@xl"
+	},
+	"bottom md @xl": {
+		"prefix": "bottom-md@xl",
+		"body": [
+			"bottom-md@xl"
+		],
+		"description": "bottom-md@xl"
+	},
+	"bottom lg @xl": {
+		"prefix": "bottom-lg@xl",
+		"body": [
+			"bottom-lg@xl"
+		],
+		"description": "bottom-lg@xl"
+	},
+	"bottom xl @xl": {
+		"prefix": "bottom-xl@xl",
+		"body": [
+			"bottom-xl@xl"
+		],
+		"description": "bottom-xl@xl"
+	},
+	"bottom xxl @xl": {
+		"prefix": "bottom-xxl@xl",
+		"body": [
+			"bottom-xxl@xl"
+		],
+		"description": "bottom-xxl@xl"
+	},
+	"bottom xxxl @xl": {
+		"prefix": "bottom-xxxl@xl",
+		"body": [
+			"bottom-xxxl@xl"
+		],
+		"description": "bottom-xxxl@xl"
+	},
+	"bottom xxxxl @xl": {
+		"prefix": "bottom-xxxxl@xl",
+		"body": [
+			"bottom-xxxxl@xl"
+		],
+		"description": "bottom-xxxxl@xl"
+	},
+	"right xxxxs": {
+		"prefix": "right-xxxxs",
+		"body": [
+			"right-xxxxs"
+		],
+		"description": "right-xxxxs"
+	},
+	"right xxxs": {
+		"prefix": "right-xxxs",
+		"body": [
+			"right-xxxs"
+		],
+		"description": "right-xxxs"
+	},
+	"right xxs": {
+		"prefix": "right-xxs",
+		"body": [
+			"right-xxs"
+		],
+		"description": "right-xxs"
+	},
+	"right xs": {
+		"prefix": "right-xs",
+		"body": [
+			"right-xs"
+		],
+		"description": "right-xs"
+	},
+	"right sm": {
+		"prefix": "right-sm",
+		"body": [
+			"right-sm"
+		],
+		"description": "right-sm"
+	},
+	"right md": {
+		"prefix": "right-md",
+		"body": [
+			"right-md"
+		],
+		"description": "right-md"
+	},
+	"right lg": {
+		"prefix": "right-lg",
+		"body": [
+			"right-lg"
+		],
+		"description": "right-lg"
+	},
+	"right xl": {
+		"prefix": "right-xl",
+		"body": [
+			"right-xl"
+		],
+		"description": "right-xl"
+	},
+	"right xxl": {
+		"prefix": "right-xxl",
+		"body": [
+			"right-xxl"
+		],
+		"description": "right-xxl"
+	},
+	"right xxxl": {
+		"prefix": "right-xxxl",
+		"body": [
+			"right-xxxl"
+		],
+		"description": "right-xxxl"
+	},
+	"right xxxxl": {
+		"prefix": "right-xxxxl",
+		"body": [
+			"right-xxxxl"
+		],
+		"description": "right-xxxxl"
+	},
+	"right xxxxs @xs": {
+		"prefix": "right-xxxxs@xs",
+		"body": [
+			"right-xxxxs@xs"
+		],
+		"description": "right-xxxxs@xs"
+	},
+	"right xxxs @xs": {
+		"prefix": "right-xxxs@xs",
+		"body": [
+			"right-xxxs@xs"
+		],
+		"description": "right-xxxs@xs"
+	},
+	"right xxs @xs": {
+		"prefix": "right-xxs@xs",
+		"body": [
+			"right-xxs@xs"
+		],
+		"description": "right-xxs@xs"
+	},
+	"right xs @xs": {
+		"prefix": "right-xs@xs",
+		"body": [
+			"right-xs@xs"
+		],
+		"description": "right-xs@xs"
+	},
+	"right sm @xs": {
+		"prefix": "right-sm@xs",
+		"body": [
+			"right-sm@xs"
+		],
+		"description": "right-sm@xs"
+	},
+	"right md @xs": {
+		"prefix": "right-md@xs",
+		"body": [
+			"right-md@xs"
+		],
+		"description": "right-md@xs"
+	},
+	"right lg @xs": {
+		"prefix": "right-lg@xs",
+		"body": [
+			"right-lg@xs"
+		],
+		"description": "right-lg@xs"
+	},
+	"right xl @xs": {
+		"prefix": "right-xl@xs",
+		"body": [
+			"right-xl@xs"
+		],
+		"description": "right-xl@xs"
+	},
+	"right xxl @xs": {
+		"prefix": "right-xxl@xs",
+		"body": [
+			"right-xxl@xs"
+		],
+		"description": "right-xxl@xs"
+	},
+	"right xxxl @xs": {
+		"prefix": "right-xxxl@xs",
+		"body": [
+			"right-xxxl@xs"
+		],
+		"description": "right-xxxl@xs"
+	},
+	"right xxxxl @xs": {
+		"prefix": "right-xxxxl@xs",
+		"body": [
+			"right-xxxxl@xs"
+		],
+		"description": "right-xxxxl@xs"
+	},
+	"right xxxxs @sm": {
+		"prefix": "right-xxxxs@sm",
+		"body": [
+			"right-xxxxs@sm"
+		],
+		"description": "right-xxxxs@sm"
+	},
+	"right xxxs @sm": {
+		"prefix": "right-xxxs@sm",
+		"body": [
+			"right-xxxs@sm"
+		],
+		"description": "right-xxxs@sm"
+	},
+	"right xxs @sm": {
+		"prefix": "right-xxs@sm",
+		"body": [
+			"right-xxs@sm"
+		],
+		"description": "right-xxs@sm"
+	},
+	"right xs @sm": {
+		"prefix": "right-xs@sm",
+		"body": [
+			"right-xs@sm"
+		],
+		"description": "right-xs@sm"
+	},
+	"right sm @sm": {
+		"prefix": "right-sm@sm",
+		"body": [
+			"right-sm@sm"
+		],
+		"description": "right-sm@sm"
+	},
+	"right md @sm": {
+		"prefix": "right-md@sm",
+		"body": [
+			"right-md@sm"
+		],
+		"description": "right-md@sm"
+	},
+	"right lg @sm": {
+		"prefix": "right-lg@sm",
+		"body": [
+			"right-lg@sm"
+		],
+		"description": "right-lg@sm"
+	},
+	"right xl @sm": {
+		"prefix": "right-xl@sm",
+		"body": [
+			"right-xl@sm"
+		],
+		"description": "right-xl@sm"
+	},
+	"right xxl @sm": {
+		"prefix": "right-xxl@sm",
+		"body": [
+			"right-xxl@sm"
+		],
+		"description": "right-xxl@sm"
+	},
+	"right xxxl @sm": {
+		"prefix": "right-xxxl@sm",
+		"body": [
+			"right-xxxl@sm"
+		],
+		"description": "right-xxxl@sm"
+	},
+	"right xxxxl @sm": {
+		"prefix": "right-xxxxl@sm",
+		"body": [
+			"right-xxxxl@sm"
+		],
+		"description": "right-xxxxl@sm"
+	},
+	"right xxxxs @md": {
+		"prefix": "right-xxxxs@md",
+		"body": [
+			"right-xxxxs@md"
+		],
+		"description": "right-xxxxs@md"
+	},
+	"right xxxs @md": {
+		"prefix": "right-xxxs@md",
+		"body": [
+			"right-xxxs@md"
+		],
+		"description": "right-xxxs@md"
+	},
+	"right xxs @md": {
+		"prefix": "right-xxs@md",
+		"body": [
+			"right-xxs@md"
+		],
+		"description": "right-xxs@md"
+	},
+	"right xs @md": {
+		"prefix": "right-xs@md",
+		"body": [
+			"right-xs@md"
+		],
+		"description": "right-xs@md"
+	},
+	"right sm @md": {
+		"prefix": "right-sm@md",
+		"body": [
+			"right-sm@md"
+		],
+		"description": "right-sm@md"
+	},
+	"right md @md": {
+		"prefix": "right-md@md",
+		"body": [
+			"right-md@md"
+		],
+		"description": "right-md@md"
+	},
+	"right lg @md": {
+		"prefix": "right-lg@md",
+		"body": [
+			"right-lg@md"
+		],
+		"description": "right-lg@md"
+	},
+	"right xl @md": {
+		"prefix": "right-xl@md",
+		"body": [
+			"right-xl@md"
+		],
+		"description": "right-xl@md"
+	},
+	"right xxl @md": {
+		"prefix": "right-xxl@md",
+		"body": [
+			"right-xxl@md"
+		],
+		"description": "right-xxl@md"
+	},
+	"right xxxl @md": {
+		"prefix": "right-xxxl@md",
+		"body": [
+			"right-xxxl@md"
+		],
+		"description": "right-xxxl@md"
+	},
+	"right xxxxl @md": {
+		"prefix": "right-xxxxl@md",
+		"body": [
+			"right-xxxxl@md"
+		],
+		"description": "right-xxxxl@md"
+	},
+	"right xxxxs @lg": {
+		"prefix": "right-xxxxs@lg",
+		"body": [
+			"right-xxxxs@lg"
+		],
+		"description": "right-xxxxs@lg"
+	},
+	"right xxxs @lg": {
+		"prefix": "right-xxxs@lg",
+		"body": [
+			"right-xxxs@lg"
+		],
+		"description": "right-xxxs@lg"
+	},
+	"right xxs @lg": {
+		"prefix": "right-xxs@lg",
+		"body": [
+			"right-xxs@lg"
+		],
+		"description": "right-xxs@lg"
+	},
+	"right xs @lg": {
+		"prefix": "right-xs@lg",
+		"body": [
+			"right-xs@lg"
+		],
+		"description": "right-xs@lg"
+	},
+	"right sm @lg": {
+		"prefix": "right-sm@lg",
+		"body": [
+			"right-sm@lg"
+		],
+		"description": "right-sm@lg"
+	},
+	"right md @lg": {
+		"prefix": "right-md@lg",
+		"body": [
+			"right-md@lg"
+		],
+		"description": "right-md@lg"
+	},
+	"right lg @lg": {
+		"prefix": "right-lg@lg",
+		"body": [
+			"right-lg@lg"
+		],
+		"description": "right-lg@lg"
+	},
+	"right xl @lg": {
+		"prefix": "right-xl@lg",
+		"body": [
+			"right-xl@lg"
+		],
+		"description": "right-xl@lg"
+	},
+	"right xxl @lg": {
+		"prefix": "right-xxl@lg",
+		"body": [
+			"right-xxl@lg"
+		],
+		"description": "right-xxl@lg"
+	},
+	"right xxxl @lg": {
+		"prefix": "right-xxxl@lg",
+		"body": [
+			"right-xxxl@lg"
+		],
+		"description": "right-xxxl@lg"
+	},
+	"right xxxxl @lg": {
+		"prefix": "right-xxxxl@lg",
+		"body": [
+			"right-xxxxl@lg"
+		],
+		"description": "right-xxxxl@lg"
+	},
+	"right xxxxs @xl": {
+		"prefix": "right-xxxxs@xl",
+		"body": [
+			"right-xxxxs@xl"
+		],
+		"description": "right-xxxxs@xl"
+	},
+	"right xxxs @xl": {
+		"prefix": "right-xxxs@xl",
+		"body": [
+			"right-xxxs@xl"
+		],
+		"description": "right-xxxs@xl"
+	},
+	"right xxs @xl": {
+		"prefix": "right-xxs@xl",
+		"body": [
+			"right-xxs@xl"
+		],
+		"description": "right-xxs@xl"
+	},
+	"right xs @xl": {
+		"prefix": "right-xs@xl",
+		"body": [
+			"right-xs@xl"
+		],
+		"description": "right-xs@xl"
+	},
+	"right sm @xl": {
+		"prefix": "right-sm@xl",
+		"body": [
+			"right-sm@xl"
+		],
+		"description": "right-sm@xl"
+	},
+	"right md @xl": {
+		"prefix": "right-md@xl",
+		"body": [
+			"right-md@xl"
+		],
+		"description": "right-md@xl"
+	},
+	"right lg @xl": {
+		"prefix": "right-lg@xl",
+		"body": [
+			"right-lg@xl"
+		],
+		"description": "right-lg@xl"
+	},
+	"right xl @xl": {
+		"prefix": "right-xl@xl",
+		"body": [
+			"right-xl@xl"
+		],
+		"description": "right-xl@xl"
+	},
+	"right xxl @xl": {
+		"prefix": "right-xxl@xl",
+		"body": [
+			"right-xxl@xl"
+		],
+		"description": "right-xxl@xl"
+	},
+	"right xxxl @xl": {
+		"prefix": "right-xxxl@xl",
+		"body": [
+			"right-xxxl@xl"
+		],
+		"description": "right-xxxl@xl"
+	},
+	"right xxxxl @xl": {
+		"prefix": "right-xxxxl@xl",
+		"body": [
+			"right-xxxxl@xl"
+		],
+		"description": "right-xxxxl@xl"
+	},
+	"left xxxxs": {
+		"prefix": "left-xxxxs",
+		"body": [
+			"left-xxxxs"
+		],
+		"description": "left-xxxxs"
+	},
+	"left xxxs": {
+		"prefix": "left-xxxs",
+		"body": [
+			"left-xxxs"
+		],
+		"description": "left-xxxs"
+	},
+	"left xxs": {
+		"prefix": "left-xxs",
+		"body": [
+			"left-xxs"
+		],
+		"description": "left-xxs"
+	},
+	"left xs": {
+		"prefix": "left-xs",
+		"body": [
+			"left-xs"
+		],
+		"description": "left-xs"
+	},
+	"left sm": {
+		"prefix": "left-sm",
+		"body": [
+			"left-sm"
+		],
+		"description": "left-sm"
+	},
+	"left md": {
+		"prefix": "left-md",
+		"body": [
+			"left-md"
+		],
+		"description": "left-md"
+	},
+	"left lg": {
+		"prefix": "left-lg",
+		"body": [
+			"left-lg"
+		],
+		"description": "left-lg"
+	},
+	"left xl": {
+		"prefix": "left-xl",
+		"body": [
+			"left-xl"
+		],
+		"description": "left-xl"
+	},
+	"left xxl": {
+		"prefix": "left-xxl",
+		"body": [
+			"left-xxl"
+		],
+		"description": "left-xxl"
+	},
+	"left xxxl": {
+		"prefix": "left-xxxl",
+		"body": [
+			"left-xxxl"
+		],
+		"description": "left-xxxl"
+	},
+	"left xxxxl": {
+		"prefix": "left-xxxxl",
+		"body": [
+			"left-xxxxl"
+		],
+		"description": "left-xxxxl"
+	},
+	"left xxxxs @xs": {
+		"prefix": "left-xxxxs@xs",
+		"body": [
+			"left-xxxxs@xs"
+		],
+		"description": "left-xxxxs@xs"
+	},
+	"left xxxs @xs": {
+		"prefix": "left-xxxs@xs",
+		"body": [
+			"left-xxxs@xs"
+		],
+		"description": "left-xxxs@xs"
+	},
+	"left xxs @xs": {
+		"prefix": "left-xxs@xs",
+		"body": [
+			"left-xxs@xs"
+		],
+		"description": "left-xxs@xs"
+	},
+	"left xs @xs": {
+		"prefix": "left-xs@xs",
+		"body": [
+			"left-xs@xs"
+		],
+		"description": "left-xs@xs"
+	},
+	"left sm @xs": {
+		"prefix": "left-sm@xs",
+		"body": [
+			"left-sm@xs"
+		],
+		"description": "left-sm@xs"
+	},
+	"left md @xs": {
+		"prefix": "left-md@xs",
+		"body": [
+			"left-md@xs"
+		],
+		"description": "left-md@xs"
+	},
+	"left lg @xs": {
+		"prefix": "left-lg@xs",
+		"body": [
+			"left-lg@xs"
+		],
+		"description": "left-lg@xs"
+	},
+	"left xl @xs": {
+		"prefix": "left-xl@xs",
+		"body": [
+			"left-xl@xs"
+		],
+		"description": "left-xl@xs"
+	},
+	"left xxl @xs": {
+		"prefix": "left-xxl@xs",
+		"body": [
+			"left-xxl@xs"
+		],
+		"description": "left-xxl@xs"
+	},
+	"left xxxl @xs": {
+		"prefix": "left-xxxl@xs",
+		"body": [
+			"left-xxxl@xs"
+		],
+		"description": "left-xxxl@xs"
+	},
+	"left xxxxl @xs": {
+		"prefix": "left-xxxxl@xs",
+		"body": [
+			"left-xxxxl@xs"
+		],
+		"description": "left-xxxxl@xs"
+	},
+	"left xxxxs @sm": {
+		"prefix": "left-xxxxs@sm",
+		"body": [
+			"left-xxxxs@sm"
+		],
+		"description": "left-xxxxs@sm"
+	},
+	"left xxxs @sm": {
+		"prefix": "left-xxxs@sm",
+		"body": [
+			"left-xxxs@sm"
+		],
+		"description": "left-xxxs@sm"
+	},
+	"left xxs @sm": {
+		"prefix": "left-xxs@sm",
+		"body": [
+			"left-xxs@sm"
+		],
+		"description": "left-xxs@sm"
+	},
+	"left xs @sm": {
+		"prefix": "left-xs@sm",
+		"body": [
+			"left-xs@sm"
+		],
+		"description": "left-xs@sm"
+	},
+	"left sm @sm": {
+		"prefix": "left-sm@sm",
+		"body": [
+			"left-sm@sm"
+		],
+		"description": "left-sm@sm"
+	},
+	"left md @sm": {
+		"prefix": "left-md@sm",
+		"body": [
+			"left-md@sm"
+		],
+		"description": "left-md@sm"
+	},
+	"left lg @sm": {
+		"prefix": "left-lg@sm",
+		"body": [
+			"left-lg@sm"
+		],
+		"description": "left-lg@sm"
+	},
+	"left xl @sm": {
+		"prefix": "left-xl@sm",
+		"body": [
+			"left-xl@sm"
+		],
+		"description": "left-xl@sm"
+	},
+	"left xxl @sm": {
+		"prefix": "left-xxl@sm",
+		"body": [
+			"left-xxl@sm"
+		],
+		"description": "left-xxl@sm"
+	},
+	"left xxxl @sm": {
+		"prefix": "left-xxxl@sm",
+		"body": [
+			"left-xxxl@sm"
+		],
+		"description": "left-xxxl@sm"
+	},
+	"left xxxxl @sm": {
+		"prefix": "left-xxxxl@sm",
+		"body": [
+			"left-xxxxl@sm"
+		],
+		"description": "left-xxxxl@sm"
+	},
+	"left xxxxs @md": {
+		"prefix": "left-xxxxs@md",
+		"body": [
+			"left-xxxxs@md"
+		],
+		"description": "left-xxxxs@md"
+	},
+	"left xxxs @md": {
+		"prefix": "left-xxxs@md",
+		"body": [
+			"left-xxxs@md"
+		],
+		"description": "left-xxxs@md"
+	},
+	"left xxs @md": {
+		"prefix": "left-xxs@md",
+		"body": [
+			"left-xxs@md"
+		],
+		"description": "left-xxs@md"
+	},
+	"left xs @md": {
+		"prefix": "left-xs@md",
+		"body": [
+			"left-xs@md"
+		],
+		"description": "left-xs@md"
+	},
+	"left sm @md": {
+		"prefix": "left-sm@md",
+		"body": [
+			"left-sm@md"
+		],
+		"description": "left-sm@md"
+	},
+	"left md @md": {
+		"prefix": "left-md@md",
+		"body": [
+			"left-md@md"
+		],
+		"description": "left-md@md"
+	},
+	"left lg @md": {
+		"prefix": "left-lg@md",
+		"body": [
+			"left-lg@md"
+		],
+		"description": "left-lg@md"
+	},
+	"left xl @md": {
+		"prefix": "left-xl@md",
+		"body": [
+			"left-xl@md"
+		],
+		"description": "left-xl@md"
+	},
+	"left xxl @md": {
+		"prefix": "left-xxl@md",
+		"body": [
+			"left-xxl@md"
+		],
+		"description": "left-xxl@md"
+	},
+	"left xxxl @md": {
+		"prefix": "left-xxxl@md",
+		"body": [
+			"left-xxxl@md"
+		],
+		"description": "left-xxxl@md"
+	},
+	"left xxxxl @md": {
+		"prefix": "left-xxxxl@md",
+		"body": [
+			"left-xxxxl@md"
+		],
+		"description": "left-xxxxl@md"
+	},
+	"left xxxxs @lg": {
+		"prefix": "left-xxxxs@lg",
+		"body": [
+			"left-xxxxs@lg"
+		],
+		"description": "left-xxxxs@lg"
+	},
+	"left xxxs @lg": {
+		"prefix": "left-xxxs@lg",
+		"body": [
+			"left-xxxs@lg"
+		],
+		"description": "left-xxxs@lg"
+	},
+	"left xxs @lg": {
+		"prefix": "left-xxs@lg",
+		"body": [
+			"left-xxs@lg"
+		],
+		"description": "left-xxs@lg"
+	},
+	"left xs @lg": {
+		"prefix": "left-xs@lg",
+		"body": [
+			"left-xs@lg"
+		],
+		"description": "left-xs@lg"
+	},
+	"left sm @lg": {
+		"prefix": "left-sm@lg",
+		"body": [
+			"left-sm@lg"
+		],
+		"description": "left-sm@lg"
+	},
+	"left md @lg": {
+		"prefix": "left-md@lg",
+		"body": [
+			"left-md@lg"
+		],
+		"description": "left-md@lg"
+	},
+	"left lg @lg": {
+		"prefix": "left-lg@lg",
+		"body": [
+			"left-lg@lg"
+		],
+		"description": "left-lg@lg"
+	},
+	"left xl @lg": {
+		"prefix": "left-xl@lg",
+		"body": [
+			"left-xl@lg"
+		],
+		"description": "left-xl@lg"
+	},
+	"left xxl @lg": {
+		"prefix": "left-xxl@lg",
+		"body": [
+			"left-xxl@lg"
+		],
+		"description": "left-xxl@lg"
+	},
+	"left xxxl @lg": {
+		"prefix": "left-xxxl@lg",
+		"body": [
+			"left-xxxl@lg"
+		],
+		"description": "left-xxxl@lg"
+	},
+	"left xxxxl @lg": {
+		"prefix": "left-xxxxl@lg",
+		"body": [
+			"left-xxxxl@lg"
+		],
+		"description": "left-xxxxl@lg"
+	},
+	"left xxxxs @xl": {
+		"prefix": "left-xxxxs@xl",
+		"body": [
+			"left-xxxxs@xl"
+		],
+		"description": "left-xxxxs@xl"
+	},
+	"left xxxs @xl": {
+		"prefix": "left-xxxs@xl",
+		"body": [
+			"left-xxxs@xl"
+		],
+		"description": "left-xxxs@xl"
+	},
+	"left xxs @xl": {
+		"prefix": "left-xxs@xl",
+		"body": [
+			"left-xxs@xl"
+		],
+		"description": "left-xxs@xl"
+	},
+	"left xs @xl": {
+		"prefix": "left-xs@xl",
+		"body": [
+			"left-xs@xl"
+		],
+		"description": "left-xs@xl"
+	},
+	"left sm @xl": {
+		"prefix": "left-sm@xl",
+		"body": [
+			"left-sm@xl"
+		],
+		"description": "left-sm@xl"
+	},
+	"left md @xl": {
+		"prefix": "left-md@xl",
+		"body": [
+			"left-md@xl"
+		],
+		"description": "left-md@xl"
+	},
+	"left lg @xl": {
+		"prefix": "left-lg@xl",
+		"body": [
+			"left-lg@xl"
+		],
+		"description": "left-lg@xl"
+	},
+	"left xl @xl": {
+		"prefix": "left-xl@xl",
+		"body": [
+			"left-xl@xl"
+		],
+		"description": "left-xl@xl"
+	},
+	"left xxl @xl": {
+		"prefix": "left-xxl@xl",
+		"body": [
+			"left-xxl@xl"
+		],
+		"description": "left-xxl@xl"
+	},
+	"left xxxl @xl": {
+		"prefix": "left-xxxl@xl",
+		"body": [
+			"left-xxxl@xl"
+		],
+		"description": "left-xxxl@xl"
+	},
+	"left xxxxl @xl": {
+		"prefix": "left-xxxxl@xl",
+		"body": [
+			"left-xxxxl@xl"
+		],
+		"description": "left-xxxxl@xl"
+	},
 	"overflow hidden": {
 		"prefix": "overflow-hidden",
 		"body": [
@@ -17246,6 +19192,146 @@
 			"overscroll-contain"
 		],
 		"description": "overscroll behavior contain"
+	},
+	"overflow hidden @xs": {
+		"prefix": "overflow-hidden@xs",
+		"body": [
+			"overflow-hidden@xs"
+		],
+		"description": "overflow hidden @xs"
+	},
+	"overflow auto @xs": {
+		"prefix": "overflow-auto@xs",
+		"body": [
+			"overflow-auto@xs"
+		],
+		"description": "overflow auto @xs"
+	},
+	"momentum scrolling @xs": {
+		"prefix": "momentum-scrolling@xs",
+		"body": [
+			"momentum-scrolling@xs"
+		],
+		"description": "iOS momentum scrolling @xs"
+	},
+	"overscroll contain @xs": {
+		"prefix": "overscroll-contain@xs",
+		"body": [
+			"overscroll-contain@xs"
+		],
+		"description": "overscroll behavior contain @xs"
+	},
+	"overflow hidden @sm": {
+		"prefix": "overflow-hidden@sm",
+		"body": [
+			"overflow-hidden@sm"
+		],
+		"description": "overflow hidden @sm"
+	},
+	"overflow auto @sm": {
+		"prefix": "overflow-auto@sm",
+		"body": [
+			"overflow-auto@sm"
+		],
+		"description": "overflow auto @sm"
+	},
+	"momentum scrolling @sm": {
+		"prefix": "momentum-scrolling@sm",
+		"body": [
+			"momentum-scrolling@sm"
+		],
+		"description": "iOS momentum scrolling @sm"
+	},
+	"overscroll contain @sm": {
+		"prefix": "overscroll-contain@sm",
+		"body": [
+			"overscroll-contain@sm"
+		],
+		"description": "overscroll behavior contain @sm"
+	},
+	"overflow hidden @md": {
+		"prefix": "overflow-hidden@md",
+		"body": [
+			"overflow-hidden@md"
+		],
+		"description": "overflow hidden @md"
+	},
+	"overflow auto @md": {
+		"prefix": "overflow-auto@md",
+		"body": [
+			"overflow-auto@md"
+		],
+		"description": "overflow auto @md"
+	},
+	"momentum scrolling @md": {
+		"prefix": "momentum-scrolling@md",
+		"body": [
+			"momentum-scrolling@md"
+		],
+		"description": "iOS momentum scrolling @md"
+	},
+	"overscroll contain @md": {
+		"prefix": "overscroll-contain@md",
+		"body": [
+			"overscroll-contain@md"
+		],
+		"description": "overscroll behavior contain @md"
+	},
+	"overflow hidden @lg": {
+		"prefix": "overflow-hidden@lg",
+		"body": [
+			"overflow-hidden@lg"
+		],
+		"description": "overflow hidden @lg"
+	},
+	"overflow auto @lg": {
+		"prefix": "overflow-auto@lg",
+		"body": [
+			"overflow-auto@lg"
+		],
+		"description": "overflow auto @lg"
+	},
+	"momentum scrolling @lg": {
+		"prefix": "momentum-scrolling@lg",
+		"body": [
+			"momentum-scrolling@lg"
+		],
+		"description": "iOS momentum scrolling @lg"
+	},
+	"overscroll contain @lg": {
+		"prefix": "overscroll-contain@lg",
+		"body": [
+			"overscroll-contain@lg"
+		],
+		"description": "overscroll behavior contain @lg"
+	},
+	"overflow hidden @xl": {
+		"prefix": "overflow-hidden@xl",
+		"body": [
+			"overflow-hidden@xl"
+		],
+		"description": "overflow hidden @xl"
+	},
+	"overflow auto @xl": {
+		"prefix": "overflow-auto@xl",
+		"body": [
+			"overflow-auto@xl"
+		],
+		"description": "overflow auto @xl"
+	},
+	"momentum scrolling @xl": {
+		"prefix": "momentum-scrolling@xl",
+		"body": [
+			"momentum-scrolling@xl"
+		],
+		"description": "iOS momentum scrolling @xl"
+	},
+	"overscroll contain @xl": {
+		"prefix": "overscroll-contain@xl",
+		"body": [
+			"overscroll-contain@xl"
+		],
+		"description": "overscroll behavior contain @xl"
 	},
 	"isolate": {
 		"prefix": "isolate",
@@ -17338,6 +19424,27 @@
 		],
 		"description": "translateY 50%"
 	},
+	"rotate 90": {
+		"prefix": "rotate-90",
+		"body": [
+			"rotate-90"
+		],
+		"description": "rotate 90deg"
+	},
+	"rotate 180": {
+		"prefix": "rotate-180",
+		"body": [
+			"rotate-180"
+		],
+		"description": "rotate 180deg"
+	},
+	"rotate 270": {
+		"prefix": "rotate-270",
+		"body": [
+			"rotate-270"
+		],
+		"description": "rotate 270deg"
+	},
 	"object contain": {
 		"prefix": "object-contain",
 		"body": [
@@ -17359,6 +19466,13 @@
 		],
 		"description": "aspect-ratio 16:9"
 	},
+	"aspect-ratio 3:2": {
+		"prefix": "aspect-ratio-3:2",
+		"body": [
+			"aspect-ratio-3:2"
+		],
+		"description": "aspect-ratio 3:2"
+	},
 	"aspect-ratio 4:3": {
 		"prefix": "aspect-ratio-4:3",
 		"body": [
@@ -17366,12 +19480,47 @@
 		],
 		"description": "aspect-ratio 4:3"
 	},
+	"aspect-ratio 5:4": {
+		"prefix": "aspect-ratio-5:4",
+		"body": [
+			"aspect-ratio-5:4"
+		],
+		"description": "aspect-ratio 5:4"
+	},
 	"aspect-ratio 1:1": {
 		"prefix": "aspect-ratio-1:1",
 		"body": [
 			"aspect-ratio-1:1"
 		],
 		"description": "aspect-ratio 1:1"
+	},
+	"aspect-ratio 4:5": {
+		"prefix": "aspect-ratio-4:5",
+		"body": [
+			"aspect-ratio-4:5"
+		],
+		"description": "aspect-ratio 4:5"
+	},
+	"aspect-ratio 3:4": {
+		"prefix": "aspect-ratio-3:4",
+		"body": [
+			"aspect-ratio-3:4"
+		],
+		"description": "aspect-ratio 3:4"
+	},
+	"aspect-ratio 2:3": {
+		"prefix": "aspect-ratio-2:3",
+		"body": [
+			"aspect-ratio-2:3"
+		],
+		"description": "aspect-ratio 2:3"
+	},
+	"aspect-ratio 9:16": {
+		"prefix": "aspect-ratio-9:16",
+		"body": [
+			"aspect-ratio-9:16"
+		],
+		"description": "aspect-ratio 9:16"
 	},
 	"perspective xs": {
 		"prefix": "perspective-xs",
@@ -17470,5 +19619,61 @@
 			"origin-bottom-left"
 		],
 		"description": "transform-origin bottom-left"
+	},
+	"fill currentColor": {
+		"prefix": "fill-current",
+		"body": [
+			"fill-current"
+		],
+		"description": "svg fill currentColor"
+	},
+	"stroke currentColor": {
+		"prefix": "stroke-current",
+		"body": [
+			"stroke-current"
+		],
+		"description": "svg stroke currentColor"
+	},
+	"stroke 1": {
+		"prefix": "stroke-1",
+		"body": [
+			"stroke-1"
+		],
+		"description": "svg stroke-width 1px"
+	},
+	"stroke 2": {
+		"prefix": "stroke-2",
+		"body": [
+			"stroke-2"
+		],
+		"description": "svg stroke-width 2px"
+	},
+	"stroke 3": {
+		"prefix": "stroke-3",
+		"body": [
+			"stroke-3"
+		],
+		"description": "svg stroke-width 3px"
+	},
+	"stroke 4": {
+		"prefix": "stroke-4",
+		"body": [
+			"stroke-4"
+		],
+		"description": "svg stroke-width 4px"
+	},
+	"visible": {
+		"prefix": "visible",
+		"body": [
+			"visible"
+		],
+		"description": " visibility visible"
+	},
+	"hidden": {
+		"prefix": "hidden",
+		"body": [
+			"hidden"
+		],
+		"description": " visibility hidden"
 	}
 }
