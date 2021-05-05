@@ -8945,6 +8945,13 @@
 		],
 		"description": "grid wrapper"
 	},
+	"gap 0": {
+		"prefix": "gap-0",
+		"body": [
+			"gap-0"
+		],
+		"description": "gap 0"
+	},
 	"gap xxxxs": {
 		"prefix": "gap-xxxxs",
 		"body": [
