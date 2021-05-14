@@ -12368,6 +12368,13 @@
 		],
 		"description": "display @lg"
 	},
+	"hide": {
+		"prefix": "hide",
+		"body": [
+			"hide"
+		],
+		"description": "display none"
+	},
 	"hide @xs": {
 		"prefix": "hide@xs",
 		"body": [
@@ -16624,6 +16631,48 @@
 		],
 		"description": "display inline @xl"
 	},
+	"display contents": {
+		"prefix": "contents",
+		"body": [
+			"contents"
+		],
+		"description": "display contents"
+	},
+  "display contents @xs": {
+		"prefix": "contents@xs",
+		"body": [
+			"contents@xs"
+		],
+		"description": "display contents @xs"
+	},
+  "display contents @sm": {
+		"prefix": "contents@sm",
+		"body": [
+			"contents@sm"
+		],
+		"description": "display contents @sm"
+	},
+  "display contents @md": {
+		"prefix": "contents@md",
+		"body": [
+			"contents@md"
+		],
+		"description": "display contents @md"
+	},
+  "display contents @lg": {
+		"prefix": "contents@lg",
+		"body": [
+			"contents@lg"
+		],
+		"description": "display contents @lg"
+	},
+  "display contents @xl": {
+		"prefix": "contents@xl",
+		"body": [
+			"contents@xl"
+		],
+		"description": "display contents @xl"
+	},
 	"space unit rem": {
 		"prefix": "space-unit-rem",
 		"body": [
@@ -19676,11 +19725,81 @@
 		],
 		"description": " visibility visible"
 	},
-	"hidden": {
-		"prefix": "hidden",
+	"invisible": {
+		"prefix": "invisible",
 		"body": [
-			"hidden"
+			"invisible"
 		],
 		"description": " visibility hidden"
+	},
+	"visible @xs": {
+		"prefix": "visible@xs",
+		"body": [
+			"visible@xs"
+		],
+		"description": " visibility visible @xs"
+	},
+	"invisible @xs": {
+		"prefix": "invisible@xs",
+		"body": [
+			"invisible@xs"
+		],
+		"description": " visibility hidden @xs"
+	},
+	"visible @sm": {
+		"prefix": "visible@sm",
+		"body": [
+			"visible@sm"
+		],
+		"description": " visibility visible @sm"
+	},
+	"invisible @sm": {
+		"prefix": "invisible@sm",
+		"body": [
+			"invisible@sm"
+		],
+		"description": " visibility hidden @sm"
+	},
+	"visible @md": {
+		"prefix": "visible@md",
+		"body": [
+			"visible@md"
+		],
+		"description": " visibility visible @md"
+	},
+	"invisible @md": {
+		"prefix": "invisible@md",
+		"body": [
+			"invisible@md"
+		],
+		"description": " visibility hidden @md"
+	},
+	"visible @lg": {
+		"prefix": "visible@lg",
+		"body": [
+			"visible@lg"
+		],
+		"description": " visibility visible @lg"
+	},
+	"invisible @lg": {
+		"prefix": "invisible@lg",
+		"body": [
+			"invisible@lg"
+		],
+		"description": " visibility hidden @lg"
+	},
+	"visible @xl": {
+		"prefix": "visible@xl",
+		"body": [
+			"visible@xl"
+		],
+		"description": " visibility visible @xl"
+	},
+	"invisible @xl": {
+		"prefix": "invisible@xl",
+		"body": [
+			"invisible@xl"
+		],
+		"description": " visibility hidden @xl"
 	}
 }
