@@ -2,7 +2,7 @@
   "name": "codyhouse-snippets",
 	"displayName": "CodyHouse Snippets",
 	"description": "CodyHouse Framework Snippets",
-	"version": "0.3.19",
+	"version": "0.4.0",
 	"publisher": "CodyHouse",
 	"categories": [
 		"Snippets"
@@ -49,6 +49,7 @@
   "icon": "logo.png",
   "keywords": [
     "codyhouse",
+    "codyframe",
     "scss",
     "css",
     "html",

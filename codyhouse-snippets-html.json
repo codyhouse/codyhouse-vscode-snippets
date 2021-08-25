@@ -4,7 +4,14 @@
 		"body": [
 			"sr-only"
 		],
-		"description": "Hide content visually, but keep it accessible to SR"
+		"description": "content made available only to screen readers"
+  },
+  "sr-only-focusable": {
+		"prefix": "sr-only-focusable",
+		"body": [
+			"sr-only-focusable"
+		],
+		"description": "focusable, visually hidden element"
   },
   "button": {
 		"prefix": "btn",
@@ -62,6 +69,48 @@
 		],
 		"description": "button size lg"
   },
+  "form control": {
+		"prefix": "form-control",
+		"body": [
+			"form-control"
+		],
+		"description": "basic form element style"
+	},
+  "form control error": {
+		"prefix": "form-control--error",
+		"body": [
+			"form-control--error"
+		],
+		"description": "form control error"
+	},
+  "form control disabled": {
+		"prefix": "form-control--disabled",
+		"body": [
+			"form-control--disabled"
+		],
+		"description": "form control disabled"
+	},
+	"form legend": {
+		"prefix": "form-legend",
+		"body": [
+			"form-legend"
+		],
+		"description": "form legend element"
+	},
+	"form label": {
+		"prefix": "form-label",
+		"body": [
+			"form-label"
+		],
+		"description": "form label element"
+	},
+  "container": {
+		"prefix": "container",
+		"body": [
+			"container"
+		],
+		"description": "center content on x-axis"
+	},
   "icon": {
 		"prefix": "icon",
 		"body": [
@@ -166,6 +215,13 @@
 			"flex-wrap"
 		],
 		"description": "flex-wrap: wrap"
+  },
+  "flex-nowrap": {
+		"prefix": "flex-nowrap",
+		"body": [
+			"flex-nowrap"
+		],
+		"description": "flex-wrap: nowrap"
   },
   "flex-column": {
 		"prefix": "flex-column",
@@ -300,6 +356,13 @@
 		],
 		"description": "flex-wrap: wrap @xs"
   },
+  "flex-nowrap@xs": {
+		"prefix": "flex-nowrap@xs",
+		"body": [
+			"flex-nowrap@xs"
+		],
+		"description": "flex-wrap: nowrap @xs"
+  },
   "flex-column@xs": {
 		"prefix": "flex-column@xs",
 		"body": [
@@ -432,6 +495,13 @@
 			"flex-wrap@sm"
 		],
 		"description": "flex-wrap: wrap @sm"
+  },
+  "flex-nowrap@sm": {
+		"prefix": "flex-nowrap@sm",
+		"body": [
+			"flex-nowrap@sm"
+		],
+		"description": "flex-wrap: nowrap @sm"
   },
   "flex-column@sm": {
 		"prefix": "flex-column@sm",
@@ -566,6 +636,13 @@
 		],
 		"description": "flex-wrap: wrap @md"
   },
+  "flex-nowrap@md": {
+		"prefix": "flex-nowrap@md",
+		"body": [
+			"flex-nowrap@md"
+		],
+		"description": "flex-wrap: nowrap @md"
+  },
   "flex-column@md": {
 		"prefix": "flex-column@md",
 		"body": [
@@ -699,6 +776,13 @@
 		],
 		"description": "flex-wrap: wrap @lg"
   },
+  "flex-nowrap@lg": {
+		"prefix": "flex-nowrap@lg",
+		"body": [
+			"flex-nowrap@lg"
+		],
+		"description": "flex-wrap: nowrap @lg"
+  },
   "flex-column@lg": {
 		"prefix": "flex-column@lg",
 		"body": [
@@ -831,6 +915,13 @@
 			"flex-wrap@xl"
 		],
 		"description": "flex-wrap: wrap @xl"
+  },
+  "flex-nowrap@xl": {
+		"prefix": "flex-nowrap@xl",
+		"body": [
+			"flex-nowrap@xl"
+		],
+		"description": "flex-wrap: nowrap @xl"
   },
   "flex-column@xl": {
 		"prefix": "flex-column@xl",
@@ -8784,48 +8875,6 @@
 		],
 		"description": "bottom vertical alignment"
 	},
-  "form control": {
-		"prefix": "form-control",
-		"body": [
-			"form-control"
-		],
-		"description": "basic form element style"
-	},
-  "form control error": {
-		"prefix": "form-control--error",
-		"body": [
-			"form-control--error"
-		],
-		"description": "form control error"
-	},
-  "form control disabled": {
-		"prefix": "form-control--disabled",
-		"body": [
-			"form-control--disabled"
-		],
-		"description": "form control disabled"
-	},
-	"form legend": {
-		"prefix": "form-legend",
-		"body": [
-			"form-legend"
-		],
-		"description": "form legend element"
-	},
-	"form label": {
-		"prefix": "form-label",
-		"body": [
-			"form-label"
-		],
-		"description": "form label element"
-	},
-	"container": {
-		"prefix": "container",
-		"body": [
-			"container"
-		],
-		"description": "set width and center content horizontally"
-	},
 	"max-width xxxxs": {
 		"prefix": "max-width-xxxxs",
 		"body": [
@@ -8910,6 +8959,468 @@
 		],
 		"description": "max-width 100%"
 	},
+	"max-width none": {
+		"prefix": "max-width-none",
+		"body": [
+			"max-width-none"
+		],
+		"description": "max-width none"
+	},
+	"max-width xxxxs @xs": {
+		"prefix": "max-width-xxxxs@xs",
+		"body": [
+			"max-width-xxxxs@xs"
+		],
+		"description": "max-width xxxxs @xs"
+	},
+	"max-width xxxs @xs": {
+		"prefix": "max-width-xxxs@xs",
+		"body": [
+			"max-width-xxxs@xs"
+		],
+		"description": "max-width xxxs @xs"
+	},
+	"max-width xxs @xs": {
+		"prefix": "max-width-xxs@xs",
+		"body": [
+			"max-width-xxs@xs"
+		],
+		"description": "max-width xxs @xs"
+	},
+	"max-width xs @xs": {
+		"prefix": "max-width-xs@xs",
+		"body": [
+			"max-width-xs@xs"
+		],
+		"description": "max-width xs @xs"
+	},
+	"max-width sm @xs": {
+		"prefix": "max-width-sm@xs",
+		"body": [
+			"max-width-sm@xs"
+		],
+		"description": "max-width sm @xs"
+	},
+	"max-width md @xs": {
+		"prefix": "max-width-md@xs",
+		"body": [
+			"max-width-md@xs"
+		],
+		"description": "max-width md @xs"
+	},
+	"max-width lg @xs": {
+		"prefix": "max-width-lg@xs",
+		"body": [
+			"max-width-lg@xs"
+		],
+		"description": "max-width lg @xs"
+	},
+	"max-width xl @xs": {
+		"prefix": "max-width-xl@xs",
+		"body": [
+			"max-width-xl@xs"
+		],
+		"description": "max-width xl @xs"
+	},
+	"max-width xxl @xs": {
+		"prefix": "max-width-xxl@xs",
+		"body": [
+			"max-width-xxl@xs"
+		],
+		"description": "max-width xxl @xs"
+	},
+	"max-width xxxl @xs": {
+		"prefix": "max-width-xxxl@xs",
+		"body": [
+			"max-width-xxxl@xs"
+		],
+		"description": "max-width xxxl @xs"
+	},
+	"max-width xxxxl @xs": {
+		"prefix": "max-width-xxxxl@xs",
+		"body": [
+			"max-width-xxxxl@xs"
+		],
+		"description": "max-width xxxxl @xs"
+	},
+	"max-width 100% @xs": {
+		"prefix": "max-width-100%@xs",
+		"body": [
+			"max-width-100%@xs"
+		],
+		"description": "max-width 100% @xs"
+	},
+	"max-width none @xs": {
+		"prefix": "max-width-none@xs",
+		"body": [
+			"max-width-none@xs"
+		],
+		"description": "max-width none @xs"
+	},
+	"max-width xxxxs @sm": {
+		"prefix": "max-width-xxxxs@sm",
+		"body": [
+			"max-width-xxxxs@sm"
+		],
+		"description": "max-width xxxxs @sm"
+	},
+	"max-width xxxs @sm": {
+		"prefix": "max-width-xxxs@sm",
+		"body": [
+			"max-width-xxxs@sm"
+		],
+		"description": "max-width xxxs @sm"
+	},
+	"max-width xxs @sm": {
+		"prefix": "max-width-xxs@sm",
+		"body": [
+			"max-width-xxs@sm"
+		],
+		"description": "max-width xxs @sm"
+	},
+	"max-width xs @sm": {
+		"prefix": "max-width-xs@sm",
+		"body": [
+			"max-width-xs@sm"
+		],
+		"description": "max-width xs @sm"
+	},
+	"max-width sm @sm": {
+		"prefix": "max-width-sm@sm",
+		"body": [
+			"max-width-sm@sm"
+		],
+		"description": "max-width sm @sm"
+	},
+	"max-width md @sm": {
+		"prefix": "max-width-md@sm",
+		"body": [
+			"max-width-md@sm"
+		],
+		"description": "max-width md @sm"
+	},
+	"max-width lg @sm": {
+		"prefix": "max-width-lg@sm",
+		"body": [
+			"max-width-lg@sm"
+		],
+		"description": "max-width lg @sm"
+	},
+	"max-width xl @sm": {
+		"prefix": "max-width-xl@sm",
+		"body": [
+			"max-width-xl@sm"
+		],
+		"description": "max-width xl @sm"
+	},
+	"max-width xxl @sm": {
+		"prefix": "max-width-xxl@sm",
+		"body": [
+			"max-width-xxl@sm"
+		],
+		"description": "max-width xxl @sm"
+	},
+	"max-width xxxl @sm": {
+		"prefix": "max-width-xxxl@sm",
+		"body": [
+			"max-width-xxxl@sm"
+		],
+		"description": "max-width xxxl @sm"
+	},
+	"max-width xxxxl @sm": {
+		"prefix": "max-width-xxxxl@sm",
+		"body": [
+			"max-width-xxxxl@sm"
+		],
+		"description": "max-width xxxxl @sm"
+	},
+	"max-width 100% @sm": {
+		"prefix": "max-width-100%@sm",
+		"body": [
+			"max-width-100%@sm"
+		],
+		"description": "max-width 100% @sm"
+	},
+	"max-width none @sm": {
+		"prefix": "max-width-none@sm",
+		"body": [
+			"max-width-none@sm"
+		],
+		"description": "max-width none @sm"
+	},
+	"max-width xxxxs @md": {
+		"prefix": "max-width-xxxxs@md",
+		"body": [
+			"max-width-xxxxs@md"
+		],
+		"description": "max-width xxxxs @md"
+	},
+	"max-width xxxs @md": {
+		"prefix": "max-width-xxxs@md",
+		"body": [
+			"max-width-xxxs@md"
+		],
+		"description": "max-width xxxs @md"
+	},
+	"max-width xxs @md": {
+		"prefix": "max-width-xxs@md",
+		"body": [
+			"max-width-xxs@md"
+		],
+		"description": "max-width xxs @md"
+	},
+	"max-width xs @md": {
+		"prefix": "max-width-xs@md",
+		"body": [
+			"max-width-xs@md"
+		],
+		"description": "max-width xs @md"
+	},
+	"max-width sm @md": {
+		"prefix": "max-width-sm@md",
+		"body": [
+			"max-width-sm@md"
+		],
+		"description": "max-width sm @md"
+	},
+	"max-width md @md": {
+		"prefix": "max-width-md@md",
+		"body": [
+			"max-width-md@md"
+		],
+		"description": "max-width md @md"
+	},
+	"max-width lg @md": {
+		"prefix": "max-width-lg@md",
+		"body": [
+			"max-width-lg@md"
+		],
+		"description": "max-width lg @md"
+	},
+	"max-width xl @md": {
+		"prefix": "max-width-xl@md",
+		"body": [
+			"max-width-xl@md"
+		],
+		"description": "max-width xl @md"
+	},
+	"max-width xxl @md": {
+		"prefix": "max-width-xxl@md",
+		"body": [
+			"max-width-xxl@md"
+		],
+		"description": "max-width xxl @md"
+	},
+	"max-width xxxl @md": {
+		"prefix": "max-width-xxxl@md",
+		"body": [
+			"max-width-xxxl@md"
+		],
+		"description": "max-width xxxl @md"
+	},
+	"max-width xxxxl @md": {
+		"prefix": "max-width-xxxxl@md",
+		"body": [
+			"max-width-xxxxl@md"
+		],
+		"description": "max-width xxxxl @md"
+	},
+	"max-width 100% @md": {
+		"prefix": "max-width-100%@md",
+		"body": [
+			"max-width-100%@md"
+		],
+		"description": "max-width 100% @md"
+	},
+	"max-width none @md": {
+		"prefix": "max-width-none@md",
+		"body": [
+			"max-width-none@md"
+		],
+		"description": "max-width none @md"
+	},
+	"max-width xxxxs @lg": {
+		"prefix": "max-width-xxxxs@lg",
+		"body": [
+			"max-width-xxxxs@lg"
+		],
+		"description": "max-width xxxxs @lg"
+	},
+	"max-width xxxs @lg": {
+		"prefix": "max-width-xxxs@lg",
+		"body": [
+			"max-width-xxxs@lg"
+		],
+		"description": "max-width xxxs @lg"
+	},
+	"max-width xxs @lg": {
+		"prefix": "max-width-xxs@lg",
+		"body": [
+			"max-width-xxs@lg"
+		],
+		"description": "max-width xxs @lg"
+	},
+	"max-width xs @lg": {
+		"prefix": "max-width-xs@lg",
+		"body": [
+			"max-width-xs@lg"
+		],
+		"description": "max-width xs @lg"
+	},
+	"max-width sm @lg": {
+		"prefix": "max-width-sm@lg",
+		"body": [
+			"max-width-sm@lg"
+		],
+		"description": "max-width sm @lg"
+	},
+	"max-width md @lg": {
+		"prefix": "max-width-md@lg",
+		"body": [
+			"max-width-md@lg"
+		],
+		"description": "max-width md @lg"
+	},
+	"max-width lg @lg": {
+		"prefix": "max-width-lg@lg",
+		"body": [
+			"max-width-lg@lg"
+		],
+		"description": "max-width lg @lg"
+	},
+	"max-width xl @lg": {
+		"prefix": "max-width-xl@lg",
+		"body": [
+			"max-width-xl@lg"
+		],
+		"description": "max-width xl @lg"
+	},
+	"max-width xxl @lg": {
+		"prefix": "max-width-xxl@lg",
+		"body": [
+			"max-width-xxl@lg"
+		],
+		"description": "max-width xxl @lg"
+	},
+	"max-width xxxl @lg": {
+		"prefix": "max-width-xxxl@lg",
+		"body": [
+			"max-width-xxxl@lg"
+		],
+		"description": "max-width xxxl @lg"
+	},
+	"max-width xxxxl @lg": {
+		"prefix": "max-width-xxxxl@lg",
+		"body": [
+			"max-width-xxxxl@lg"
+		],
+		"description": "max-width xxxxl @lg"
+	},
+	"max-width 100% @lg": {
+		"prefix": "max-width-100%@lg",
+		"body": [
+			"max-width-100%@lg"
+		],
+		"description": "max-width 100% @lg"
+	},
+	"max-width none @lg": {
+		"prefix": "max-width-none@lg",
+		"body": [
+			"max-width-none@lg"
+		],
+		"description": "max-width none @lg"
+	},
+	"max-width xxxxs @xl": {
+		"prefix": "max-width-xxxxs@xl",
+		"body": [
+			"max-width-xxxxs@xl"
+		],
+		"description": "max-width xxxxs @xl"
+	},
+	"max-width xxxs @xl": {
+		"prefix": "max-width-xxxs@xl",
+		"body": [
+			"max-width-xxxs@xl"
+		],
+		"description": "max-width xxxs @xl"
+	},
+	"max-width xxs @xl": {
+		"prefix": "max-width-xxs@xl",
+		"body": [
+			"max-width-xxs@xl"
+		],
+		"description": "max-width xxs @xl"
+	},
+	"max-width xs @xl": {
+		"prefix": "max-width-xs@xl",
+		"body": [
+			"max-width-xs@xl"
+		],
+		"description": "max-width xs @xl"
+	},
+	"max-width sm @xl": {
+		"prefix": "max-width-sm@xl",
+		"body": [
+			"max-width-sm@xl"
+		],
+		"description": "max-width sm @xl"
+	},
+	"max-width md @xl": {
+		"prefix": "max-width-md@xl",
+		"body": [
+			"max-width-md@xl"
+		],
+		"description": "max-width md @xl"
+	},
+	"max-width lg @xl": {
+		"prefix": "max-width-lg@xl",
+		"body": [
+			"max-width-lg@xl"
+		],
+		"description": "max-width lg @xl"
+	},
+	"max-width xl @xl": {
+		"prefix": "max-width-xl@xl",
+		"body": [
+			"max-width-xl@xl"
+		],
+		"description": "max-width xl @xl"
+	},
+	"max-width xxl @xl": {
+		"prefix": "max-width-xxl@xl",
+		"body": [
+			"max-width-xxl@xl"
+		],
+		"description": "max-width xxl @xl"
+	},
+	"max-width xxxl @xl": {
+		"prefix": "max-width-xxxl@xl",
+		"body": [
+			"max-width-xxxl@xl"
+		],
+		"description": "max-width xxxl @xl"
+	},
+	"max-width xxxxl @xl": {
+		"prefix": "max-width-xxxxl@xl",
+		"body": [
+			"max-width-xxxxl@xl"
+		],
+		"description": "max-width xxxxl @xl"
+	},
+	"max-width 100% @xl": {
+		"prefix": "max-width-100%@xl",
+		"body": [
+			"max-width-100%@xl"
+		],
+		"description": "max-width 100% @xl"
+	},
+	"max-width none @xl": {
+		"prefix": "max-width-none@xl",
+		"body": [
+			"max-width-none@xl"
+		],
+		"description": "max-width none @xl"
+	},
 	"max-width adaptive sm": {
 		"prefix": "max-width-adaptive-sm",
 		"body": [
@@ -8943,14 +9454,7 @@
 		"body": [
 			"grid"
 		],
-		"description": "grid wrapper"
-	},
-	"gap 0": {
-		"prefix": "gap-0",
-		"body": [
-			"gap-0"
-		],
-		"description": "gap 0"
+		"description": "grid component"
 	},
 	"gap xxxxs": {
 		"prefix": "gap-xxxxs",
@@ -9028,6 +9532,13 @@
 			"gap-xxxxl"
 		],
 		"description": "gap xxxxl"
+	},
+  "gap 0": {
+		"prefix": "gap-0",
+		"body": [
+			"gap-0"
+		],
+		"description": "gap 0"
 	},
 	"gap xxxxs @xs": {
 		"prefix": "gap-xxxxs@xs",
@@ -9526,6 +10037,13 @@
     ],
     "description": "gap-y xxxxl"
   },
+  "gap-y 0": {
+    "prefix": "gap-y-0",
+    "body": [
+      "gap-y-0"
+    ],
+    "description": "gap-y 0"
+  },
   "gap-y xxxxs @xs": {
     "prefix": "gap-y-xxxxs@xs",
     "body": [
@@ -10023,6 +10541,13 @@
     ],
     "description": "gap-x xxxxl"
   },
+  "gap-x 0": {
+    "prefix": "gap-x-0",
+    "body": [
+      "gap-x-0"
+    ],
+    "description": "gap-x 0"
+  },
   "gap-x xxxxs @xs": {
     "prefix": "gap-x-xxxxs@xs",
     "body": [
@@ -10442,6 +10967,510 @@
       "gap-x-0@xl"
     ],
     "description": "gap-x 0 @xl"
+  },
+  "grid-col 1": {
+    "prefix": "grid-col-1",
+    "body": [
+      "grid-col-1"
+    ],
+    "description": "1 column grid"
+  },
+  "grid-col 2": {
+    "prefix": "grid-col-2",
+    "body": [
+      "grid-col-2"
+    ],
+    "description": "2 columns grid"
+  },
+  "grid-col 3": {
+    "prefix": "grid-col-3",
+    "body": [
+      "grid-col-3"
+    ],
+    "description": "3 columns grid"
+  },
+  "grid-col 4": {
+    "prefix": "grid-col-4",
+    "body": [
+      "grid-col-4"
+    ],
+    "description": "4 columns grid"
+  },
+  "grid-col 5": {
+    "prefix": "grid-col-5",
+    "body": [
+      "grid-col-5"
+    ],
+    "description": "5 columns grid"
+  },
+  "grid-col 6": {
+    "prefix": "grid-col-6",
+    "body": [
+      "grid-col-6"
+    ],
+    "description": "6 columns grid"
+  },
+  "grid-col 7": {
+    "prefix": "grid-col-7",
+    "body": [
+      "grid-col-7"
+    ],
+    "description": "7 columns grid"
+  },
+  "grid-col 8": {
+    "prefix": "grid-col-8",
+    "body": [
+      "grid-col-8"
+    ],
+    "description": "8 columns grid"
+  },
+  "grid-col 9": {
+    "prefix": "grid-col-9",
+    "body": [
+      "grid-col-9"
+    ],
+    "description": "9 columns grid"
+  },
+  "grid-col 10": {
+    "prefix": "grid-col-10",
+    "body": [
+      "grid-col-10"
+    ],
+    "description": "10 columns grid"
+  },
+  "grid-col 11": {
+    "prefix": "grid-col-11",
+    "body": [
+      "grid-col-11"
+    ],
+    "description": "11 columns grid"
+  },
+  "grid-col 12": {
+    "prefix": "grid-col-12",
+    "body": [
+      "grid-col-12"
+    ],
+    "description": "12 columns grid"
+  },
+  "grid-col 1 @xs": {
+    "prefix": "grid-col-1@xs",
+    "body": [
+      "grid-col-1@xs"
+    ],
+    "description": "1 column grid @xs"
+  },
+  "grid-col 2 @xs": {
+    "prefix": "grid-col-2@xs",
+    "body": [
+      "grid-col-2@xs"
+    ],
+    "description": "2 columns grid @xs"
+  },
+  "grid-col 3 @xs": {
+    "prefix": "grid-col-3@xs",
+    "body": [
+      "grid-col-3@xs"
+    ],
+    "description": "3 columns grid @xs"
+  },
+  "grid-col 4 @xs": {
+    "prefix": "grid-col-4@xs",
+    "body": [
+      "grid-col-4@xs"
+    ],
+    "description": "4 columns grid @xs"
+  },
+  "grid-col 5 @xs": {
+    "prefix": "grid-col-5@xs",
+    "body": [
+      "grid-col-5@xs"
+    ],
+    "description": "5 columns grid @xs"
+  },
+  "grid-col 6 @xs": {
+    "prefix": "grid-col-6@xs",
+    "body": [
+      "grid-col-6@xs"
+    ],
+    "description": "6 columns grid @xs"
+  },
+  "grid-col 7 @xs": {
+    "prefix": "grid-col-7@xs",
+    "body": [
+      "grid-col-7@xs"
+    ],
+    "description": "7 columns grid @xs"
+  },
+  "grid-col 8 @xs": {
+    "prefix": "grid-col-8@xs",
+    "body": [
+      "grid-col-8@xs"
+    ],
+    "description": "8 columns grid @xs"
+  },
+  "grid-col 9 @xs": {
+    "prefix": "grid-col-9@xs",
+    "body": [
+      "grid-col-9@xs"
+    ],
+    "description": "9 columns grid @xs"
+  },
+  "grid-col 10 @xs": {
+    "prefix": "grid-col-10@xs",
+    "body": [
+      "grid-col-10@xs"
+    ],
+    "description": "10 columns grid @xs"
+  },
+  "grid-col 11 @xs": {
+    "prefix": "grid-col-11@xs",
+    "body": [
+      "grid-col-11@xs"
+    ],
+    "description": "11 columns grid @xs"
+  },
+  "grid-col 12 @xs": {
+    "prefix": "grid-col-12@xs",
+    "body": [
+      "grid-col-12@xs"
+    ],
+    "description": "12 columns grid @xs"
+  },
+  "grid-col 1 @sm": {
+    "prefix": "grid-col-1@sm",
+    "body": [
+      "grid-col-1@sm"
+    ],
+    "description": "1 column grid @sm"
+  },
+  "grid-col 2 @sm": {
+    "prefix": "grid-col-2@sm",
+    "body": [
+      "grid-col-2@sm"
+    ],
+    "description": "2 columns grid @sm"
+  },
+  "grid-col 3 @sm": {
+    "prefix": "grid-col-3@sm",
+    "body": [
+      "grid-col-3@sm"
+    ],
+    "description": "3 columns grid @sm"
+  },
+  "grid-col 4 @sm": {
+    "prefix": "grid-col-4@sm",
+    "body": [
+      "grid-col-4@sm"
+    ],
+    "description": "4 columns grid @sm"
+  },
+  "grid-col 5 @sm": {
+    "prefix": "grid-col-5@sm",
+    "body": [
+      "grid-col-5@sm"
+    ],
+    "description": "5 columns grid @sm"
+  },
+  "grid-col 6 @sm": {
+    "prefix": "grid-col-6@sm",
+    "body": [
+      "grid-col-6@sm"
+    ],
+    "description": "6 columns grid @sm"
+  },
+  "grid-col 7 @sm": {
+    "prefix": "grid-col-7@sm",
+    "body": [
+      "grid-col-7@sm"
+    ],
+    "description": "7 columns grid @sm"
+  },
+  "grid-col 8 @sm": {
+    "prefix": "grid-col-8@sm",
+    "body": [
+      "grid-col-8@sm"
+    ],
+    "description": "8 columns grid @sm"
+  },
+  "grid-col 9 @sm": {
+    "prefix": "grid-col-9@sm",
+    "body": [
+      "grid-col-9@sm"
+    ],
+    "description": "9 columns grid @sm"
+  },
+  "grid-col 10 @sm": {
+    "prefix": "grid-col-10@sm",
+    "body": [
+      "grid-col-10@sm"
+    ],
+    "description": "10 columns grid @sm"
+  },
+  "grid-col 11 @sm": {
+    "prefix": "grid-col-11@sm",
+    "body": [
+      "grid-col-11@sm"
+    ],
+    "description": "11 columns grid @sm"
+  },
+  "grid-col 12 @sm": {
+    "prefix": "grid-col-12@sm",
+    "body": [
+      "grid-col-12@sm"
+    ],
+    "description": "12 columns grid @sm"
+  },
+  "grid-col 1 @md": {
+    "prefix": "grid-col-1@md",
+    "body": [
+      "grid-col-1@md"
+    ],
+    "description": "1 column grid @md"
+  },
+  "grid-col 2 @md": {
+    "prefix": "grid-col-2@md",
+    "body": [
+      "grid-col-2@md"
+    ],
+    "description": "2 columns grid @md"
+  },
+  "grid-col 3 @md": {
+    "prefix": "grid-col-3@md",
+    "body": [
+      "grid-col-3@md"
+    ],
+    "description": "3 columns grid @md"
+  },
+  "grid-col 4 @md": {
+    "prefix": "grid-col-4@md",
+    "body": [
+      "grid-col-4@md"
+    ],
+    "description": "4 columns grid @md"
+  },
+  "grid-col 5 @md": {
+    "prefix": "grid-col-5@md",
+    "body": [
+      "grid-col-5@md"
+    ],
+    "description": "5 columns grid @md"
+  },
+  "grid-col 6 @md": {
+    "prefix": "grid-col-6@md",
+    "body": [
+      "grid-col-6@md"
+    ],
+    "description": "6 columns grid @md"
+  },
+  "grid-col 7 @md": {
+    "prefix": "grid-col-7@md",
+    "body": [
+      "grid-col-7@md"
+    ],
+    "description": "7 columns grid @md"
+  },
+  "grid-col 8 @md": {
+    "prefix": "grid-col-8@md",
+    "body": [
+      "grid-col-8@md"
+    ],
+    "description": "8 columns grid @md"
+  },
+  "grid-col 9 @md": {
+    "prefix": "grid-col-9@md",
+    "body": [
+      "grid-col-9@md"
+    ],
+    "description": "9 columns grid @md"
+  },
+  "grid-col 10 @md": {
+    "prefix": "grid-col-10@md",
+    "body": [
+      "grid-col-10@md"
+    ],
+    "description": "10 columns grid @md"
+  },
+  "grid-col 11 @md": {
+    "prefix": "grid-col-11@md",
+    "body": [
+      "grid-col-11@md"
+    ],
+    "description": "11 columns grid @md"
+  },
+  "grid-col 12 @md": {
+    "prefix": "grid-col-12@md",
+    "body": [
+      "grid-col-12@md"
+    ],
+    "description": "12 columns grid @md"
+  },
+  "grid-col 1 @lg": {
+    "prefix": "grid-col-1@lg",
+    "body": [
+      "grid-col-1@lg"
+    ],
+    "description": "1 column grid @lg"
+  },
+  "grid-col 2 @lg": {
+    "prefix": "grid-col-2@lg",
+    "body": [
+      "grid-col-2@lg"
+    ],
+    "description": "2 columns grid @lg"
+  },
+  "grid-col 3 @lg": {
+    "prefix": "grid-col-3@lg",
+    "body": [
+      "grid-col-3@lg"
+    ],
+    "description": "3 columns grid @lg"
+  },
+  "grid-col 4 @lg": {
+    "prefix": "grid-col-4@lg",
+    "body": [
+      "grid-col-4@lg"
+    ],
+    "description": "4 columns grid @lg"
+  },
+  "grid-col 5 @lg": {
+    "prefix": "grid-col-5@lg",
+    "body": [
+      "grid-col-5@lg"
+    ],
+    "description": "5 columns grid @lg"
+  },
+  "grid-col 6 @lg": {
+    "prefix": "grid-col-6@lg",
+    "body": [
+      "grid-col-6@lg"
+    ],
+    "description": "6 columns grid @lg"
+  },
+  "grid-col 7 @lg": {
+    "prefix": "grid-col-7@lg",
+    "body": [
+      "grid-col-7@lg"
+    ],
+    "description": "7 columns grid @lg"
+  },
+  "grid-col 8 @lg": {
+    "prefix": "grid-col-8@lg",
+    "body": [
+      "grid-col-8@lg"
+    ],
+    "description": "8 columns grid @lg"
+  },
+  "grid-col 9 @lg": {
+    "prefix": "grid-col-9@lg",
+    "body": [
+      "grid-col-9@lg"
+    ],
+    "description": "9 columns grid @lg"
+  },
+  "grid-col 10 @lg": {
+    "prefix": "grid-col-10@lg",
+    "body": [
+      "grid-col-10@lg"
+    ],
+    "description": "10 columns grid @lg"
+  },
+  "grid-col 11 @lg": {
+    "prefix": "grid-col-11@lg",
+    "body": [
+      "grid-col-11@lg"
+    ],
+    "description": "11 columns grid @lg"
+  },
+  "grid-col 12 @lg": {
+    "prefix": "grid-col-12@lg",
+    "body": [
+      "grid-col-12@lg"
+    ],
+    "description": "12 columns grid @lg"
+  },
+  "grid-col 1 @xl": {
+    "prefix": "grid-col-1@xl",
+    "body": [
+      "grid-col-1@xl"
+    ],
+    "description": "1 column grid @xl"
+  },
+  "grid-col 2 @xl": {
+    "prefix": "grid-col-2@xl",
+    "body": [
+      "grid-col-2@xl"
+    ],
+    "description": "2 columns grid @xl"
+  },
+  "grid-col 3 @xl": {
+    "prefix": "grid-col-3@xl",
+    "body": [
+      "grid-col-3@xl"
+    ],
+    "description": "3 columns grid @xl"
+  },
+  "grid-col 4 @xl": {
+    "prefix": "grid-col-4@xl",
+    "body": [
+      "grid-col-4@xl"
+    ],
+    "description": "4 columns grid @xl"
+  },
+  "grid-col 5 @xl": {
+    "prefix": "grid-col-5@xl",
+    "body": [
+      "grid-col-5@xl"
+    ],
+    "description": "5 columns grid @xl"
+  },
+  "grid-col 6 @xl": {
+    "prefix": "grid-col-6@xl",
+    "body": [
+      "grid-col-6@xl"
+    ],
+    "description": "6 columns grid @xl"
+  },
+  "grid-col 7 @xl": {
+    "prefix": "grid-col-7@xl",
+    "body": [
+      "grid-col-7@xl"
+    ],
+    "description": "7 columns grid @xl"
+  },
+  "grid-col 8 @xl": {
+    "prefix": "grid-col-8@xl",
+    "body": [
+      "grid-col-8@xl"
+    ],
+    "description": "8 columns grid @xl"
+  },
+  "grid-col 9 @xl": {
+    "prefix": "grid-col-9@xl",
+    "body": [
+      "grid-col-9@xl"
+    ],
+    "description": "9 columns grid @xl"
+  },
+  "grid-col 10 @xl": {
+    "prefix": "grid-col-10@xl",
+    "body": [
+      "grid-col-10@xl"
+    ],
+    "description": "10 columns grid @xl"
+  },
+  "grid-col 11 @xl": {
+    "prefix": "grid-col-11@xl",
+    "body": [
+      "grid-col-11@xl"
+    ],
+    "description": "11 columns grid @xl"
+  },
+  "grid-col 12 @xl": {
+    "prefix": "grid-col-12@xl",
+    "body": [
+      "grid-col-12@xl"
+    ],
+    "description": "12 columns grid @xl"
   },
 	"col": {
 		"prefix": "col",
@@ -12158,13 +13187,6 @@
 		],
 		"description": "font-weight 700"
 	},
-	"text-bold": {
-		"prefix": "text-bold",
-		"body": [
-			"text-bold"
-		],
-		"description": "font-weight 700"
-	},
 	"font-italic": {
 		"prefix": "font-italic",
 		"body": [
@@ -12368,47 +13390,12 @@
 		],
 		"description": "display @lg"
 	},
-	"hide": {
-		"prefix": "hide",
+	"display @xl": {
+		"prefix": "display@xl",
 		"body": [
-			"hide"
+			"display@xl"
 		],
-		"description": "display none"
-	},
-	"hide @xs": {
-		"prefix": "hide@xs",
-		"body": [
-			"hide@xs"
-		],
-		"description": "hide @xs"
-	},
-	"hide @sm": {
-		"prefix": "hide@sm",
-		"body": [
-			"hide@sm"
-		],
-		"description": "hide @sm"
-	},
-	"hide @md": {
-		"prefix": "hide@md",
-		"body": [
-			"hide@md"
-		],
-		"description": "hide @md"
-	},
-	"hide @lg": {
-		"prefix": "hide@lg",
-		"body": [
-			"hide@lg"
-		],
-		"description": "hide @lg"
-	},
-	"hide @xl": {
-		"prefix": "hide@xl",
-		"body": [
-			"hide@xl"
-		],
-		"description": "hide @xl"
+		"description": "display @xl"
 	},
 	"is visible": {
 		"prefix": "is-visible",
@@ -12450,14 +13437,7 @@
 		"body": [
 			"text-replace"
 		],
-		"description": "replace text with img"
-	},
-	"remove text wrapping": {
-		"prefix": "text-nowrap",
-		"body": [
-			"text-nowrap"
-		],
-		"description": "remove text wrapping"
+		"description": "replace text with an image"
 	},
 	"white-space no wrapping": {
 		"prefix": "ws-nowrap",
@@ -12641,47 +13621,47 @@
 		],
 		"description": "text-align right @xl"
 	},
-	"text-align 0": {
-		"prefix": "text-0",
+	"text-align justify": {
+		"prefix": "text-justify",
 		"body": [
-			"text-0"
+			"text-justify"
 		],
-		"description": "text-align 0"
+		"description": "text-align justify"
 	},
-	"text-align 0 @xs": {
-		"prefix": "text-0@xs",
+	"text-align justify @xs": {
+		"prefix": "text-justify@xs",
 		"body": [
-			"text-0@xs"
+			"text-justify@xs"
 		],
-		"description": "text-align 0 @xs"
+		"description": "text-align justify @xs"
 	},
-	"text-align 0 @sm": {
-		"prefix": "text-0@sm",
+	"text-align justify @sm": {
+		"prefix": "text-justify@sm",
 		"body": [
-			"text-0@sm"
+			"text-justify@sm"
 		],
-		"description": "text-align 0 @sm"
+		"description": "text-align justify @sm"
 	},
-	"text-align 0 @md": {
-		"prefix": "text-0@md",
+	"text-align justify @md": {
+		"prefix": "text-justify@md",
 		"body": [
-			"text-0@md"
+			"text-justify@md"
 		],
-		"description": "text-align 0 @md"
+		"description": "text-align justify @md"
 	},
-	"text-align 0 @lg": {
-		"prefix": "text-0@lg",
+	"text-align justify @lg": {
+		"prefix": "text-justify@lg",
 		"body": [
-			"text-0@lg"
+			"text-justify@lg"
 		],
-		"description": "text-align 0 @lg"
+		"description": "text-align justify @lg"
 	},
-	"text-align 0 @xl": {
-		"prefix": "text-0@xl",
+	"text-align justify @xl": {
+		"prefix": "text-justify@xl",
 		"body": [
-			"text-0@xl"
+			"text-justify@xl"
 		],
-		"description": "text-align 0 @xl"
+		"description": "text-align justify @xl"
 	},
 	"color inherit": {
 		"prefix": "color-inherit",
@@ -12690,12 +13670,40 @@
 		],
 		"description": "color inherit"
 	},
+	"color bg darker": {
+		"prefix": "color-bg-darker",
+		"body": [
+			"color-bg-darker"
+		],
+		"description": "color background darker"
+	},
+	"color bg dark": {
+		"prefix": "color-bg-dark",
+		"body": [
+			"color-bg-dark"
+		],
+		"description": "color background dark"
+	},
 	"color bg": {
 		"prefix": "color-bg",
 		"body": [
 			"color-bg"
 		],
 		"description": "color background"
+	},
+  "color bg light": {
+		"prefix": "color-bg-light",
+		"body": [
+			"color-bg-light"
+		],
+		"description": "color background light"
+	},
+  "color bg lighter": {
+		"prefix": "color-bg-lighter",
+		"body": [
+			"color-bg-lighter"
+		],
+		"description": "color background lighter"
 	},
 	"color contrast lower": {
 		"prefix": "color-contrast-lower",
@@ -15623,12 +16631,54 @@
 		],
 		"description": "set border-width equal to 4px"
 	},
+	"border-dotted": {
+		"prefix": "border-dotted",
+		"body": [
+			"border-dotted"
+		],
+		"description": "set border-width: dotted"
+	},
+	"border-dashed": {
+		"prefix": "border-dashed",
+		"body": [
+			"border-dashed"
+		],
+		"description": "set border-width: dashed"
+	},
+	"border background darker": {
+		"prefix": "border-bg-darker",
+		"body": [
+			"border-bg-darker"
+		],
+		"description": "set border-color equal --color-bg-darker"
+  },
+	"border background dark": {
+		"prefix": "border-bg-dark",
+		"body": [
+			"border-bg-dark"
+		],
+		"description": "set border-color equal --color-bg-dark"
+  },
 	"border background": {
 		"prefix": "border-bg",
 		"body": [
 			"border-bg"
 		],
-		"description": "set border-color equal to color-bg"
+		"description": "set border-color equal --color-bg"
+  },
+  "border background light": {
+		"prefix": "border-bg-light",
+		"body": [
+			"border-bg-light"
+		],
+		"description": "set border-color equal --color-bg-light"
+  },
+  "border background lighter": {
+		"prefix": "border-bg-lighter",
+		"body": [
+			"border-bg-lighter"
+		],
+		"description": "set border-color equal --color-bg-lighter"
   },
   "border contrast lower": {
 		"prefix": "border-contrast-lower",
@@ -15959,12 +17009,12 @@
 		],
 		"description": "border radius full"
 	},
-	"radius zero": {
+	"radius 0": {
 		"prefix": "radius-0",
 		"body": [
 			"radius-0"
 		],
-		"description": "border radius zero"
+		"description": "border radius 0"
   },
 	"radius top left 0": {
 		"prefix": "radius-top-left-0",
@@ -15993,6 +17043,13 @@
 			"radius-bottom-left-0"
 		],
 		"description": "radius bottom left 0"
+  },
+  "radius inherit": {
+		"prefix": "radius-inherit",
+		"body": [
+			"radius-inherit"
+		],
+		"description": "inherit border radius"
   },
   "shadow xs": {
 		"prefix": "shadow-xs",
@@ -16035,6 +17092,62 @@
 			"shadow-none"
 		],
 		"description": "box shadow none"
+  },
+	"inner glow 05%": {
+		"prefix": "inner-glow-05%",
+		"body": [
+			"inner-glow-05%"
+		],
+		"description": "inner glow 05%"
+  },
+	"inner glow 10%": {
+		"prefix": "inner-glow-10%",
+		"body": [
+			"inner-glow-10%"
+		],
+		"description": "inner glow 10%"
+  },
+	"inner glow 15%": {
+		"prefix": "inner-glow-15%",
+		"body": [
+			"inner-glow-15%"
+		],
+		"description": "inner glow 15%"
+  },
+	"inner glow 20%": {
+		"prefix": "inner-glow-20%",
+		"body": [
+			"inner-glow-20%"
+		],
+		"description": "inner glow 20%"
+  },
+	"inner top glow 05%": {
+		"prefix": "inner-glow-top-05%",
+		"body": [
+			"inner-glow-top-05%"
+		],
+		"description": "inner top glow 05%"
+  },
+	"inner top glow 10%": {
+		"prefix": "inner-glow-top-10%",
+		"body": [
+			"inner-glow-top-10%"
+		],
+		"description": "inner top glow 10%"
+  },
+	"inner top glow 15%": {
+		"prefix": "inner-glow-top-15%",
+		"body": [
+			"inner-glow-top-15%"
+		],
+		"description": "inner top glow 15%"
+  },
+	"inner top glow 20%": {
+		"prefix": "inner-glow-top-20%",
+		"body": [
+			"inner-glow-top-20%"
+		],
+		"description": "inner top glow 20%"
   },
   "line-height xs": {
 		"prefix": "line-height-xs",
@@ -16099,54 +17212,54 @@
 		],
 		"description": "line-height-1"
 	},
-  "vertical space xxs": {
-		"prefix": "v-space-xxs",
+  "text-component vertical space xxs": {
+		"prefix": "text-space-y-xxs",
 		"body": [
-			"v-space-xxs"
+			"text-space-y-xxs"
 		],
-		"description": "vertical space xxs"
+		"description": "text-component vertical space xxs"
 	},
-  "vertical space xs": {
-		"prefix": "v-space-xs",
+  "text-component vertical space xs": {
+		"prefix": "text-space-y-xs",
 		"body": [
-			"v-space-xs"
+			"text-space-y-xs"
 		],
-		"description": "vertical space xs"
+		"description": "text-component vertical space xs"
 	},
-  "vertical space sm": {
-		"prefix": "v-space-sm",
+  "text-component vertical space sm": {
+		"prefix": "text-space-y-sm",
 		"body": [
-			"v-space-sm"
+			"text-space-y-sm"
 		],
-		"description": "vertical space sm"
+		"description": "text-component vertical space sm"
 	},
-  "vertical space md": {
-		"prefix": "v-space-md",
+  "text-component vertical space md": {
+		"prefix": "text-space-y-md",
 		"body": [
-			"v-space-md"
+			"text-space-y-md"
 		],
-		"description": "vertical space md"
+		"description": "text-component vertical space md"
 	},
-  "vertical space lg": {
-		"prefix": "v-space-lg",
+  "text-component vertical space lg": {
+		"prefix": "text-space-y-lg",
 		"body": [
-			"v-space-lg"
+			"text-space-y-lg"
 		],
-		"description": "vertical space lg"
+		"description": "text-component vertical space lg"
 	},
-  "vertical space xl": {
-		"prefix": "v-space-xl",
+  "text-component vertical space xl": {
+		"prefix": "text-space-y-xl",
 		"body": [
-			"v-space-xl"
+			"text-space-y-xl"
 		],
-		"description": "vertical space xl"
+		"description": "text-component vertical space xl"
 	},
-  "vertical space xxl": {
-		"prefix": "v-space-xxl",
+  "text-component vertical space xxl": {
+		"prefix": "text-space-y-xxl",
 		"body": [
-			"v-space-xxl"
+			"text-space-y-xxl"
 		],
-		"description": "vertical space xxl"
+		"description": "text-component vertical space xxl"
   },
   "background transparent": {
 		"prefix": "bg-transparent",
@@ -16162,12 +17275,40 @@
 		],
 		"description": "background-color inherit"
 	},
+  "background darker": {
+		"prefix": "bg-darker",
+		"body": [
+			"bg-darker"
+		],
+		"description": "background-color darker"
+	},
+  "background dark": {
+		"prefix": "bg-dark",
+		"body": [
+			"bg-dark"
+		],
+		"description": "background-color dark"
+	},
   "background": {
 		"prefix": "bg",
 		"body": [
 			"bg"
 		],
 		"description": "background-color base"
+	},
+  "background light": {
+		"prefix": "bg-light",
+		"body": [
+			"bg-light"
+		],
+		"description": "background-color light"
+	},
+  "background lighter": {
+		"prefix": "bg-lighter",
+		"body": [
+			"bg-lighter"
+		],
+		"description": "background-color lighter"
 	},
   "background contrast lower": {
 		"prefix": "bg-contrast-lower",
@@ -16477,6 +17618,62 @@
 		],
 		"description": "background position center"
 	},
+	"background position top": {
+		"prefix": "bg-top",
+		"body": [
+			"bg-top"
+		],
+		"description": "background position top"
+	},
+	"background position right": {
+		"prefix": "bg-right",
+		"body": [
+			"bg-right"
+		],
+		"description": "background position right"
+	},
+	"background position bottom": {
+		"prefix": "bg-bottom",
+		"body": [
+			"bg-bottom"
+		],
+		"description": "background position bottom"
+	},
+	"background position left": {
+		"prefix": "bg-left",
+		"body": [
+			"bg-left"
+		],
+		"description": "background position left"
+	},
+	"background position top-left": {
+		"prefix": "bg-top-left",
+		"body": [
+			"bg-top-left"
+		],
+		"description": "background position top-left"
+	},
+	"background position top-right": {
+		"prefix": "bg-top-right",
+		"body": [
+			"bg-top-right"
+		],
+		"description": "background position top-right"
+	},
+	"background position bottom-left": {
+		"prefix": "bg-bottom-left",
+		"body": [
+			"bg-bottom-left"
+		],
+		"description": "background position bottom-left"
+	},
+	"background position bottom-right": {
+		"prefix": "bg-bottom-right",
+		"body": [
+			"bg-bottom-right"
+		],
+		"description": "background position bottom-right"
+	},
 	"background no-repeat": {
 		"prefix": "bg-no-repeat",
 		"body": [
@@ -16672,6 +17869,48 @@
 			"contents@xl"
 		],
 		"description": "display contents @xl"
+	},
+  "hide": {
+		"prefix": "hide",
+		"body": [
+			"hide"
+		],
+		"description": "display none"
+	},
+	"hide @xs": {
+		"prefix": "hide@xs",
+		"body": [
+			"hide@xs"
+		],
+		"description": "hide @xs"
+	},
+	"hide @sm": {
+		"prefix": "hide@sm",
+		"body": [
+			"hide@sm"
+		],
+		"description": "hide @sm"
+	},
+	"hide @md": {
+		"prefix": "hide@md",
+		"body": [
+			"hide@md"
+		],
+		"description": "hide @md"
+	},
+	"hide @lg": {
+		"prefix": "hide@lg",
+		"body": [
+			"hide@lg"
+		],
+		"description": "hide @lg"
+	},
+	"hide @xl": {
+		"prefix": "hide@xl",
+		"body": [
+			"hide@xl"
+		],
+		"description": "hide @xl"
 	},
 	"space unit rem": {
 		"prefix": "space-unit-rem",

@@ -61,7 +61,7 @@
   "Define Color Variable": {
 		"prefix": "defineColorHSL",
 		"body": [
-			"@include defineColorHSL(--${1}, ${2:220}, ${3:90}%, ${4:36}%);"
+			"@include defineColorHSL(--${1}, ${2:250}, ${3:84}%, ${4:54}%);"
 		],
 		"description": "Define color variable"
 	},
@@ -254,12 +254,40 @@
 		],
 		"description": "color warning lighter"
   },
+  "color background darker": {
+		"prefix": "--color-bg-darker",
+		"body": [
+			"var(--color-bg-darker)"
+		],
+		"description": "color background darker"
+  },
+  "color background dark": {
+		"prefix": "--color-bg-dark",
+		"body": [
+			"var(--color-bg-dark)"
+		],
+		"description": "color background dark"
+  },
   "color background": {
 		"prefix": "--color-bg",
 		"body": [
 			"var(--color-bg)"
 		],
 		"description": "color background"
+  },
+  "color background light": {
+		"prefix": "--color-bg-light",
+		"body": [
+			"var(--color-bg-light)"
+		],
+		"description": "color background light"
+  },
+  "color background lighter": {
+		"prefix": "--color-bg-lighter",
+		"body": [
+			"var(--color-bg-lighter)"
+		],
+		"description": "color background lighter"
   },
   "color contrast lower": {
 		"prefix": "--color-contrast-lower",
@@ -301,7 +329,7 @@
 		"body": [
 			"@include fontSmooth;"
 		],
-		"description": "edit font rendering"
+		"description": "smooth font rendering"
   },
   "lhCrop": {
 		"prefix": "lhCrop",
@@ -350,14 +378,14 @@
 		"body": [
 			"@include spaceUnit(${1:spaceUnit});"
 		],
-		"description": "set new space unit"
+		"description": "edit space unit on a component level"
 	},
 	"textUnit": {
 		"prefix": "textUnit",
 		"body": [
 			"@include textUnit(${1:textUnit});"
 		],
-		"description": "set new text unit and type scale"
+		"description": "edit text unit on a component level"
   },
   "ease-out-back timing function": {
 		"prefix": "--ease-out-back timing function",
@@ -530,30 +558,30 @@
   "body line-height": {
 		"prefix": "--body-line-height",
 		"body": [
-			"var(--body-line-height)"
+			"--body-line-height"
 		],
 		"description": "body line-height"
 	},
 	"heading line-height": {
 		"prefix": "--heading-line-height",
 		"body": [
-			"var(--heading-line-height)"
+			"--heading-line-height"
 		],
-		"description": "headings line-height"
+		"description": "heading line-height"
 	},
 	"line-height multiplier": {
 		"prefix": "--line-height-multiplier",
 		"body": [
-			"var(--line-height-multiplier)"
+			"--line-height-multiplier"
 		],
-		"description": "modify line-height of text elements"
+		"description": "modify the line-height of text elements"
 	},
-	"text vertical space multiplier": {
-		"prefix": "--text-vspace-multiplier",
+	"text-component vertical space multiplier": {
+		"prefix": "--text-space-y-multiplier",
 		"body": [
-			"var(--text-vspace-multiplier)"
+			"--text-space-y-multiplier"
 		],
-		"description": "modify margins of text elements"
+		"description": "modify block margins of text components"
 	},
 	"primary font-family": {
 		"prefix": "--font-primary",
@@ -569,12 +597,12 @@
 		],
 		"description": "body font-size"
 	},
-	"type scale": {
+	"type scale multiplier": {
 		"prefix": "--text-scale-ratio",
 		"body": [
 			"var(--text-scale-ratio)"
 		],
-		"description": "control type scale"
+		"description": "type scale multiplier"
 	},
 	"text xs": {
 		"prefix": "--text-xs",
@@ -625,6 +653,13 @@
 		],
 		"description": "text size xxxl"
 	},
+	"text xxxxl": {
+		"prefix": "--text-xxxxl",
+		"body": [
+			"var(--text-xxxxl)"
+		],
+		"description": "text size xxxxl"
+	},
 	"display value": {
 		"prefix": "--display",
 		"body": [
@@ -633,30 +668,30 @@
 		"description": "display value for .is-visible/.is-hidden"
 	},
 	"z-index header": {
-		"prefix": "--zindex-header",
+		"prefix": "--z-index-header",
 		"body": [
-			"var(--zindex-header)"
+			"var(--z-index-header)"
 		],
 		"description": "z-index header"
 	},
 	"z-index popover": {
-		"prefix": "--zindex-popover",
+		"prefix": "--z-index-popover",
 		"body": [
-			"var(--zindex-popover)"
+			"var(--z-index-popover)"
 		],
 		"description": "z-index popover elements"
 	},
 	"z-index fixed": {
-		"prefix": "--zindex-fixed-element",
+		"prefix": "--z-index-fixed-element",
 		"body": [
-			"var(--zindex-fixed-element)"
+			"var(--z-index-fixed-element)"
 		],
 		"description": "z-index fixed elements"
 	},
 	"z-index overlay": {
-		"prefix": "--zindex-overlay",
+		"prefix": "--z-index-overlay",
 		"body": [
-			"var(--zindex-overlay)"
+			"var(--z-index-overlay)"
 		],
 		"description": "z-index overlay elements"
 	},
@@ -665,77 +700,77 @@
 		"body": [
 			"var(--max-width-xxxxs)"
 		],
-		"description": "max-width 320px"
+		"description": "max-width xxxxs"
 	},
 	"max-width xxxs": {
 		"prefix": "--max-width-xxxs",
 		"body": [
 			"var(--max-width-xxxs)"
 		],
-		"description": "max-width 416px"
+		"description": "max-width xxxs"
 	},
 	"max-width xxs": {
 		"prefix": "--max-width-xxs",
 		"body": [
 			"var(--max-width-xxs)"
 		],
-		"description": "max-width 512px"
+		"description": "max-width xxs"
 	},
 	"max-width xs": {
 		"prefix": "--max-width-xs",
 		"body": [
 			"var(--max-width-xs)"
 		],
-		"description": "max-width 608px"
+		"description": "max-width xs"
 	},
 	"max-width sm": {
 		"prefix": "--max-width-sm",
 		"body": [
 			"var(--max-width-sm)"
 		],
-		"description": "max-width 768pxx"
+		"description": "max-width sm"
 	},
 	"max-width md": {
 		"prefix": "--max-width-md",
 		"body": [
 			"var(--max-width-md)"
 		],
-		"description": "max-width 1024px"
+		"description": "max-width md"
 	},
 	"max-width lg": {
 		"prefix": "--max-width-lg",
 		"body": [
 			"var(--max-width-lg)"
 		],
-		"description": "max-width 1280px"
+		"description": "max-width lg"
 	},
 	"max-width xl": {
 		"prefix": "--max-width-xl",
 		"body": [
 			"var(--max-width-xl)"
 		],
-		"description": "max-width 1440px"
+		"description": "max-width xl"
 	},
 	"max-width xxl": {
 		"prefix": "--max-width-xxl",
 		"body": [
 			"var(--max-width-xxl)"
 		],
-		"description": "max-width 1600px"
+		"description": "max-width xxl"
 	},
 	"max-width xxxl": {
 		"prefix": "--max-width-xxxl",
 		"body": [
 			"var(--max-width-xxxl)"
 		],
-		"description": "max-width 1920px"
+		"description": "max-width xxxl"
 	},
 	"max-width xxxxl": {
 		"prefix": "--max-width-xxxxl",
 		"body": [
 			"var(--max-width-xxxxl)"
 		],
-		"description": "max-width 2400px"
+		"description": "max-width xxxxl"
 	},
 	"space unit": {
 		"prefix": "--space-unit",
@@ -750,5 +785,96 @@
 			"--text-unit"
 		],
 		"description": "text unit variable"
-  }
+  },
+	"gap": {
+		"prefix": "--gap",
+		"body": [
+			"--gap"
+		],
+		"description": "grid gap"
+  },
+	"gap-y": {
+		"prefix": "--gap-y",
+		"body": [
+			"--gap-y"
+		],
+		"description": "grid gap y"
+  },
+	"gap-x": {
+		"prefix": "--gap-x",
+		"body": [
+			"--gap-x"
+		],
+		"description": "grid gap x"
+  },
+	"grid columns": {
+		"prefix": "--grid-columns",
+		"body": [
+			"--grid-columns"
+		],
+		"description": "set number of grid columns"
+  },
+  "icon xxxs": {
+		"prefix": "--icon-xxxs",
+		"body": [
+			"var(--icon-xxxs)"
+		],
+		"description": "icon size xxxs"
+	},
+  "icon xxs": {
+		"prefix": "--icon-xxs",
+		"body": [
+			"var(--icon-xxs)"
+		],
+		"description": "icon size xxs"
+	},
+  "icon xs": {
+		"prefix": "--icon-xs",
+		"body": [
+			"var(--icon-xs)"
+		],
+		"description": "icon size xs"
+	},
+  "icon sm": {
+		"prefix": "--icon-sm",
+		"body": [
+			"var(--icon-sm)"
+		],
+		"description": "icon size sm"
+	},
+  "icon md": {
+		"prefix": "--icon-md",
+		"body": [
+			"var(--icon-md)"
+		],
+		"description": "icon size md"
+	},
+  "icon lg": {
+		"prefix": "--icon-lg",
+		"body": [
+			"var(--icon-lg)"
+		],
+		"description": "icon size lg"
+	},
+  "icon xl": {
+		"prefix": "--icon-xl",
+		"body": [
+			"var(--icon-xl)"
+		],
+		"description": "icon size xl"
+	},
+  "icon xxl": {
+		"prefix": "--icon-xxl",
+		"body": [
+			"var(--icon-xxl)"
+		],
+		"description": "icon size xxl"
+	},
+  "icon xxxl": {
+		"prefix": "--icon-xxxl",
+		"body": [
+			"var(--icon-xxxl)"
+		],
+		"description": "icon size xxxl"
+	}
 }
