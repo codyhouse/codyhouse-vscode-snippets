@@ -17093,61 +17093,19 @@
 		],
 		"description": "box shadow none"
   },
-	"inner glow 05%": {
-		"prefix": "inner-glow-05%",
+	"inner glow": {
+		"prefix": "inner-glow",
 		"body": [
-			"inner-glow-05%"
+			"inner-glow"
 		],
-		"description": "inner glow 05%"
+		"description": "inner glow"
   },
-	"inner glow 10%": {
-		"prefix": "inner-glow-10%",
+	"inner glow top": {
+		"prefix": "inner-glow-top",
 		"body": [
-			"inner-glow-10%"
+			"inner-glow-top"
 		],
-		"description": "inner glow 10%"
-  },
-	"inner glow 15%": {
-		"prefix": "inner-glow-15%",
-		"body": [
-			"inner-glow-15%"
-		],
-		"description": "inner glow 15%"
-  },
-	"inner glow 20%": {
-		"prefix": "inner-glow-20%",
-		"body": [
-			"inner-glow-20%"
-		],
-		"description": "inner glow 20%"
-  },
-	"inner top glow 05%": {
-		"prefix": "inner-glow-top-05%",
-		"body": [
-			"inner-glow-top-05%"
-		],
-		"description": "inner top glow 05%"
-  },
-	"inner top glow 10%": {
-		"prefix": "inner-glow-top-10%",
-		"body": [
-			"inner-glow-top-10%"
-		],
-		"description": "inner top glow 10%"
-  },
-	"inner top glow 15%": {
-		"prefix": "inner-glow-top-15%",
-		"body": [
-			"inner-glow-top-15%"
-		],
-		"description": "inner top glow 15%"
-  },
-	"inner top glow 20%": {
-		"prefix": "inner-glow-top-20%",
-		"body": [
-			"inner-glow-top-20%"
-		],
-		"description": "inner top glow 20%"
+		"description": "inner glow top"
   },
   "line-height xs": {
 		"prefix": "line-height-xs",
