@@ -471,6 +471,20 @@
 		],
 		"description": "shadow size xl"
   },
+  "inner glow": {
+		"prefix": "--inner-glow",
+		"body": [
+			"var(--inner-glow)"
+		],
+		"description": "inner glow"
+  },
+  "inner glow top": {
+		"prefix": "--inner-glow-top",
+		"body": [
+			"var(--inner-glow-top)"
+		],
+		"description": "inner glow top"
+  },
   "space xxxxs": {
 		"prefix": "--space-xxxxs",
 		"body": [
@@ -785,27 +799,6 @@
 			"--text-unit"
 		],
 		"description": "text unit variable"
-  },
-	"gap": {
-		"prefix": "--gap",
-		"body": [
-			"--gap"
-		],
-		"description": "grid gap"
-  },
-	"gap-y": {
-		"prefix": "--gap-y",
-		"body": [
-			"--gap-y"
-		],
-		"description": "grid gap y"
-  },
-	"gap-x": {
-		"prefix": "--gap-x",
-		"body": [
-			"--gap-x"
-		],
-		"description": "grid gap x"
   },
 	"grid columns": {
 		"prefix": "--grid-columns",

@@ -20887,28 +20887,28 @@
 		],
 		"description": "svg stroke currentColor"
 	},
-	"stroke 1": {
+	"stroke 1px": {
 		"prefix": "stroke-1",
 		"body": [
 			"stroke-1"
 		],
 		"description": "svg stroke-width 1px"
 	},
-	"stroke 2": {
+	"stroke 2px": {
 		"prefix": "stroke-2",
 		"body": [
 			"stroke-2"
 		],
 		"description": "svg stroke-width 2px"
 	},
-	"stroke 3": {
+	"stroke 3px": {
 		"prefix": "stroke-3",
 		"body": [
 			"stroke-3"
 		],
 		"description": "svg stroke-width 3px"
 	},
-	"stroke 4": {
+	"stroke 4px": {
 		"prefix": "stroke-4",
 		"body": [
 			"stroke-4"
