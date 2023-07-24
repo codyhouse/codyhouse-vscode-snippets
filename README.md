@@ -1,7 +1,5 @@
 # CodyFrame v3 (older framework version) Snippets
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/CodyHouse.codyhouse-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=CodyHouse.codyhouse-snippets)
-
 CodyFrame v3 snippets for VSCode.
 
 CodyFrame v4 snippets → [codyhouse.co/vs-code-snippets](https://codyhouse.co/vs-code-snippets)
