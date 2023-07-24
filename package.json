@@ -1,8 +1,8 @@
 {
   "name": "codyhouse-snippets",
-	"displayName": "CodyHouse Snippets",
-	"description": "CodyHouse Framework Snippets",
-	"version": "0.4.0",
+	"displayName": "CodyHouse Framework v3 (old version) Snippets",
+	"description": "CodyHouse Framework v3 autocomplete for HTML and CSS",
+	"version": "0.4.1",
 	"publisher": "CodyHouse",
 	"categories": [
 		"Snippets"

@@ -1,8 +1,10 @@
-# CodyFrame Snippets
+# CodyFrame v3 (older framework version) Snippets
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/CodyHouse.codyhouse-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=CodyHouse.codyhouse-snippets)
 
-[CodyFrame](https://codyhouse.co/ds/docs/framework) snippets for Visual Studio Code.
+CodyFrame v3 snippets for VSCode.
+
+CodyFrame v4 snippets → [codyhouse.co/vs-code-snippets](https://codyhouse.co/vs-code-snippets)
 
 The extension provides autocompletion for `HTML` (utility classes), `SCSS` (custom properties and mixins), and `JS` utility functions.
 
